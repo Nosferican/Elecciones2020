@@ -1,0 +1,22 @@
+name = "EleccionesGenerales2020"
+uuid = "9363d475-b955-42c8-bf88-564d8d0ef229"
+authors = ["José Bayoán Santiago Calderón <naoyabpr@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Cascadia = "54eefc05-d75b-58de-a785-1a3403f0919f"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+LibPQ = "194296ae-ab2e-5f79-8cd4-7183a0a5a0d1"
+PDFIO = "4d0d745f-9d9a-592e-8d18-1ad8a0f42b92"
+WebDriver = "05625dda-b54a-434a-8c43-5c7937dfa4f0"
+
+[compat]
+julia = "1.6"
+CSV = "0.8"
+Cascadia = "1"
+DataFrames = "0.21"
+LibPQ = "1"
+PDFIO = "0.1"
+WebDriver = "0.1"

@@ -1,0 +1,1366 @@
+county,precinct,pollingstation,stationtype,name,address,regular,added
+San Juan,1,1,Esc.,Albert Einstein,"Cll Haydee Rexach, Esq. Ave. Borinquen",2,1
+San Juan,1,2,Esc.,Abraham Lincoln,"351, Calle Sol, Viejo San Juan",4,1
+San Juan,1,3,Esc.,Dr. José Celso Barbosa,"Parada 4 !/2, Ave Ponce de León, Viejo San Juan",4,1
+San Juan,1,4,Col.,San Juan Bosco,"Cll. Constitución, Sect. Cantera",2,1
+San Juan,1,5,Acad.,Perpetuo Socorro,"707 Cll. José Martí, Sect. Miramar, Bo. Santurce",7,1
+San Juan,1,6,Esc.,Julián E. Blanco,"Cll. Martín Travieso Esq, Cll. Estrella, San Juan",3,1
+San Juan,1,7,Col.,Saint John's School,"1454 Ave. Dr. Ashford, Condado",8,1
+San Juan,1,8,Esc.,Ernesto Ramos Antonini,"Ave. Borinquen, Sect. Barrio Obrero, Bo. Santurce",4,1
+San Juan,1,9,Univ.,Sagrado Corazón,"Cll. Rosales Pda. 26, Bo. Santurce",4,1
+San Juan,1,10,Esc.,Alejandro Tapia y Rivera,"369 Cll. Bellevue, Villa Palmeras",5,1
+San Juan,1,11,Esc.,Federico Asenjo,"Ave. Borinquen 2017, Sect. Barrio Obrero",3,1
+San Juan,1,12,Esc.,Rafael Cordero,"Cll. Hoare, Esq. Cll. Aurora, Santurce",2,1
+San Juan,1,13,Esc.,Rafael María de Labra,"Ave. Ponce de León, Pda. 18, Esq. Cll. Roberto H. Todd",3,1
+San Juan,1,14,Acad.,San Jorge,"1701 Cll. Colón, Santurce",5,1
+San Juan,1,15,Esc.,República del Perú,"Cll. Loíza Final, Bo. Santurce",5,1
+San Juan,1,16,Esc.,Luis Rodríguez Cabrero,"Cll. Marína, Res. Luis Llorens Torres",3,1
+San Juan,1,17,Esc.,Luis Llorens Torres,"Cll. Marisabel, Res. Luis Llorens Torres",4,1
+San Juan,1,18,Esc.,Dr. Francisco Hernández y Manuel Gaetán Barbosa,"Cll. Roberto H. Todd, Pda. 18, Bo. Santurce",3,1
+San Juan,1,19,Esc.,Instituto Loaiza Cordero,"1312 Cll. Feria Final, Bo. Santurce",4,1
+San Juan,1,20,Esc.,Luis Muñoz Rivera,"Ave. Fernández Juncos, Pda. 25, Bo. Santurce",3,1
+San Juan,1,21,Esc.,Padre Rufo,"236 Cll. del Parque, Pda. 23, Bo. Santurce",3,1
+San Juan,1,22,Ctro.,Fundación CAF (Ant. Esc. Emilio Castelar y Ripoll),"Cll. Castelar Esq. Ave. Gilberto Monroig, Villa Palmeras",3,1
+San Juan,1,23,Esc.,Emilio del Toro Cuevas,"1 Cll. Chile Esq. Quisqueya, Pda. 28, Bo. Hato Rey",3,1
+San Juan,1,24,Esc.,Antonia B. Caimary,Ave. Eduardo Conde Esq. Calle Tapia,3,1
+San Juan,1,25,Esc.,Fray Bartolomé de Las Casas,"Ave. Eduardo Conde Final, Res. Las Margaritas, Bo. Santurce",4,1
+San Juan,1,26,Esc.,Dr. Julio J. Henna,"Cll. Henna Esq. Providencia, Bo. Santurce",4,1
+San Juan,2,1,Esc.,Trina Padilla de Sanz,"950 Ave. Jesús T. Piñero (Oeste), Urb. Caparra Terrace",5,1
+San Juan,2,2,C. Com,Borinquen Towers,"1482 Ave. Roosevelt, Cond. Borinquen Towers",1,1
+San Juan,2,3,Esc.,Nemesio R. Canales II,"Res. Nemesio R. Canales, Bo. Hato Rey Norte",3,1
+San Juan,2,4,Esc.,Pedro C. Timotheé,"Cll. 5 NE, Urb. Puerto Nuevo Norte",5,1
+San Juan,2,5,Col.,Universitario de San Juan,"Cll. José Oliver final, Urb. Tres Monjitas",6,1
+San Juan,2,6,Esc.,Villa Granada,"Cll. Asturias, Urb. Villa Granada",4,1
+San Juan,2,7,Esc.,Cntro. Eugenio María de Hostos*,"Cll. Constitución, Esq. Cll. Campeche, Bo. Puerto Nuevo",3,1
+San Juan,2,8,Esc.,Pachín Marín,"Cll. Paris final, Urb. Floral Park",6,1
+San Juan,2,9,Esc.,Cntro. Eugenio María de Hostos*,"Cll. Constitución, Esq. Cll. Campeche, Bo. Puerto Nuevo",3,0
+San Juan,2,10,C. Com,Dos Pinos,"Cll. Ceres Esq. Cll. Polaris, Urb. Dos Pinos",2,1
+San Juan,2,11,Esc.,Juanita García Peraza,"Cll. Laguna final, Bda. Israel",5,1
+San Juan,2,12,Esc.,Juan Ponce de León,"374 Ave. Barbosa Esq. Cll. Vergel, Res. San José",2,1
+San Juan,2,13,Esc.,Santiago Iglesias Pantín,"Cll. Urdiales, Esq. Flandes, Res. San José",5,1
+San Juan,2,14,Esc.,Sotero Figueroa,"Ave. Palma Real Esq. Fordham, Urb. University Garden",4,1
+San Juan,2,15,Esc.,Dr. Antonio S. Pedreira,"Cll. Ángel, Esq. Andorra, Urb. Puerto Nuevo Sur",3,1
+San Juan,2,16,Esc.,Juan José Osuna*,"Cll. Tous Soto, Urb. Baldrich",5,1
+San Juan,2,17,Esc.,Eleonor Roosevelt,"Cll. Antolín Nin Martínez, Esq. S. Castillo Urb. Roosevelt",4,1
+San Juan,2,18,Esc.,República de Brasil,"1258 Cll. 48 SE Esq. Cll. 9, Urb. La Riviera",3,1
+San Juan,2,19,Ctro.,Esc. Secundaria (UHS) UPR,"Ave. Universidad #55, UPR Recinto de Río Piedras",2,1
+San Juan,2,20,Col.,Congregación Mita,"167 Cll. Paris, Bo. Hato Rey Central",3,1
+San Juan,2,21,Esc.,Rafael Hernández,"Cll. Valverde, Res. San José",3,1
+San Juan,2,22,Esc.,Juan Ramón Jiménez,"Cll. López Sicardó, Res. Manuel A. Pérez",3,1
+San Juan,2,23,H. S.,Manuel A. Pérez,"Cll. Sicilia final, Res. Manuel A. Pérez",2,1
+San Juan,2,24,Esc.,Manuel A. Pérez,"Cll. Elizondo Esq. Cll. 46, Res. Manuel A. Pérez",3,1
+San Juan,2,25,Esc.,Juan José Osuna*,"Cll. Tous Soto, Urb. Baldrich",4,0
+San Juan,2,26,Col.,Lourdes*,"87 Cll. Mayagüez, Bo. Hato Rey Central",2,1
+San Juan,2,27,Col.,Lourdes*,"87 Cll. Mayagüez, Bo. Hato Rey Central",4,0
+San Juan,2,28,Esc.,Miguel Such,"Ave. Barbosa Esq. Cll. Cruz, Bo. Universidad",3,1
+San Juan,3,1,Acad.,Fruto de La Vid (Ant. Esc.Las Virtudes),"Cll. Nobleza Esq. Confianza, Urb. Las Virtudes",3,1
+San Juan,3,2,H. S.,Res. Ramos Antonini,Res. Ramos Antonini,2,1
+San Juan,3,3,Esc.,Felipe Gutiérrez,"670 Cll. Arístides Chavier, Urb. Villa Prades",4,1
+San Juan,3,4,Ctro.,School of San Juan,"250 Cll. Ronda, Urb. Andalucía Bo. Sabana Llana Sur",7,1
+San Juan,3,5,Esc.,Berwind,"Cll. 1 Final, Res. Jardines de Berwind",3,1
+San Juan,3,6,Ctro.,"Centro de Bendición Inc.(Ant, Esc.José G. Padilla)","911 Cll. Neblín, 4ta Ext. Country Club",4,1
+San Juan,3,7,Esc.,Venus Gardens*,"722 Cll. Aster, Urb. Venus Gardens",7,1
+San Juan,3,8,Esc.,Ángel Ramos (Berwind Int.),"Cll. Sinsonte 881, Urb. Country Club",4,1
+San Juan,3,9,C. Com,Antigua Vía,"Cll. Fortunato Benítez, Urb. Antigua Vía",2,1
+San Juan,3,10,Esc.,San Agustín,"Cll. 6, Ext. San Agustín",5,1
+San Juan,3,11,C. Com,San Martín,Res. San Martín,2,1
+San Juan,3,12,Esc.,Antonio Sarriera Egozcue,"Cll. María Giusti Esq. Cll. Carmen Hernández, Urb. El Comandante",4,1
+San Juan,3,13,Esc.,Venus Gardens*,"722 Cll. Aster, Urb. Venus Gardens",4,0
+San Juan,3,14,Esc.,Ramón Vila Mayo,"1014 Cll. Brumbaugh, Río Piedras",4,1
+San Juan,3,15,C. Com,Jardines del Paraíso,"Ave. Park Gardens, Res. Jardines del Paraíso",1,1
+San Juan,3,16,Esc.,San Martín (Ángeles Pastor),"Cll. Luis Pardo, Urb. San Martín",5,1
+San Juan,3,17,Col.,Instituto De Desarrollo Del Niño (IDN),1050 Demeterio O Daly,3,1
+San Juan,3,18,Esc.,Gaspar Vilá: Mayáns,"Cll. General Valero, Urb. Delicias",5,1
+San Juan,3,19,C. Com,Facilidades de la Comunidad El Retiro,"Ave. 65 de Infantería Km. 4.0, Río Piedras",1,1
+San Juan,3,20,Esc.,Carmen Gómez Tejera,"Cll. 15 Final, Urb. Montecarlo",7,1
+San Juan,3,21,H. S.,Hill Brothers (Parcelas Falú),"Cll. 8-A, Parcelas Falú",2,1
+San Juan,3,22,Esc.,Amalia Marín,"Cll. Guaralcanal, Bda. Venezuela",3,1
+San Juan,3,23,Ant. Esc.,Dr. Luis Pereira Leal (M),"Cll. León Final, Bda. Buen Consejo",2,1
+San Juan,3,24,C. Com,Park Court,Cll. 3 Res. Park Court,1,1
+San Juan,3,25,C. Com,Las Dalias,Res. Las Dalias,1,1
+San Juan,3,26,Esc.,República de Colombia,"Cll. Máximo Alomar, Urb. San Agustín",5,1
+San Juan,3,27,C. Com,Jardines de Monte Hatillo,"Ave. 65 de Infantería, Res. Jardines de Monte Hatillo",2,1
+San Juan,3,28,Esc.,Villa Capri,1139 Cll. Toscania,5,1
+San Juan,4,1,Col.,Cupey María Montessori School,"Ave. Winston Churchill #176, San Juan",3,1
+San Juan,4,2,Univ.,Interamericana,"Ave. Lomas Verdes, Bo. Monacillos",6,1
+San Juan,4,3,Esc.,Amalia Marín,"Cll. Peñasco final, Urb. Paradise Hills",6,1
+San Juan,4,4,Col.,Daskalos,"Carr. 176, Km 5.2, Bo. Cupey Alto",7,1
+San Juan,4,5,Esc.,Rafael Hernández Marín,"Cll. Asomante, Urb. Summit Hills",4,1
+San Juan,4,6,Ctro.,CEDIN (Interamericana),2021 Ave. Lomas Verdes,6,1
+San Juan,4,7,Esc.,El Señorial,"Cll. Pío Baroja y Esq. Cll. Benito Seijo, Urb. El Señorial",5,1
+San Juan,4,8,C. Com,"Asociación Recreativa, Cultural y Deportiva de Hillside",Cll. 2 Urb. Hillside,2,1
+San Juan,4,9,Acad.,Nuestra Señora de la Providencia*,"1733 Cll. Santa Agueda, Urb. San Gerardo",3,1
+San Juan,4,10,Ctro.,Recreativo de Milaville,"Cll. Jaguas esq. Cll. Pinas, Urb. Milaville",2,1
+San Juan,4,11,H. S.,Res. Villa España,Res. Villa España,2,1
+San Juan,4,12,Esc.,William D. Boyce*,Cll. 31 S.O. Urb. Las Lomas,4,1
+San Juan,4,13,Esc.,Luz Eneida Colón,"Cll. Las Vegas Final, Urb. La Cumbre",4,1
+San Juan,4,14,Esc.,Evaristo Rivera Chevremont,"Cll. 58 Esq. Cll. 17, Res. Vista Hermosa",3,1
+San Juan,4,15,Esc.,Gabriela Mistral,"Ave. Jesús T. Piñero, Urb. Caparra Terrace",5,1
+San Juan,4,16,Esc.,José M. Rivera Solís,"Cll. Campanilla, Urb. Rivieras de Cupey",5,1
+San Juan,4,17,Ant. Esc.,República de México (C),"Cll. 50 SE Esq. Cll. 5 SE, Urb. La Riviera",2,1
+San Juan,4,18,H. S.,Corea,"Carr. 842 Km. 1.0, Bo. Caimito",3,1
+San Juan,4,19,Acad.,Nuestra Señora de la Providencia*,"1733 Cll. Santa Agueda, Urb. San Gerardo",6,0
+San Juan,4,20,Esc.,Dr. Arturo Morales Carrión,"Carr. 873, Esq. Camn. Sierra Borinquén, Bo. Tortugo",4,1
+San Juan,4,21,Esc.,Rafael Rivera Otero*,"Cll. Sandalio Enrique Alonso, Urb. Las Lomas",4,1
+San Juan,4,22,Esc.,Julio Sellés Solá,"Cll. 19 Esq. Cll. 20, Urb. Villa Nevárez",6,1
+San Juan,4,23,Univ.,Sistema Universitario Ana G. Méndez (Metropolitana),"Sect. El Cinco, Río Piedras",5,1
+San Juan,4,24,Col.,San Ignacio de Loyola,"1940 Cll. Sauco, Urb. Santa María",6,1
+San Juan,4,25,Esc.,Rafael Rivera Otero*,"Cll. Sandalio Enrique Alonso, Urb. Las Lomas",4,0
+San Juan,4,26,Esc.,Juan B. Huyke,"Cll. San Ignacio Esq. Cll. Santa Rosa, Urb. Altamesa",3,1
+San Juan,4,27,Esc.,William D. Boyce*,Cll. 31 S.O. Urb. Las Lomas,3,0
+San Juan,5,1,C. Com,Canejas,"Sect. Canejas, Bo. Tortugo",2,1
+San Juan,5,2,Esc.,Inés María Mendoza de Muñoz*,"Carr. 842 Km. 2.7, Bo. Caimito",5,1
+San Juan,5,3,Esc.,Inés María Mendoza de Muñoz*,"Carr. 842 Km. 2.7, Bo. Caimito",2,0
+San Juan,5,4,Esc.,Juan Antonio Corretjer*,"Carr. 844 Km. 3.0, Bo. Cupey",6,1
+San Juan,5,5,Esc.,Mariano Abril**,"Carr. 8834 Km. 1.8, Bo. Río, Guaynabo",2,1
+San Juan,5,6,Esc.,Juan Antonio Corretjer*,"Carr. 844 Km. 3.0, Bo. Cupey",4,0
+San Juan,5,7,H. S.,Cupey Track,"Carr. 176 Km. 9.0, Cupey Alto",3,1
+San Juan,5,8,Ctro.,Sor Isolina Ferré,Carr. 842  Km. 9.1 Camn. Los Romeros  Bo. Caimito Abajo,6,1
+Guaynabo,6,1,Esc.,Santa Rosa III,"Carr. 833 Km. 11.7, Bo. Santa Rosa",3,1
+Guaynabo,6,2,Esc.,Nueva Urbana,130 Cll. José Carazo (PR-169) Bo. Pueblo,7,1
+Guaynabo,6,3,Cncha,Coliseo Mario Quijote Morales,"Ave. Santa Rosa, Carr 866 Local 1",3,1
+Guaynabo,6,4,Col.,San Pedro Mártir,"Cll. Alpierre, Urb. Colimar",7,1
+Guaynabo,6,5,Ctro.,Servicios Múltiples Julio González (Santa Rosa II),"Carr. 833 Km. 6.4, Parcelas Huertas, Bo. Santa Rosa",2,1
+Guaynabo,6,6,Esc.,Betty Rosado de Vega (Cuarta de Camarones)*,"Carr. 20 Km. 8.6, Bo. Camarones",4,1
+Guaynabo,6,7,Esc.,Betty Rosado de Vega (Cuarta de Camarones)*,"Carr. 20 Km. 8.6, Bo. Camarones",2,0
+Guaynabo,6,8,Ctro.,Servicios para personas de edad avanzada Guaraguao,"Calle Parque #35, Sect. López Cases , Bo. Guaraguao",4,1
+Guaynabo,6,9,Ctro.,Complejo Deportivo Moisés García,"Carr. 835, Bo. Mamey",3,1
+Guaynabo,6,10,Esc.,Mariano Abril**,"Carr. 8834 Km. 1.8, Bo. Río",4,1
+Guaynabo,6,11,Ant. Esc.,Alejandro Jr. Cruz (Mamey Centro) (M),Carr. 835 Bo. Mamey II,3,1
+Guaynabo,6,12,Ant. Esc.,Esperanza Linares (Sonadora alta) (M),"Carr. 834 Km. 3.4, Bo. Sonadora Alta",2,1
+Guaynabo,6,13,Ant. Esc.,Agustín Lizardi (C),"Carr. 834 Km. 2.0, Bo. Hato Nuevo",3,1
+Guaynabo,6,14,Esc.,Mariano Abril**,"Carr. 8834 Km. 1.8, Bo. Río",2,0
+Guaynabo,7,1,Esc.,Rosalina C. Martínez,"2 Cll. Rosalina Caraballo de Martínez, Com. Amelia",4,1
+Guaynabo,7,2,Esc.,Luis Muñoz Rivera II,"Ave. Ponce de León, Sect. Amelia",2,1
+Guaynabo,7,3,Esc.,Juan Ponce de León,"Carr. 2 Km. 7.3 Esq. Cll. Robles, Sect. Juan Domingo",3,1
+Guaynabo,7,4,Acad.,San José*,"Carr. 2, Urb. Villa Caparra",5,1
+Guaynabo,7,5,Col.,Puertorriqueño de Niñas,"208 Cll. Turquesa, Urb. Golden Gate",5,1
+Guaynabo,7,6,Acad.,San José*,"Carr. 2, Urb. Villa Caparra",3,0
+Guaynabo,7,7,Ant. Esc.,Juan Román Ocasio (M),"28 Cll. San Miguel, Bda. San Miguel",1,1
+Guaynabo,7,8,Col.,Marista*,"Cll. Santa Ana Final, Urb. Alturas de Torrimar",9,1
+Guaynabo,7,9,Col.,Marista*,"Cll. Santa Ana Final, Urb. Alturas de Torrimar",3,0
+Guaynabo,7,10,Esc.,Josefina Barceló (Frailes Llanos),"Carr. 177 Esq. Ave. Frailes Llanos, Bo. Frailes",7,1
+Guaynabo,7,11,Esc.,Margarita Janer Palacios*,"Carr. 838 Km. 0.1 Camino Alejandrino, Bo. Pueblo",3,1
+Guaynabo,7,12,Esc.,Ramón Marín Solá*,"Cll. Azalea Esq. Campobello, Urb. Luis Muñoz Rivera",5,1
+Guaynabo,7,13,Ctro.,De Servicios Envejecientes Muñoz Rivera,"Ave. Lopategui Final, Esq. Zafiro, Urb. Muñoz Rivera",3,1
+Guaynabo,7,14,Esc.,Juan B. Miranda,"Carr. 177 Ave. Lomas Verdes, Bo. Frailes Llanos",1,1
+Guaynabo,7,15,Esc.,Ramón Marín Solá*,"Cll. Azalea Esq. Campobello, Urb. Luis Muñoz Rivera",3,0
+Guaynabo,7,16,Col.,Adianez*,"Carr. 199 Ave. Las Cumbres, Urb. Santa Paula",2,1
+Guaynabo,7,17,Col.,Adianez*,"Carr. 199 Ave. Las Cumbres, Urb. Santa Paula",4,0
+Guaynabo,7,18,Col.,Adianez*,"Carr. 199 Ave. Las Cumbres, Urb. Santa Paula",2,0
+Guaynabo,7,19,Ctro.,Sagrados Corazones (Anexo),"Calle Principal, Sect. Frailes Llanos",2,1
+Guaynabo,7,20,Esc.,Margarita Janer Palacios*,"Carr. 838 Km. 0.1 Camino Alejandrino, Bo. Pueblo",3,0
+Cataño,8,1,Cncha,Bajo Techo La Puntilla,"Ave. Barbosa, Sect. La Puntilla, Bo. Pueblo",2,1
+Cataño,8,2,Esc.,Onofre Carballeira,"Ave. Las Nereidas, Carr. 888, Bo. Pueblo",5,1
+Cataño,8,3,Cncha,Bajo Techo Valparaíso y Dos Ríos,"Cll. 1, Urb. Valparaíso, Bo. Palmas",5,1
+Cataño,8,4,Esc.,Francisco Oller,"Ave. Las Nereidas, Bo. Palmas",2,1
+Cataño,8,5,Cncha,Bajo Techo Vista del Morro,"Cll. Pitirre Esq. Reina, Urb.Vista del Morro, Bo. Palmas",3,1
+Cataño,8,6,Esc.,Mercedes García de Colorado,"Ave. Flor del Valle Final, Urb. Las Vegas, Bo. Palmas",7,1
+Cataño,8,7,Esc.,Isaac Del Rosario,"Ave. Flor del Valle, Urb. Las Vegas, Bo. Palmas",5,1
+Cataño,8,8,Ctro.,Proyecto Caras con Causa,"Carr. 5 Km. 8.0, Puente Blanco, Bo. Palmas",2,1
+Cataño,8,9,Esc.,Rafael Cordero,"Marg. Ave. Los Caños detrás Parque Perucho Cepeda, Bo. Palmas",5,1
+Bayamón,9,1,C. Com,Caballeros de Colón,"Cll. Jaime Perica esq. Príncipe, Urb. Frontera",1,1
+Bayamón,9,2,Col.,La Salle**,"Cll. San Juan Bautista de la Salle, Urb. Frontera",4,1
+Bayamón,10,1,Ctro.,Educativo CEMI (Ant. Esc. José Julián Acosta),"Cll. 2 Oeste, Urb. Río Plantation, Bo. Hato Tejas",4,1
+Bayamón,10,2,C. Com,Monte Claro,"Urb. Monte Claro, Bo. Hato Tejas",2,1
+Bayamón,10,3,Esc.,Cacique Agüeybaná,"Cll. 61, Urb. Sierra Bayamón",4,1
+Bayamón,10,4,Esc.,Ramón Morales Peña (Riverview),"Cll. 7 L-100, Urb. Riverview",5,1
+Bayamón,10,5,Acad.,New Earth Music Academy (NEMA),"Cll. 22 Final, Urb. Sierra Bayamón",5,1
+Bayamón,10,6,Acad.,Claret,"F-169 Cll. Dakar, Urb. Forest View",4,1
+Bayamón,10,7,Esc.,Dr. Agustín Stahl,Cll. Betances Esq. Carr. 167,5,1
+Bayamón,10,8,C. Com,Villa España,"Urb. Villa España, Cll. Zaragoza",3,1
+Bayamón,10,9,Esc.,Virgilio Dávila,"Carr. 864, Bo. Hato Tejas",5,1
+Bayamón,10,10,Esc.,Juan Ramón Jiménez,"Carr. 864, Bo. Hato Tejas",5,1
+Bayamón,10,11,Esc.,Papa Juan XXIII,10 Cll. Isla Nena Urb. Villa Rica,3,1
+Bayamón,10,12,Esc.,Juan Morell Campos,"Cll. 1 Esq. Cll. 5, Urb. Villa Rica",3,1
+Bayamón,10,13,Esc.,Proyecto CASA (Ant. Esc. Tomás Carrión Maduro),"Cll. Ferrer y Guardia Esq. Cll. C, Bda. Vista Alegre",2,1
+Bayamón,10,14,Esc.,Epifanio Fernández Vanga*,"Cll. 8, Urb. Santa Mónica",5,1
+Bayamón,10,15,Esc.,Epifanio Fernández Vanga*,"Cll. 8, Urb. Santa Mónica",4,0
+Bayamón,10,16,Acad.,Bayamón Christian Academy,"Cll. C Esq. 7, Urb. Hermanas Dávila",3,1
+Bayamón,10,17,Cncha,Braulio Dueño Colón,Cll. 4 Urb. Braulio Dueño Colón,3,1
+Bayamón,10,18,Esc.,Pablo Casals*,"Cll. D, Urb. Bayamón Gardens",2,1
+Bayamón,10,19,Esc.,Dr. Hiram González*,"Carr. 861 Ave. Los Millones, Urb. San Fernando",4,1
+Bayamón,10,20,Esc.,Dr. Hiram González*,"Carr. 861 Ave. Los Millones, Urb. San Fernando",3,0
+Bayamón,10,21,Col.,La Salle**,"Cll. San Juan Bautista de la Salle, Urb. Riverview",4,1
+Bayamón,10,22,Esc.,Pablo Casals*,"Cll. D, Urb. Bayamón Gardens",5,0
+Bayamón,10,23,Esc.,Francisco Manrique Cabrera (Rexville Sup.)*,"Cll. 25 Final, Urb. Miraflores",5,1
+Bayamón,10,24,Esc.,Rexville (Elem.),"Cll. 21, Urb. Rexville",4,1
+Bayamón,10,25,Esc.,Marta Vélez de Fajardo (Caná)**,"Cll. 11, Urb. Caná, Bo. Cerro Gordo",4,1
+Bayamón,10,26,Esc.,María Vázquez de Umpierre**,"Carr. 167 Km. 8.0, Parc. Vans Scoy, Bo. Buena Vista",3,1
+Bayamón,10,27,Esc.,Miguel Meléndez Muñoz**,"Carr. 840 Km. 2.1, Bda. La Aldea, Bo. Cerro Gordo",3,1
+Bayamón,10,28,Esc.,Francisco Manrique Cabrera (Rexville Sup.)*,"Cll. 25 Final, Urb. Miraflores",5,0
+Bayamón,11,1,Esc.,José Antonio Dávila*,"Carr. 167 Km. 5.0, Bo. Cerro Gordo",3,1
+Bayamón,11,2,Esc.,Inés María Mendoza de Muñoz,"Ave. Tnte. Nelson Martínez, Urb. Alturas de Flamboyán",6,1
+Bayamón,11,3,Esc.,Herminia Rivera Fernández (Chinea)**,"Carr. 174 Km. 10.9, Bo. Guaraguao Abajo",3,1
+Bayamón,11,4,Esc.,Carmen Gómez Tejera,"Ave. Main, Urb. Santa Rosa, Bo. Juan Sánchez",5,1
+Bayamón,11,5,Esc.,Proyecto CASA (Ant. Esc. William Rivera Ponce),"Ave. Colectora, Urb. Jardines de Caparra, Bo. Juan Sánchez",6,1
+Bayamón,11,6,Col.,Baldwin School,"Carr. 833 Km. 13.3, Bo. Juan Sánchez",4,1
+Bayamón,11,7,Esc.,José Antonio Dávila*,"Carr. 167 Km. 5.0, Bo. Cerro Gordo",3,0
+Bayamón,11,8,C. Com,Villa Verde,"Carr. 174, Urb. Villa Verde, Bo. Guaraguao Abajo",3,1
+Bayamón,11,9,Esc.,Jesús Sánchez Erazo*,"Carr. 831 Km. 3.0, 9na Secc. Urb. Santa Juanita",5,1
+Bayamón,11,10,Esc.,Jesús Sánchez Erazo*,"Carr. 831 Km. 3.0, 9na Secc. Urb. Santa Juanita",3,0
+Bayamón,11,11,Esc.,Bernardo Huyke*,"Cll. Pensacola, 6ta Secc. Urb. Santa Juanita",3,1
+Bayamón,11,12,Esc.,Dr. José A. Padín,"Cll. Jacinto Esq. Dragón, Urb. Lomas Verdes, Bo. Minillas",3,1
+Bayamón,11,13,Esc.,Joséfita Monserrate de Sellés,"Cll. Begonia Esq. Clavel, Urb. Lomas Verdes, Bo. Minillas",2,1
+Bayamón,11,14,Esc.,Cacique Majagua,"Carr. 829, Sect. Sabana, Bo. Buena Vista",4,1
+Bayamón,11,15,Esc.,Carlos Orama Padilla,"Ave. Magnolia Esq. Cll. 10, Urb. Magnolia Gardens",6,1
+Bayamón,11,16,Esc.,Cristóbal Colón,"Cll. Tulipán Esq. Sauce, Urb. Santa Juanita, Bo. Minillas",6,1
+Bayamón,11,17,Esc.,Miguel de Cervantes Saavedra,"Carr. 831, Urb. Lomas Verdes",2,1
+Bayamón,11,18,Esc.,José Campeche,"Cll. Roble Norte Esq. Almendro, 11ma Secc. Urb. Santa Juanita",4,1
+Bayamón,11,19,Esc.,Bernardo Huyke*,"Cll. Pensacola, 6ta Secc. Urb. Santa Juanita",2,0
+Bayamón,11,20,Ctro.,Hogar Rosa Coll (Ant. Esc. Diego Torres Vargas),"Cll. Alameda, Esq. Visalia Urb. Vista Bella II",5,1
+Bayamón,11,21,Col.,High Achievement Christian School,"Cll. 6, Parc. Juan Sánchez Bo. Minilla",4,1
+Bayamón,11,22,Esc.,Julio Rossy,"Carr. 830 Km. 2.2, Bo. Cerro Gordo",5,1
+Bayamón,11,23,Esc.,Miguel Meléndez Muñoz**,"Carr. 840 Km. 2.1, Bda. La Aldea, Bo. Cerro Gordo",2,1
+Bayamón,11,24,Esc.,Rafael Colón Salgado*,"Cll. 3 Final, Urb. Royal Town, Bo. Cerro Gordo",2,1
+Bayamón,11,25,Esc.,Rafael Colón Salgado*,"Cll. 3 Final, Urb. Royal Town, Bo. Cerro Gordo",5,0
+Bayamón,11,26,Esc.,Marta Vélez de Fajardo (Caná)**,"Cll. 11, Urb. Caná, Bo. Cerro Gordo",5,1
+Bayamón,12,1,Esc.,María Vázquez de Umpierre**,"Carr. 167 Km. 8.0, Parc. Vans Scoy, Bo. Buena Vista",2,1
+Bayamón,12,2,Esc.,Francisco Gaztambide Vega**,"Carr. 167 Km. 13.8, Bo. Buena Vista",5,1
+Bayamón,12,3,Esc.,José M. Torres,"Carr. 812 Km. 3.1, Bo. Dajaos",4,1
+Bayamón,12,4,Esc.,Andrés Corsino González,"Carr. 829 Km. 5.5, Bo. Santa Olaya",6,1
+Bayamón,12,5,Esc.,Herminia Rivera Fernández (Chinea)**,"Carr. 174 Km. 10.9, Bo. Guaraguao Abajo",2,1
+Bayamón,12,6,Esc.,Antonio Rivera (Nueva Esc. SU),"Carr. 816 Km. 6.0, Bo. Nuevo",3,1
+Toa Alta,13,1,Esc.,José Pablo Morales,"Carr. 165 Km. 0.5, 50 Cll. Barceló, Bo. Pueblo",5,1
+Toa Alta,13,2,Esc.,José M. del Valle,"Carr. 819 Km. 1.6, Bo. Mucarabones",4,1
+Toa Alta,13,3,Esc.,Manuel Velilla Cabrera,"Carr. 861 Km. 5.9, Bo. Piñas",7,1
+Toa Alta,13,4,Esc.,Tomás “Maso” Rivera Morales,"Carr. 861 Km. 5.5, Bo. Piñas",7,1
+Toa Alta,13,5,Esc.,Abelardo Díaz Alfaro,"Carr. 828 Km. 0.6, Urb. Toa Alta Heights",5,1
+Toa Alta,13,6,Esc.,Quebrada Arenas (Intermedia Nueva)*,"Carr. 159 Km. 19.1, Bo. Quebrada Arenas",6,1
+Toa Alta,13,7,Esc.,Adela Rolón Fuentes*,"Ave. Principal, Urb. Toa Alta Heights",6,1
+Toa Alta,13,8,Esc.,Quebrada Arenas (Intermedia Nueva)*,"Carr. 159 Km. 19.1, Bo. Quebrada Arenas",3,0
+Toa Alta,13,9,Esc.,Violanta Jiménez,"Carr. 165 Km. 0.5, 50 Cll. Barceló, Bo. Pueblo",3,1
+Toa Alta,13,10,Esc.,Alejandro Jr. Cruz,"Cll. 12, Sect. Villa Josco, Bo. Galateo",6,1
+Toa Alta,13,11,Col.,Carmen Sol,"Carr. 2 Km. 18.0, Bo. Candelaria, Toa Baja",11,1
+Toa Alta,13,12,Cncha,Bajo Techo Monte Claro,Carr. 824 Sect. Monte Claro,3,1
+Toa Alta,13,13,Esc.,Adela Rolón Fuentes*,"Ave. Principal, Urb. Toa Alta Heights",5,0
+Toa Alta,13,14,Esc.,Francisco Gaztambide Vega**,"Carr. 167 Km. 13.8, Bo. Buena Vista",5,1
+Toa Baja,14,1,Loc.,Altagracia y Santa Maria (Ant. Head Start),"Cll. Reina Final, Urb. Altagracia, Bo. Candelaria",4,1
+Toa Baja,14,2,Esc.,Efraín Sánchez Hidalgo,"Mariano Abril Costalo, 6ta Secc. Levittown",4,1
+Toa Baja,14,3,Esc.,Ernestina Bracero Pérez (Villa Gutiérrez),"Carr. 865 Km. 3.0, Com. Candelaria Arenas, Bo. Candelaria",7,1
+Toa Baja,14,4,Col.,"Lurgrea Central College, Inc.","Ave. Boulevard BB 64, Levittown",5,1
+Toa Baja,14,5,C. Com,Macún,"Carr. 2 Km. 18.1, Sect. Macún, Bo. Candelaria",2,1
+Toa Baja,14,6,C. Com,El Plantío,"Ave. El Plantío Esq. Guayacán, Urb. El Plantío",2,1
+Toa Baja,14,7,Esc.,María Justina Corredor Rivera,"Cll. Campoamor Esq. Don Pelayo, Urb. Covadonga",3,1
+Toa Baja,14,8,Esc.,Dr. Pedro Albizu Campos,"Ave. Boulevard, 4ta. Secc. Levittown",8,1
+Toa Baja,14,9,Esc.,Martín García Giusti,"Carr. 863 Km. 0.9, Bo. Candelaria",6,1
+Toa Baja,14,10,C. Com,Palo Seco,"Cll. Del Carmen, Bo. Palo Seco",1,1
+Toa Baja,14,11,Esc.,José Nevárez López (Nueva),"Carr. 165 Ramal San José, Bo. Meida Luna",3,1
+Toa Baja,14,12,Esc.,Altinencia Valle Santana,"2 Cll. Palma, Res. Campanilla, Bo. Media Luna",8,1
+Toa Baja,14,13,Esc.,Basilio Milán Hernández,"Ave. Sabana Seca Inter. Cll. José De Diego, Bo. Sabana Seca",6,1
+Toa Baja,14,14,Esc.,Luis M. Santiago,"7 Cll. Muñoz Rivera, Bo. Pueblo",3,1
+Toa Baja,14,15,Esc.,José Robles Otero,"Carr. 867, Parc. Ingenio, Bo. Candelaria",6,1
+Toa Baja,14,16,Cncha,Las Colinas,"Urb. Las Colinas, Bo. Candelaria",2,1
+Toa Baja,14,17,Esc.,Francisca Dávila Semprit,"Carr. 866 Km. 3.5, Ave. Principal, Bo. Sabana Seca",6,1
+Toa Baja,14,18,Esc.,María Teresa Piñero (Sup. Sabana Seca),"Cll. Márquez Final, Bo. Sabana Seca",5,1
+Toa Baja,14,19,Esc.,Carmen Barroso Morales,"Ave. Antonio Paoli, 7ma. Secc. Levittown",5,1
+Toa Baja,14,20,Esc.,Delia Dávila de Cabán,"Cll. Lago Las Curías Final, 5ta. A Secc. Levittown",9,1
+Dorado,15,1,Esc.,José Santos Alegría,10 Cll. Pedro J. Ridos,6,1
+Dorado,15,2,Acad.,Dorado Academy,"Cll. Madre Perla, Urb. Dorado del Mar",4,1
+Dorado,15,3,Ant. Esc.,Luis Muñoz Rivera (M),"Ave. Dr. Pedro Albizu Campos, Com. Mameyal",5,1
+Dorado,15,4,Esc.,Jacinto López Martínez,"200 Cll. Norte, Bo. Pueblo",7,1
+Dorado,15,5,Esc.,Luisa M. Valderrama de Martínez (San Antonio),"Carr. 696 Km. 1.5, Com. San Antonio",9,1
+Dorado,15,6,Ant. Esc.,Teresa Préstamo (Espinosa Parcelas) (M),"Carr. 2 Km. 24.3 Sect. Mavito, Bo. Espinosa",8,1
+Dorado,15,7,Esc.,Ecológica José de Diego (Elem. Bo. Higuillar Ecológica),"Carr. 695 Com. Los Puertos, Bo. Higuillar",7,1
+Dorado,15,8,Esc.,Cristóbal Santana Melecio (Nueva),"Cll. 2, Com. Río Lajas, Bo. Rio Lajas",3,1
+Dorado,15,9,H. S.,Castillo de los Niños,"Carr. 659 Km. 3.3 Sect. Santa Rosa, Bo. Maguayo",2,1
+Vega Alta,16,1,C. Com,Parcelas Cerro Gordo,"Carr. Principal, Parcelas Cerro Gordo",2,1
+Vega Alta,16,2,Esc.,Francisco Felicie Martínez (Breñas),"Carr. 693 Km. 14.1, Bo. Sabana",5,1
+Vega Alta,16,3,Esc.,José Pagán De Jesús (Nueva Sabana Hoyos)*,"Carr. 690 Km. 3.2, Bo. Sabana Hoyos",3,1
+Vega Alta,16,4,Esc.,José Pagán De Jesús (Nueva Sabana Hoyos)*,"Carr. 690 Km. 3.2, Bo. Sabana Hoyos",4,0
+Vega Alta,16,5,Esc.,Rafael Hernández,"Cll. 3, Urb. Santa Ana",6,1
+Vega Alta,16,6,C. Com,Bajura,"Sect. El Francés Calle Ucar, Esq. Acacia , Bo. Bajura",2,1
+Vega Alta,16,7,Esc.,Elisa Dávila Vázquez,"Carr. 679 Km. 2.3, Sect. Fortuna Bo. Espinosa Adentro",1,1
+Vega Alta,16,8,Esc.,Antonio Paoli,"Cll. 9, Urb. Santa Rita, Bo. Espinosa",4,1
+Vega Alta,16,9,Esc.,Urbana,"Cll. Teodomiro Ramírez, Bo. Pueblo",4,1
+Vega Alta,16,10,Esc.,Ignacio Miranda,"Cll. B, Urb. Las Colinas Bo. Espinosa",2,1
+Vega Alta,17,1,Esc.,Apolo San Antonio,Carr. 676 Esq. Cll.Luis MuÑoz Rivera,3,1
+Vega Alta,17,2,Cncha,Bajo Techo Cienegueta,"Carr. 647, Bo. Cienegueta",1,1
+Vega Alta,17,3,Ctro.,Complejo Recreo-Educativo,"Carr. 677 Km. 0.3, Bo. Maricao",5,1
+Vega Alta,17,4,Cncha,Bajo Techo Candelaria,"Carr. 647 Km. 6.4 interior, Bo. Candelaria",2,1
+Vega Alta,17,5,Cncha,Bajo Techo Mavilla,"Carr. 630 Km. 5.0, Bo. Mavilla",1,1
+Vega Baja,18,1,Ctro.,Gimnasio Municipal Rodríguez Otero Suro,"Carr. 687 Km. 1.5, Sect. Tortuguero, Bo. Algarrobo",4,1
+Vega Baja,18,2,Cncha,Bajo Techo Barriada Sadín,"Cll. Urano, Bda. Sadín, Bo. Puerto Nuevo",4,1
+Vega Baja,18,3,Cncha,Bajo Techo Sect. Las Lisas,"Carr. 686, Bo. Puerto Nuevo",3,1
+Vega Baja,18,4,C. Com,Recreativo Los Naranjos,"Cll. 1, Sect. Los Naranjos, Bo. Cabo Caribe",1,1
+Vega Baja,18,5,Esc.,San Vicente,"82 Cll. 10, Urb. San Vicente",4,1
+Vega Baja,18,6,Igl.,Cristiana Sendero de Gracia (Ant. Esc. Elemental),"Cll. Ramón Rivera, Bo. Sabana",2,1
+Vega Baja,18,7,Cncha,Bajo Techo Pueblo Nuevo,"Cll. 1, Sect. Pueblo Nuevo, Bo. Ceiba",4,1
+Vega Baja,18,8,Esc.,Ángel Sadín Martínez,"Cll. 4 Tulio Otero, Bo. Pueblo",4,1
+Vega Baja,18,9,Esc.,Lino Padrón Rivera,"Cll. 1 Tulio Otero, Bo. Pueblo",3,1
+Vega Baja,18,10,Esc.,Almirante Norte,"Carr. 160 Km. 4.3, Bo. Almirante Norte",4,1
+Vega Baja,19,1,Esc.,Rafael Hernández Marín,"356 Cll. Girasoles, Urb. Jardines de Vega Baja",6,1
+Vega Baja,19,2,Esc.,José G. Padilla II (Anexo Brígida Álvarez),"75 Cll. Betances, Bo. Pueblo",4,1
+Vega Baja,19,3,Ctro.,Auditorio Tortuguero,"Carr. 687, Bo. Algarrobo",3,1
+Vega Baja,19,4,Esc.,Ctro. Adiestramiento Vocacional Especial (CAVE),Carr. 155 Km. 6.5Bo. Pugnado Afuera,3,1
+Vega Baja,19,5,Esc.,Juan Quirindongo Morell (Sup. Nueva),"Cll. Q Final, Urb. El Rosario",7,1
+Vega Baja,19,6,Esc.,Manuel Martínez Dávila,"Carr. 155 Km. 64.3, Bo. Pugnado Afuera",6,1
+Vega Baja,19,7,Cncha,Bajo Techo Comunidad Miranda*,"Carr. 646 Int., Parcelas Miranda, Bo. Almirante Sur",2,1
+Vega Baja,19,8,C. Com,Río Arriba,"Carr. 645, Bo. Río Arriba",1,1
+Vega Baja,19,9,Cncha,Bajo Techo Comunidad Miranda*,"Carr. 646 Int., Parcelas Miranda, Bo. Almirante Sur",3,0
+Vega Baja,19,10,Cncha,Bajo Techo Pugnado Adentro*,"Carr. 155 Int. Carr. Manuel Manolo Fontán, Bo. Pugnado Adentro",2,1
+Vega Baja,19,11,Cncha,Bajo Techo Pugnado Adentro*,"Carr. 155 Int. Carr. Manuel Manolo Fontán, Bo. Pugnado Adentro",1,0
+Morovis,20,1,Esc.,Jorge L. Marrero (Elemental Urbana),"Cll. Principal, Esq. Cll. Betances, Bo. Pueblo",2,1
+Morovis,20,2,Esc.,Jaime A. Collazo del Río,"Carr. 159 (Ave. Corozal) Km. 0.7, Bo. Pueblo",4,1
+Morovis,20,3,Esc.,"Juana M. ""Goyita"" Avilés","Carr. 634 Km. 2.1, Bo. Fránquez  ",3,1
+Morovis,20,4,Esc.,José R. Barreras Martínez,"Carr. 156 Km. 5.6, Bo. Unibón",4,1
+Morovis,20,5,Esc.,Francisco Rivera Claudio,"Carr. 159 (Ave. Corozal) Esq. Carr. 137, Bo. Montellano",4,1
+Morovis,20,6,Esc.,Ángel Quintero Alfaro,"Carr. 633 Km. 4.4, Bo. Barahona",6,1
+Morovis,20,7,Ctro.,Royal Ballroom,"Carr 618, Sect. Palo de Pan, Bo. Morovis Sur",5,1
+Morovis,20,8,Esc.,Esperanza González,"Carr. 618 Km. 2.2, Bo. Cuchillas",3,1
+Morovis,20,9,Cncha,Río Grande,"Carr. 6616 Int. Sect. El Cerro, Bo. Río Grande",1,1
+Morovis,20,10,Cncha,Los Díaz,"Carr. 155 Sect. Perchas Díaz, Bo. Perchas",2,1
+Morovis,20,11,Cncha,Vaga I,"Carr. 5567, Sect. Vaga I, Bo. Vaga",1,1
+Morovis,20,12,Cncha,Pasto,"Carr. 567 Km. 6.2 Int, Bo. Pasto",2,1
+Morovis,20,13,Esc.,Ramón Torres Rivera,"Carr. 567 Km. 10.9, Parc. San Lorenzo, Bo. San Lorenzo",2,1
+Morovis,20,14,Esc.,Josefa del Río,"Carr. 155 Km. 52, Parc. Torrecillas, Bo. Torrecillas",4,1
+Manatí,21,1,Esc.,Dr. Juan S. Marchand**,"Carr. 604, Sect. Rábanos, Bo. Tierras Nuevas Saliente",1,1
+Manatí,21,2,Esc.,Félix Córdova Dávila,"Carr. 668 Km. 1.8, Urb. Félix Córdova",5,1
+Manatí,21,3,Esc.,Antonio Vélez Alvarado,"Carr. 2, Esq. Carr. 686, Bo. Coto Norte",3,1
+Manatí,21,4,Ant. Esc.,Micaela Escudero Tirado (M),"Sect. Cantera, Bo. Coto Norte",2,1
+Manatí,21,5,Esc.,Petra Corretjer de O'Neill*,"Carr. 670 Km. 2.7, Bo. Coto Sur",5,1
+Manatí,21,6,Esc.,Evaristo Camacho,"Carr. 643 Km. 2.1, Sect. Pugnado, Bo Río Arriba Saliente",4,1
+Manatí,21,7,Esc.,Petra Corretjer de O'Neill*,"Carr. 670 Km. 2.7, Bo. Coto Sur",4,0
+Manatí,22,1,Ant. Esc.,Augusto Cohén (M),"Carr. 616 Km. 1.1 Int., Sect. El Cantito",3,1
+Manatí,22,2,Esc.,Francisco Menéndez Balbañe,"Carr. 667 Km. 4.6, Sect. Cortés, Bo. Bajura Adentro",3,1
+Manatí,22,3,Esc.,Dr. Juan S. Marchand**,"Carr. 604, Sect. Rábanos, Bo. Tierras Nuevas Saliente",5,1
+Manatí,22,4,Ant. Esc.,Cruz Rosa Rivas (M),"Carr. 685 Km. 1.1, Bo. Tierras Nuevas",2,1
+Manatí,22,5,Ctro.,Bellas Artes Joaquín Rosa Gómez,"10 Cll. Quiñones, Anexo Plaza de Recreo, Bo Pueblo",2,1
+Manatí,22,6,Esc.,Fernando Callejo*,"Cll. Rosario, Bo. Pueblo",4,1
+Manatí,22,7,Ant. Esc.,Federico Freytes Rodríguez (M),"Carr. 642, Esq. Cll. Román, Parc. Viejas, Bo. Río Arriba Poniente",2,1
+Manatí,22,8,Esc.,Fernando Callejo*,"Cll. Rosario, Bo. Pueblo",3,0
+Manatí,22,9,Esc.,Juan A. Sánchez Dávila,"Carr. 670 Km. 1.2, Urb. Villa Evangelina",4,1
+Ciales,23,1,Esc.,Nueva Urbana*,"Cll. Corchado, Ext. Corchado, Bo. Pueblo",4,1
+Ciales,23,2,Esc.,Nueva Urbana*,"Cll. Corchado, Ext. Corchado, Bo. Pueblo",5,0
+Ciales,23,3,Esc.,Juan A. Corretjer*,"Carr. 146 Km. 3.0, Bo. Cordillera",3,1
+Ciales,23,4,Esc.,Juan A. Corretjer*,"Carr. 146 Km. 3.0, Bo. Cordillera",3,0
+Ciales,23,5,Esc.,Francisco Serrano,"Carr. 149 Km. 20.9, Bo. Pesas",4,1
+Ciales,23,6,Esc.,Jaime Coira Ortiz,"Carr. 149 Km. 7.6 Esq. Carr. 615, Bo. Pozas",3,1
+Ciales,23,7,Esc.,Hato Viejo Cumbre,"Carr. 632 Km. 2.0, Bo. Hato Viejo",2,1
+Ciales,23,8,Loc.,Colmado La Piedra,"Carr. 149 Km. 40.8, Bo. Toro Negro",1,1
+Ciales,23,9,C. Com,El Puente (Cialitos Centro),"Carr. 6614, Km. 0.9, Sect. Cialitos Centro, Bo. Cialitos",2,1
+Ciales,23,10,C. Com,Cialitos Cruces,"Carr. 608 Km. 6.7 Int. Camn. Veredas las Cruces, Bo. Cialitos",1,1
+Ciales,23,11,Esc.,Toribio Rivera,"Carr. 146 Km. 14.6, Bo. Frontón",3,1
+Florida,24,1,Ant. Esc.,Adolfo Egüen (M),"Carr. 641 Km. 1.1, Sect. Pajonal",2,1
+Florida,24,2,Esc.,Juanita Ramírez González,"Carr. 642 Km. 10.3, Com. Arroyo",4,1
+Florida,24,3,Esc.,Juan Ponce de León II,"Carr. 631 Km. 0.5, Sect. Ceiba",4,1
+Florida,24,4,Ant. Esc.,Francisco Frías Morales (M),"Carr. 140, Cll. Ramón Torres",3,1
+Florida,24,5,Esc.,Ricardo Rodíguez Torres,"Carr. 642 Km. 12.3, Cll. Antonio Alcárzar",2,1
+Florida,24,6,H. S.,Early Head Start San Agustín,"Carr. 140 Km. 57, Rpto. San Agustín",1,1
+Florida,24,7,Igl.,Restauración Cristiana,"Carr. 665, Km. 1.3, Sect. Tosas",1,1
+Barceloneta,25,1,Esc.,Vicente Acevedo Ballester,"Carr. 664 Km. 0.3, Bo. Florida Afuera",6,1
+Barceloneta,25,2,Ctro.,Bellas Artes,"Ave. Palmas Altas, Bo. Pueblo",5,1
+Barceloneta,25,3,C. Com,"Proyecto Avance, Punta Palmas",Cll Cocos Esq. Cll. Manglar Bo. Palmas Altas,4,1
+Barceloneta,25,4,Ctro.,Sembry Planet (Ant. Esc. Primitivo Marchand),"Carr. 682 Km. 4.2 Int, Sect. La Cité, Bo. Garrochales",4,1
+Barceloneta,25,5,Esc.,Fernando Suría Chavez,"Cll. Georgetti, Bo Pueblo",4,1
+Barceloneta,25,6,Esc.,Elí Ramos Rosario,"Carr. 140, Sect. Fortuna",4,1
+Barceloneta,25,7,Esc.,Imbery,"Cll. 6, Esq. Cll. 5, Parc. Imbery, Bo. Florida Afuera",6,1
+Barceloneta,25,8,Ant. Esc.,Easton (M),"Cll. 3 Parc. Tiburón, Bo. Florida Afuera",3,1
+Arecibo,26,1,Esc.,Angélica Gómez Betancourt**,"Carr. 681 Km. 0.3, Sect. Vigía, Bo Islote",4,1
+Arecibo,26,2,C. Com,Víbora,"Carr. 681 Km. 13.1, Sect. Víbora, Bo. Islote",1,1
+Arecibo,26,3,Esc.,Factor 5,Carr. 2 Km. 66.8 Int. Urb. Paseos Reales,7,1
+Arecibo,26,4,Esc.,Eugenio María de Hostos,"Carr. 682 Km. 7.5, Bo. Garrochales",4,1
+Arecibo,26,5,C. Com,Jarealito,"Carr. 681 Km. 0.3, Sect. Vigía, Bo Islote",1,1
+Arecibo,27,1,Esc.,"Francisco ""Pachín"" Marín","Cll. 17, Urb. Vista Azul",7,1
+Arecibo,27,2,Loc.,Gimnasio Boxístico (Com. Barrio Obrero),"Cll. Ledesma, Bo. Obrero",1,1
+Arecibo,27,3,Cncha,La Planta,"Sect. La Planta, Bo. Tanamá",1,1
+Arecibo,27,4,Esc.,Angélica Gómez Betancourt**,"Carr. 681 Km. 0.3, Sect. Vigía, Bo Islote",1,1
+Arecibo,27,5,Esc.,Trina Padilla de Sanz,"Carr. 653 (Ave. Constitución) Km. 3.1, Urb. Villa de Los Santos",7,1
+Arecibo,27,6,C. Com,Río Arriba,"Carr. 123 (Ant. PR-10) Km. 70.1, Bo. Río Arriba",1,1
+Arecibo,27,7,Esc.,John W. Harris,"Ave. Constitución, Res. Dr. Zeno Gandía, Bo. Pueblo",4,1
+Arecibo,27,8,Esc.,Manuel Ruíz Gandía,"Carr. 635 Km. 2.0, Bo. Dominguito",5,1
+Arecibo,27,9,Esc.,José R. Rivera (Nueva Sabana Hoyos)*,"Carr. 639 Km. 3.2, Bo. Sabana Hoyos",4,1
+Arecibo,27,10,Cncha,Calichoza,"Carr. 626 Km. 7.5, Sect. Calichoza, Bo. Hato Viejo",1,1
+Arecibo,27,11,C. Com,Casa Ulanga,"7 Cll. Gonzalo Marín, Bo. Pueblo",2,1
+Arecibo,27,12,H. S.,Domingo Ruíz,"Cll. A, Comunidad Domingo Ruíz, Bo. Santana",2,1
+Arecibo,27,13,Esc.,Federico Degetau,"Carr. 662, Carr. 2 Km. 68.0, Bo. Santana",7,1
+Arecibo,27,14,C. Com,Diego Bravo (M),"Carr. 635, Int 626, Sect. Cienegueta, Bo Esperanza",2,1
+Arecibo,27,15,Esc.,Luis Muñoz Marín,Carr 53 Km 1 Hm 5 Sect Barrancas,6,1
+Arecibo,27,16,Esc.,Elba Lugo Carrión,"Cll. Orquídea, Urb. Villa Serena",5,1
+Arecibo,27,17,Esc.,Víctor Rojas I,"Cll. C, Urb. Víctor Rojas I, Bo. Hato Abajo",1,1
+Arecibo,27,18,Esc.,Dr. Cayetano Coll y Toste,"Carr. 638 Km. 5.0, Bo. Miraflores",6,1
+Arecibo,27,19,Ant. Esc.,Francisco M. Susoni (M),"Cll. Armando Vega Colón1, Com. San Francisco, Bo. Tanamá",2,1
+Arecibo,27,20,H. S.,Espino,"Carr. 663 Km. 4.1, Sect. Espino, Bo. Miraflores",2,1
+Arecibo,27,21,Esc.,Dra. María Cadilla de Martínez,"Carr. 129 Km. 4.3, Sect. Las Cunetas, Bo. Hato Arriba",8,1
+Arecibo,27,22,Cncha,Abra San Francisco  ,"Com. Abra San Francisco, Bo. Hato Arriba",2,1
+Arecibo,27,23,Esc.,José R. Rivera (Nueva Sabana Hoyos)*,"Carr. 639 Km. 3.2, Bo. Sabana Hoyos",6,0
+Arecibo,27,24,C. Com,Los Caños (M),"Carr. 651 Km. 1.2, Bo. Tanamá",2,1
+Arecibo,27,25,Esc.,Dr. Ramón E. Betances (Oficinas DE),"Cll. Del Parque, Com. Villa Kennedy, Bo. Domingo Ruíz",5,1
+Arecibo,27,26,Cncha,Arrozal,"Carr. 627 Km. 3.5, Sect. Los Muertos, Bo. Arrozal",1,1
+Arecibo,27,27,Esc.,Enrique de Jesús Borrás,"Carr. 123 (Ant. PR-10) Km. 78.9, Bo. Hato Viejo",2,1
+Hatillo,28,1,Esc.,Rafael Zamot Cruz,"Carr. 134 Km. 11.5, Bo. Bayaney",5,1
+Hatillo,28,2,Ant. Esc.,Manuel Corchado y Juarbe (M),"Carr. 489 Km. 4.7, Bo. Aibonito",2,1
+Hatillo,28,3,Esc.,Padre Aníbal Reyes Belén,"Carr. 130 Km. 12.0, Bo. Campo Alegre",5,1
+Hatillo,29,1,Col.,Nuestra Señora del Carmen,"Cll. Rey Vicente Esq. Carr. 119 (Ave. Dr. Susoni), Bo. Pueblo",4,1
+Hatillo,29,2,Acad.,Interamericana de Arecibo,"Carr. 2 Km. 85.0 int. Cll. Mangotín, Bo. Carrizales",3,1
+Hatillo,29,3,Esc.,Lorenzo Coballes Gandía,"Carr. 130 Km. 3.0, Bo. Pueblo",5,1
+Hatillo,29,4,Esc.,Eugenio María de Hostos,"Carr. 2 Km. 84.5, Cll. B, Parcelas Carrizales, Bo. Carrizales",6,1
+Hatillo,29,5,Esc.,Luis Muñoz Rivera,"Carr. 130 Km. 3.8, Bo. Capáez",5,1
+Hatillo,29,6,Ant. Esc.,Joaquín Rodríguez Ruíz (C),"Carr. 130, Carr. 491, Bo. Naranjito",3,1
+Hatillo,29,7,Esc.,Carmen Noelia Peraza Toledo,"Carr. 492 Km. 31.0, Bo. Corcovado",4,1
+Hatillo,29,8,Esc.,"Timoteo ""Tito"" Delgado","Carr. 130 Km. 8.4, Bo Naranjito",6,1
+Camuy,30,1,Ant. Esc.,Laurentino Estrella Colón (M),"Ave. Luis Muñoz Rivera, Bo.Pueblo",4,1
+Camuy,30,2,Esc.,Amalia López de Ávila (Nueva),"Carr. 119 Km. 5.6 Sect. Zarza, Bo Puente",7,1
+Camuy,30,3,Ant. Esc.,Pablo Ávila González (M) (Cncha.),"Carr. 485 Km. 11.1 int., Bo. Pueblo",2,1
+Camuy,30,4,Esc.,Ralph W. Emerson,"Carr. 2 Km. 93.4 int., Bo. Membrillo",5,1
+Camuy,30,5,Esc.,Pedro Amador,"Carr. 485 Km. 2.2 Sect. Bajura, Bo. Yeguada",1,1
+Camuy,30,6,C. Com,Rosalina Cabrera Vega,"Carr. 485 Sect. Arias, Bo. Yeguada",3,1
+Camuy,30,7,Cncha,Bajo Techo José (Cheo) Hernández (Santiago Vega),"Carr. 488 Km. 5.0, Sect. Vega",1,1
+Camuy,30,8,Ctro.,José D. Pepín Hernández (CARPAS),"Carr. 119 Km. 11.1, Bo. Camuy Arriba",4,1
+Camuy,30,9,C. Com,Ana M. López,"Carr. 119 Km. 9.4, Bo.Ciénegas",3,1
+Camuy,30,10,Esc.,Antonio Reyes,"Carr. 486 Km. 2.4, Parc. Espiet, Bo. Zanja",5,1
+Camuy,30,11,Esc.,Luis Felipe Rodríguez García,"Carr. 483 Km. 4.1, Sect. El Calvario, Bo. Piedra Gorda",3,1
+Camuy,30,12,Col.,Tecnológico Emanuel (Ant. Esc. José M. Hernández),"Carr. 488 Km. 0.2, Bo. Abra Honda",3,1
+Camuy,30,13,C. Com,Santiago Péndula,"Carr. 486 int., Bo. Santiago Péndula",1,1
+Camuy,30,14,Ant. Esc.,Julián Blanco (M),"Carr. 456 Km. 1.4, Bo. Puertos",2,1
+Camuy,30,15,Esc.,Miguel F. Santiago Echegaray,"Carr. 486 Km. 14.6, Bo. Quebrada",4,1
+Camuy,30,16,Esc.,Joaquín Vázquez Cruz,"Carr. 456 Km. 4.9, Bo. Cibao",2,1
+Quebradillas,31,1,C. Com,José Julián Acosta,"Carr. 4484 Sect. Quebrada Mala, Bo. Terranova",2,1
+Quebradillas,31,2,Esc.,Ramón E. Betances,"236 Cll. Luis Muñoz Rivera, Bo. Pueblo",3,1
+Quebradillas,31,3,Esc.,Juan Alejo Arizmendi,"Cll. Francisco Ávila, Bo. Pueblo",5,1
+Quebradillas,31,4,C. Com,Club 4H,"Carr. 485 Km. 2.3, Bo. San José",2,1
+Quebradillas,31,5,Ant. Esc.,Ramón Ávila Molinari (M),"Carr. 477 Km. 0.8, Bo. Cacao",6,1
+Quebradillas,31,6,Esc.,Luis Muñoz Rivera,"Carr. 484 Km. 1.4, Bo. Cocos",6,1
+Quebradillas,31,7,Esc.,Honorio Hernández,"Carr. 113 Km. 15.0 int, Parc. San Antonio,Bo. San Antonio",3,1
+Quebradillas,31,8,Ant. Esc.,José de Diego (M),"Carr. 113 Km. 17.0, Bo. San Antonio",2,1
+Quebradillas,31,9,H. S.,Teodoro Roosevelt (C. Com. Charcas),Carr. 437 Km. 0.4 Bo. Charcas,1,1
+Quebradillas,31,10,Cncha,"Bajo Techo Juan ""Johnny"" Rivera y C. Com. Carmen Colón","Carr. 453 Int. Cll. Nieves, Bo. Guajataca",2,1
+Quebradillas,31,11,Ant. Esc.,Ramón Saavedra (M),"Carr. 478 Km. 1.5, Bo. San Antonio",3,1
+Isabela,32,1,Esc.,Irma Deliz de Muñoz*,"Ave. Juan Hernández Ortiz, Bo. Pueblo",6,1
+Isabela,32,2,Esc.,Ceferina Cordero,"217 Cll. Emilio González Int. Frente al Parque, Bo. Pueblo",3,1
+Isabela,32,3,Esc.,Francisco Mendoza*,"Carr. 473 Km. 1.0, Bo. Pueblo",2,1
+Isabela,32,4,Esc.,Mateo Hernández,"Carr. 113 Km. 3.2, Bo. Coto",3,1
+Isabela,32,5,Esc.,Epifanio Estrada (Parc. Coto),"Carr. 113 Km. 9.9, Cll. Vista Alegre, Parc. Coto, Bo. Coto",3,1
+Isabela,32,6,Ant. Esc.,Nicandro García (M)*,"Carr. 475 Km. 3.9, Sect. La Palma, Bo. Galateo Alto",3,1
+Isabela,32,7,Esc.,José A. Vargas,"Carr. 446 Km. 4.2, Sect. Santa Rosa, Bo. Llanadas",3,1
+Isabela,32,8,H. S.,José G. Padilla,"Carr. 446, Bo. Llanadas",1,1
+Isabela,32,9,Esc.,Francisco Mendoza*,"Carr. 473 Km. 1.0, Bo. Pueblo",3,0
+Isabela,32,10,Ant. Esc.,Gloria González (M),"Carr. 457, Sect. Las Cruces, Bo. Planas",2,1
+Isabela,32,11,Ctro.,Usos Múltiples (Ant. Esc. W. Harding),"Carr. 476 Km. 4.7, Sect. El Canal, Bo. Planas",1,1
+Isabela,32,12,C. Com,Padre Rufo,"Carr. 4466, Camn. Vecinal A, Bo. Bajura",1,1
+Isabela,32,13,Ant. Esc.,Nicandro García (M)*,"Carr. 475 Km. 3.9, Sect. La Palma, Bo. Galateo Alto",2,0
+Isabela,32,14,Ant. Esc.,Juan B. Huyke (M),"Cll. Crucero, Urb. Alturas del Mar, Bo. Jobos",4,1
+Isabela,32,15,Col.,Los Pinos Bilingual School,"Carr. 112 Km. 5.8 Int., Sect. Los Pinos, Bo. Arenales Alto",2,1
+Isabela,32,16,Ant. Esc.,Gracelina Rosado (M),"Carr. 475, Com. Mantilla, Bo. Arenales Altos",3,1
+Isabela,32,17,Ant. Esc.,Francisca (Paquita) Chávez (M),"Carr. 475 Km. 1.0, Sect. La 15, Bo. Arenales Bajo",2,1
+Isabela,32,18,Esc.,José C. Rosario (Vocacional)*,"Carr. 2 Km. 112.0, Sect. La Curva, Bo. Mora",5,1
+Isabela,32,19,Esc.,Irma Deliz de Muñoz*,"Ave. Juan Hernández Ortiz, Bo. Pueblo",4,0
+Isabela,32,20,Esc.,José C. Rosario (Vocacional)*,"Carr. 2 Km. 112.0, Sect. La Curva, Bo. Mora",3,0
+Isabela,32,21,Ant. Esc.,José Julián Acosta (M),"Carr. 112 Km. 1.0, Cll. Bejucos Méndez, Bo. Bejucos",2,1
+Isabela,32,22,Esc.,Antonio Géigel Paredes,"Carr. 112 Km. 3.5, Sect. La Charca, Bo. Mora",2,1
+San Sebastián,33,1,Esc.,Carmelo Serrano Cubano (Saltos)*,"Carr. 445 Km. 3.5 Int., Bo. Saltos",4,1
+San Sebastián,33,2,Esc.,Áurea Fuentes Méndez (Calabazas Infante),"Carr. 119 Km. 7.3, Bo. Calabazas",3,1
+San Sebastián,33,3,Esc.,Carmelo Serrano Cubano (Saltos)*,"Carr. 445 Km. 3.5 Int., Bo. Saltos",2,0
+San Sebastián,33,4,Ant. Esc.,Ángel Guerrero Lugo,"(M) Carr. 447 Km. 2.5, Bo. Aibonito",2,1
+San Sebastián,33,5,Ant. Esc.,Aibonito Beltrán (M),"Carr. 457 Km. 0.5, Bo. Aibonito",1,1
+San Sebastián,33,6,Esc.,Bernardo Méndez Jiménez (Hato Arriba),"Carr. 125 Km. 15.1, Bo. Hato Arriba",3,1
+San Sebastián,33,7,Esc.,Manuel Méndez Liciaga,"Carr. 125, Km. 19.3, Bo. Guatemala",4,1
+San Sebastián,33,8,Ant. Esc.,Pablo Cardona Márquez (Altosano) (M),"Carr. 109 Km. 23.8, Bo. Sonador",4,1
+San Sebastián,33,9,C. Com,Barrio Calabazas,"Carr. 435 Km. 5.4, Bo. Perchas I",1,1
+San Sebastián,33,10,Esc.,Emilio Scharón Rodríguez,"Carr. 447, Km. 0.3, Bo. Hoya Mala",5,1
+San Sebastián,33,11,Ant. Esc.,Juana B. Guzmán (Guacio) (M),"Carr. 119 Km. 35.2, Int. Carr. 424, Bo. Culebrinas",2,1
+San Sebastián,33,12,Ant. Esc.,Francisco Lugo Rosa (Culebrinas) (M),"Carr. 109 Km. 27.5, Bo. Pozas",4,1
+San Sebastián,33,13,Esc.,Maximino A. Salas,"Carr. 111 Km. 26.4, Bo. Magos",4,1
+San Sebastián,33,14,C. Com,Cibao,"Cll. Capa, Bo. Cibao",2,1
+San Sebastián,33,15,Esc.,Ramón María Torres,"901 Ave. Emerito Estrada Rivera, Bo. Bahomamey",4,1
+San Sebastián,33,16,Cncha,Perchas,"Carr. 435 Km. 10.0, Bo. Perchas II",1,1
+San Sebastián,33,17,Ant. Esc.,Laurentino Nieves Vélez (M),"Carr. 433 Km. 1.0, Bo. Calabazas",2,1
+San Sebastián,33,18,Esc.,Ernestina Méndez de Echeandia,"Carr. 111 Km. 17.5, Bo. Bahonamey",3,1
+San Sebastián,33,19,Esc.,Aurora Méndez Charneco,"Cll. Pedro Albizu Campos, Bo. Pueblo",5,1
+San Sebastián,33,20,Esc.,Patria Latorre Ramíez,"Carr. 111 Int., Ave. Emérito Estrada Rivera, Bo. Piedras Blancas",2,1
+Las Marías,34,1,Ctro.,Geriatrico Municipal,"Carr. 120, Bo. Pueblo",2,1
+Las Marías,34,2,Esc.,Lauro González (Anones),"Carr. 406 Km. 4.0, Bo. Anones",3,1
+Las Marías,34,3,C. Com,Bucarabones  ,"Carr. 409, Sect. La Josefa, Bo. Bucarabones",2,1
+Las Marías,34,4,Ctro.,Bellas Artes  ,"Carr. 119 Km. 22.6, Bo. Furnias",3,1
+Las Marías,34,5,Esc.,Eva y Patria Custodio,"Carr. 120 Km 0.6, Bo. Maravilla Sur",3,1
+Las Marías,34,6,Esc.,Dr. Silverio Medina Gaud (Consumo)**,"Carr. 106 Km. 14.7, Bo. Naranjales",1,1
+Las Marías,34,7,Ant. Esc.,Eugenio María de Hostos (Vieja) (M),"Ave. Matías Brughman, Bo. Pueblo",2,1
+Las Marías,34,8,Ant. Esc.,Fortunato Jorge Corona (Buena Vista) (M),"Carr. 370 Km. 6.3, Bo. Buena Vista",2,1
+Las Marías,34,9,Esc.,Bryan,"Carr. 124 Km. 10.0 Int. 498, Bo. Cerrote",1,1
+Aguadilla,35,1,Esc.,Centro de Adiestramiento y Bellas Artes (CABA) (Ant. Esc. Eladio J. Vega)*,"6 Paseo Real Marina, Bo. Pueblo",3,1
+Aguadilla,35,2,Esc.,Centro de Adiestramiento y Bellas Artes (CABA) (Ant. Esc. Eladio J. Vega)*,"6 Paseo Real Marina, Bo. Pueblo",3,0
+Aguadilla,35,3,Esc.,Luis Muñoz Rivera,"Carr. 467 Km. 3.2 Esq. Cll. Luis T. Díaz, Bo. Borinquen",4,1
+Aguadilla,35,4,Ctro.,Fundación Súper Héroes (Ant. Esc. Playuela),"Carr. 107 Km. 2.7 Int., Sect. Playuela, Bo. Borinquen",2,1
+Aguadilla,35,5,Esc.,Esther Feliciano Mendoza (Base Ramey)*,"467 Cll. E, Base Ramey, Bo. Borinquen",4,1
+Aguadilla,35,6,Esc.,Benito Cerezo Vázquez,"Carr. 107 Int. 458, Km. 0.2, Bda. Borinquen",3,1
+Aguadilla,35,7,Esc.,Esther Feliciano Mendoza (Base Ramey)*,"467 Cll. E, Base Ramey, Bo. Borinquen",2,0
+Aguadilla,35,8,Esc.,Antonio Badillo Hernández (Elemental),"Carr. 459 Km. 7.0, Bo. Montaña",6,1
+Aguadilla,35,9,Ant. Esc.,Ramón Rodríguez (M),"Carr. 466 Km. 1.6, Bo. Aceitunas",3,1
+Aguadilla,35,10,Esc.,José de Diego,"Cll. Del Parque, Ave. Fernando Yumet, Bo. Victoria",3,1
+Aguadilla,35,11,Ant. Esc.,Lucía Cubero (M),"Carr. 2, Km. 121.0 Int. Cll. 3 Urb. Cristal Comunidad Corrales",4,1
+Aguadilla,35,12,Esc.,Adams (Conchita Igartúa de Suárez),"Carr. 2 Km. 122.0, Bo. Caimital Alto",6,1
+Aguadilla,35,13,Esc.,Juan Suárez Pelegrina,"Cll. Luis Román, Bo. Ceiga Alta",3,1
+Aguadilla,35,14,Esc.,Homero Rivera Solá,"Carr. 459, Bda. Esteves, Bo. Corrales",3,1
+Aguadilla,35,15,Ctro.,Emergencias Comunitarias (CEC),"Carr. 459 Cll. Del Parque, Com. Cabán Bo. Corrales",4,1
+Aguadilla,35,16,Ant. Esc.,José de Diego (M),"Res. José de Diego, Bo. Caimital Bajo",3,1
+Aguadilla,35,17,Ant. Esc.,Rafael Cordero (M),"Carr. 467 Km. 1.3, Sect. Malezas, Bo. Camaseyes",5,1
+Aguadilla,35,18,Ant. Esc.,Rafael Fabián (M),"Carr. 111 Int. Carr.125, Bo. Palmar",3,1
+Aguadilla,35,19,Esc.,Ana M. Javariz (El Prado),"Carr. 107 Km. 0.6, Urb. El Prado, Bo. Camaseyes",4,1
+Moca,36,1,C. Com,Centro,"Carr. 110 Km. 14.5 interior, Bo. Centro",2,1
+Moca,36,2,C. Com,Capá,"Carr. 125, Sect. Lasalle, Bo Capá",5,1
+Moca,36,3,C. Com,Ramón Pellot Rodríguez (Bo. Aceitunas),"Carr. 464 Km. 3.2, Bo. Aceitunas",4,1
+Moca,36,4,Esc.,Luis A. Colón (Anexo Adolfo Babilonia),"Cll. Blanca E. Chico, Bo. Pueblo",5,1
+Moca,36,5,Esc.,Efraín Sánchez Hidalgo,Carr. 110 (Cll. Monseñor José Torres) Bo Pueblo   ,6,1
+Moca,36,6,Esc.,Ramón Méndez Quiñones (Cuchillas),"Carr. 444 Km. 3.6, Bo. Cuchillas",7,1
+Moca,36,7,C. Com,Rocha,"Carr. 112 Int. Km. 16, Sect. Maguayo Bo. Rocha",3,1
+Moca,36,8,C. Com,Bo. Marías (Los Cocos),"Sect. Los Cocos, Camino Don Pello Acevdo, Bo. Marías",3,1
+Moca,36,9,Esc.,Marcelino Rodríguez Román,"Carr. 125 Km. 0.2, Bo. Voladora",5,1
+Moca,36,10,Esc.,Catalina Morales,"Carr. 110 Km. 9.5, Bo. Marías I",2,1
+Moca,36,11,C. Com,Bo. Naranjo,"Camino Justo Hernández, Bo. Naranjo",4,1
+Moca,37,1,Esc.,Tomás Vera Ayala,"Carr. 423 Km. 4.0, Bo. Plata Alta",2,1
+Moca,37,2,C. Com,Plata,"Carr. 420 Km. 5.0, Bo. Plata Baja",2,1
+Moca,37,3,Esc.,Cerro Gordo Medina,"Carr. 495 Km. 5.0 Sect. Medina, Bo. Cerro Gordo",4,1
+Aguada,38,1,Esc.,Profa. Juana Rosario Carrero*,Ave. Nativo Alers Desvío Sur,3,1
+Aguada,38,2,Esc.,José González Ruíz (Laguna),"Carr. 416 Km. 5.3, Bo. Laguna",4,1
+Aguada,38,3,Esc.,Juan Bautista Soto (Atalaya),"Carr. 411 Km. 5.9, Bo. Atalaya",3,1
+Aguada,38,4,Esc.,Profa. Juana Rosario Carrero*,Ave. Nativo Alers Desvío Sur,4,0
+Aguada,38,5,Esc.,Anselmo Villarubia (Malpaso),"Carr. 4416, Sect. Parcelas, Bo. Malpaso",6,1
+Aguada,38,6,Esc.,Dr. Carlos González,"Carr. 441 km. 0.9, Bo. Guaniquilla",5,1
+Aguada,38,7,Ctro.,JMAM Cacao (Ant. Esc. Gregorio Rodriguez Orama Atalaya III),"Carr. 411 Km. 9.0, Bo. Atalaya",3,1
+Aguada,38,8,H. S.,Tablonal,"Carr. 439 Km. 0.2 Sect. Tablonal, Bo. Asomante",2,1
+Aguada,38,9,Ctro.,Fundación Mi gran sueño (Ant. Esc.Martín Hernández),"Carr. 442 Km. 1.5, Bo. Espinar",2,1
+Aguada,38,10,Ant. Esc.,Manuel Morales Feliciano (Cerro Gordo) (C),"Carr. 417 Km. 7.7, Bo. Cerro Gordo",4,1
+Aguada,38,11,Ant. Esc.,María L. Jiménez López (Naranjo Arriba) (M),"Carr. 416 Km. 6.8, Bo. Naranjo",2,1
+Aguada,38,12,Esc.,Lydia Meléndez (Urbana Nueva),"Carr. 115 Km. 23.9, Bo. Asomante",3,1
+Aguada,38,13,Esc.,Juan Lino Santiago (Guanábano),"Carr. 417 Km. 3.6, Bo. Guanábano",5,1
+Aguada,38,14,Esc.,Aquilino Cabán (Mamey),"Ramal 4417 Km. 4.5, Bo. Mamey",4,1
+Aguada,38,15,Ant. Esc.,Padre Pablo Gutiérrez Flores (Cruces Abajo) (C),"Carr. 414 Km. 2.8, Bo. Cruces",2,1
+Aguada,38,16,Esc.,Epifanio Estrada (Jaguey),"Carr. 411 Km. 2.8, Bo. Piedras Blancas",4,1
+Aguada,38,17,Ctro.,Pro Bienestar Bo. Marías (Ant. Esc. Petra Valle),"Carr. 417 Km. 3.6, Camn. Vecinal, Bo. Marías",3,1
+Rincón,39,1,Ctro.,Escolar Juan Ruiz Pedroza (Esc. de la Cultura) (M)*,"Cll. Sol Frente al Parque de Bombas, Bo. Pueblo",2,1
+Rincón,39,2,Ctro.,Escolar Juan Ruiz Pedroza (Esc. de la Cultura) (M)*,"Cll. Sol Frente al Parque de Bombas, Bo. Pueblo",5,0
+Rincón,39,3,Esc.,Manuel González Melo*,"Carr. 115 Km. 9.3, Bo. Calvache (Atalaya)",2,1
+Rincón,39,4,Esc.,Manuel González Melo*,"Carr. 115 Km. 9.3, Bo. Calvache (Atalaya)",4,0
+Rincón,39,5,Esc.,Manuel García Pérez,"Cll. Pedro Albizu Campos Int., Bo. Pueblo",5,1
+Rincón,39,6,Ant. Esc.,Maestro Gandía (M),"Carr. 412 Km. 5.2, Bo. Cruces",3,1
+Rincón,39,7,C. Com,Jagüey,Carr. 4412 Km. 0.7 Bo. Jagüey,1,1
+Añasco,40,1,Ctro.,José Rodríguez Arroyo (Ant. Esc. Caguabo),"Carr. 115 Km. 5.6 Int., Bo. Caguabo",1,1
+Añasco,40,2,C. Com,Miraflores,"Carr. 109 Int., Bo. Miraflores",1,1
+Añasco,40,3,Ant. Esc.,Mariana Bracetti (Piñales Abajo) (M),"Carr. 402 Km. 5.1 Int., Bo. Piñales Abajo",5,1
+Añasco,40,4,C. Com,Casey Abajo,"Carr. 406 Km. 4.6, Bo. Casey Abajo",1,1
+Añasco,40,5,Ctro.,Puerto Rico Somos Gente (Ant. Esc.Ovejas),Carr. 430 Parcelas Aquilino Bo. Ovejas,3,1
+Añasco,40,6,Esc.,Antonio González Suárez,"Carr. 402 Km. 6.0, Bo. Marias",4,1
+Añasco,40,7,Ant. Esc.,Parcelas María (M),"Carr. 402 Km. 5.0 Int., Bo. Marías",6,1
+Añasco,40,8,Esc.,Espino,"Carr. 109 Km. 5.1 Int. Cll. Recreo, Bo. Espino",3,1
+Añasco,40,9,Esc.,Isabel Suárez,Cll. 65 Infantería,2,1
+Añasco,40,10,Ant. Esc.,José Adolfo Hernández (Cerro Gordo) (M),Carr. 419 Bo. Cerro Gordo,1,1
+Añasco,40,11,Ctro.,Convenciones de la Montaña,"Carr. 420 Km. 2.5 Int., Bo. Corcovada",1,1
+Añasco,40,12,Ant. Esc.,Felipe Odiott Morales (S.U. Playa) (M),"Carr. 401 Km. 8.0, Com. Tres Hermanos, Bo. Playa",3,1
+Añasco,40,13,Esc.,Alcides Figueroa,"Cll. María Monagas, Bo. Pueblo",2,1
+Añasco,40,14,Esc.,Carmen Casasús Marti,"Carr. 109 Km. 0.9, Bo. Carreras",5,1
+Mayagüez,41,1,Cncha,Bajo Techo El Maní,"Carr. 64, Km. 0.1",4,1
+Mayagüez,42,1,Univ.,Recinto Universitario de Mayagüez (RUM),"Carr. 108, Bo Pueblo",7,1
+Mayagüez,42,2,Esc.,Dr. Pedro Perea Fajardo (Vocacional)*,"Ave. Luis Llorens Torres, Bo. Pueblo",3,1
+Mayagüez,42,3,C. Com,Leguísamo,"Carr. 108 Km.7.5 Camn. Arrarás, Bo. Río Cañas, Añasco",2,1
+Mayagüez,42,4,Esc.,Río Cañas Abajo (Nueva Maríni)*,"Carr. 352 Int. 351, Bo. Río Cañas Abajo",4,1
+Mayagüez,42,5,Esc.,Esteban Rosado Báez,"Carr. 341, Bo. Algarrobos",3,1
+Mayagüez,42,6,Ctro.,Usos Múltiples El Seco,"192 Cll Concordia, Sect. El Seco Bo. Pueblo",2,1
+Mayagüez,42,7,Esc.,Dr. Pedro Perea Fajardo (Vocacional)*,"Ave. Luis Llorens Torres, Bo. Pueblo",3,0
+Mayagüez,42,8,C. Com,Rio Hondo,"Carr. 380 Cll. Del Parque, Bo. Río Hondo",4,1
+Mayagüez,42,9,Esc.,José Gautier Benítez*,"64 Cll. Balboa, Bo. Pueblo",3,1
+Mayagüez,42,10,Esc.,Mariano Riera Palmer,"257 Cll. Méndez Vigo Esq. San Juan, Bo. Pueblo",2,1
+Mayagüez,42,11,C. Com,Cancha Quebrada Grande,"Camn. Quebrada Grande , Bo. Quebrada Grande",4,1
+Mayagüez,42,12,Cncha,Parcelas Rolón,"Carr. 339 Cll. 6, Sect. Rolón, Bo. Montoso",3,1
+Mayagüez,42,13,Esc.,José Gautier Benítez*,"64 Cll. Balboa, Bo. Pueblo",2,0
+Mayagüez,42,14,Esc.,Segundo Ruíz Belvis*,"Carr. 102 (Ave. José González Clemente), Km. 3.4 Res. Carmen Bo. Pueblo",3,1
+Mayagüez,42,15,Esc.,Segundo Ruíz Belvis*,"Carr. 102 (Ave. José González Clemente), Km. 3.4 Res. Carmen Bo. Pueblo",4,0
+Mayagüez,42,16,Esc.,Eugenio María de Hostos,"Cll. Pilar Defilló, Bo. Pueblo",5,1
+Mayagüez,42,17,Esc.,Luis Muñoz Rivera (Nueva),"Carr. 349 Interior Cll. Antonio Cruz Núñez, Bo. Manantiales",4,1
+Mayagüez,42,18,Esc.,Olga Mas Ramírez (Malezas),"Carr. 348 Km. 5.2 Interior, Bo. Malezas",3,1
+Mayagüez,42,19,Esc.,Elpidio H. Rivera,"570 Cll. 10, Urb. Río Cristal Bo. Sábalos",5,1
+Mayagüez,42,20,Esc.,Rafael Martínez Nadal*,"Cll. Salvador Mestre Esq. Carbonell, Sect. Villa Angélica",2,1
+Mayagüez,42,21,Esc.,Rafael Martínez Nadal*,"Cll. Salvador Mestre Esq. Carbonell, Sect. Villa Angélica",3,0
+Mayagüez,42,22,Esc.,José Gautier Benítez*,"64 Cll. Balboa, Bo. Pueblo",1,0
+Mayagüez,42,23,Esc.,CROEM,"Carr. 349 Km. 6.9, Cerro Las Mesas",2,1
+Mayagüez,42,24,Esc.,Río Cañas Abajo (Nueva Maríni)*,"Carr. 352 Int. 351, Bo. Río Cañas Abajo",1,0
+Mayagüez,42,25,Esc.,Dr. Silverio Medina Gaud (Consumo)**,"Carr. 106 Km. 14.7, Bo. Naranjales, Las Marías",2,1
+Mayagüez,42,26,Univ.,Pontificia Universidad Católica*,"Cll. Post Sur, Bo. Sábalos",6,1
+Mayagüez,42,27,Univ.,Pontificia Universidad Católica*,"Cll. Post Sur, Bo. Sábalos",4,0
+Mayagüez,42,28,C. Com,Castillo,53 Cll. Cupey Parc. Castillo Bo. Guanajibo,2,1
+San Germán,43,1,Cncha,Esc. Georgina Alvarado Cabrera,"Carr. 330 Km.3.0 Int., Bo. Duey Alto",2,1
+San Germán,43,2,C. Com,Poblado Rosario,"Cll. Néstor Torres Ballester, Bo. Rosario Bajo",2,1
+San Germán,43,3,C. Com,La Sierra,"Carr. 348 Km. 14.0 Int., Sect. La Sierra, Bo. Rosario Peñon",1,1
+San Germán,43,4,Ant. Esc.,José Celso Barbosa (M),"Carr. 119 Km. 72.3, Bo. Rosario Alto",1,1
+San Germán,43,5,Ctro.,Asociación Personas con Impedimentos Inc.,"Cll. Dr. Veve Final, Edif. Claudete Toro",2,1
+San Germán,43,6,Cncha,Margaro Santos (Caín),"Carr. 361 Km. 7.2 Int., Bo. Cain Alto",2,1
+San Germán,43,7,C. Com,Guamá,"Carr. 362 Km. 5.7, Bo. Guamá",3,1
+San Germán,44,1,H. S.,Duey Alto,"Carr. 330 Inter. Carr. 393, Bo. Duey Alto",1,1
+San Germán,44,2,Ctro.,Envejecientes de Hoconuco,"Carr. 119 Inter. Carr. 393, Bo. Hoconuco Bajo",2,1
+San Germán,44,3,Esc.,Herminia C. Ramírez,"Carr. 347 Km. 4.3, Sect. La Haciendita",2,1
+San Germán,44,4,C. Com,"William ""Willie"" Ortiz Ayala (Caín Bajo)","Carr. 119 Km. 78.9, Sec. El Cuatro, Bo. Caín Bajo",2,1
+San Germán,44,5,Ctro.,Convenciones Santiago R. Palmer,"Carr. 102, Ave.Los Atléticos, Bo. Retiro",4,1
+San Germán,44,6,C. Com,La Tea,"Carr. 118, Parc. La Tea, Bo. Retiro",2,1
+San Germán,44,7,Cncha,José del Carmen Alemañy,"Carr. 314 Km 2.0, Com. Cotuí, Bo Cotuí",2,1
+San Germán,44,8,Cncha,Bajo Techo Parcelas Minillas,"Carr. 102 Km. 37.6, Bo. Minillas",4,1
+San Germán,44,9,Ctro.,Envejecientes Luis Ufret,"Carr. 347 Km. 0.9, Bo. Sabana Grande Abajo",2,1
+San Germán,44,10,Esc.,Julio V. Guzmán,"Ave. Jorge Alberto Ramos Comas #65, Bo. Pueblo",6,1
+San Germán,44,11,Cncha,Urb. Santa Marta,"Carr. 102 Km. 33.4, Bo. Retiro",2,1
+San Germán,44,12,Cncha,Coliseo Arquelio Torres,"Carr. 102, Ave. Los Atléticos, Bo. Retiro",3,1
+San Germán,44,13,Ant. Esc.,Galo Rosado,"Carr. 102, Parc. Sabana Eneas, Bo. Sabana Eneas",4,1
+Hormigueros,45,1,C. Com,Carretera Nueva,"Carr. 344, Km. 2.4, Sect. Bracero, Bo. Jagüitas  ",1,1
+Hormigueros,45,2,C. Com,Lavadero,Bo. Lavadero,4,1
+Hormigueros,45,3,Ctro.,"Convenciones Roberto ""Bobby"" Cruz","Carr. 346 Km. 0.6, Bo. Jagüitas",4,1
+Hormigueros,45,4,Esc.,Colinas del Oeste (Escuela Elemental Nueva),"Carr. 309 Km. 67,Camn. Santana, Bo. Guanajibo",3,1
+Hormigueros,45,5,Esc.,Alfredo Dorrington,"33 Cll. Flamboyán, Urb. Valle Hermoso, Bo. Guanajibo",4,1
+Hormigueros,45,6,Esc.,Ramón E. Rodríguez Díaz,"Cll. Comercio, Urb. Verdún, Bo. Hormigueros",4,1
+Hormigueros,45,7,Esc.,Segundo Ruíz Belvis,"16 Cll. Ruíz Belvis, Bo.Pueblo",2,1
+Hormigueros,45,8,C. Com,El Hoyo (Doña Filomena Minguela Bracero),"Carr. 388 Km. 0.0 Esq. Carr. 345, Bo. Jagüitas",1,1
+Cabo Rojo,46,1,Esc.,Sebastián Pabón Alves,"Carr. 301 Km. 7.4, Sect. Corozo, Bo. Boquerón",4,1
+Cabo Rojo,46,2,Ctro.,Plaza Artesanal Dr. Rolando Ortíz Medina,Boulevard Oscar Junior Rodríguez Cll. Brau,2,1
+Cabo Rojo,46,3,Esc.,James A. Garfield,"Carr. 103 Km. 3.8, Bo. Pedernales",4,1
+Cabo Rojo,46,4,Univ.,Sistema Universitario Ana G. Méndez (Cabo Rojo),Carr. 100 Sect. Miradero Km. 4.8,9,1
+Cabo Rojo,46,5,Esc.,Mildred Arroyo Cardoza (S.U Puerto Real),"Carr. 308 Km. 5.2, Bo. Puerto Real",9,1
+Cabo Rojo,46,6,Esc.,Severo E. Colberg Ramírez,"Carr. 102 Ave. Pedro Albizu Campos, Bo. Pueblo Nuevo",4,1
+Cabo Rojo,46,7,Esc.,Monserrate León de Irizarry,"Carr. 101 Km. 18.2, Poblado Boquerón",7,1
+Cabo Rojo,46,8,Esc.,Federico Degetau,"Carr. 103 Km. 11.9, Bo. Boquerón",4,1
+Cabo Rojo,46,9,Ant. Esc.,Capilla (M),"Carr. 300, Bo. Llanos Tuna",2,1
+Cabo Rojo,46,10,Esc.,Inés María Mendoza de Muñoz,"Cll. Barbosa Norte Urb. Ana María, Bo. Pueblo",7,1
+Cabo Rojo,46,11,Esc.,Antonio Acarón Correa,"Carr. 102 Km. 21.9, Bo. Monte Grande",6,1
+Lajas,47,1,Esc.,Leonides Morales Rodríguez,"20 Cll. Santa Rosa, Bo. Pueblo",3,1
+Lajas,47,2,Ctro.,Gubernamental (Ant. Esc. Arturo Grant Pardo),"37 Cll. San Blás Norte, Bo. Lajas",3,1
+Lajas,47,3,C. Com,Santa Rosa,Carr. 117 Km. 1.5 Bo. Santa Rosa,3,1
+Lajas,47,4,Esc.,Rosendo Matienzo Cintrón,"Carr. 117 Km. 5.3, Bo. Lajas Arriba",3,1
+Lajas,47,5,C. Com,Cuesta Blanca,Cll. Laurel Com. Cuesta Blanca,1,1
+Lajas,47,6,H. S.,Early Head Start La Plata,"Carr. 117 Km. 9.2, Bo. Plata",3,1
+Lajas,47,7,C. Com,Salinas,100 Cll. Úcar Com. Salinas Fortuna,1,1
+Lajas,47,8,C. Com,La Parguera,Carr. 304 Km. 3.0 Bo. Parguera,3,1
+Lajas,47,9,Esc.,Juan Cancio Ortíz,"Carr. 101 Km. 7.6, Bo Palmarejo",3,1
+Lajas,47,10,Ctro.,Gubernamental (Ant. Esc. Ricardo Marty Font),"Carr. 305 Com. Maguayo, Bo. Palmarejo",2,1
+Lajas,47,11,Esc.,Ramón Olivares,"Carr. 303 Cll. Amapola, Parc. Olivares",2,1
+Lajas,47,12,C. Com,Paris,"Carr. 306 Km. 3.6, Int.. Ramal 3306, Bo. París  ",2,1
+Lajas,47,13,Cncha,Bajo Techo Candelaria,"Carr. 316 Km. 1.6, Bo. Candelaria",2,1
+Lajas,47,14,Esc.,Urbana Nueva,"233 Ave. Los Flamboyanes, Bo. Sabana Yeguas",4,1
+Guánica,48,1,Ctro.,Carpas en Cll. Dr. Veve*,"Cll. Dr. Veve, Bo. Pueblo",3,1
+Guánica,48,2,Ctro.,Club Puertorriqueño de Ensenada*,"Carr. 3116 Cll.2, Bo. Ensenada",3,1
+Guánica,48,3,Ctro.,Club Puertorriqueño de Ensenada*,"Carr. 3116 Cll.2, Bo. Ensenada",3,0
+Guánica,48,4,C. Com,Playa Santa,"Carr. 325 Sect. Playa Santa, Bo. Montalva",1,1
+Guánica,48,5,Cncha,Bajo Techo Guaypao,Carr. 325,1,1
+Guánica,48,6,C. Com,Bélgica,Sect. B élgica,3,1
+Guánica,48,7,C. Com,Fuig,"Carr. 331, Cll.1, Sect. Fuig",2,1
+Guánica,48,8,Cncha,La Laguna,Bo. La Laguna,2,1
+Guánica,48,9,Ctro.,Carpas en Cll. Dr. Veve*,"Cll. Dr. Veve, Bo. Pueblo",3,0
+Guánica,48,10,Cncha,Bajo Techo Arenas,Carr. 332 Cll. Principal,2,1
+Guánica,48,11,Cncha,Bajo Techo Magueyes,Sect. Magueyes,1,1
+Guánica,48,12,Cncha,La Joya de Santa Rita,"Sect. La Joya de Santa Rita, Bo. Susúa Baja, Cll. 4",2,1
+Guánica,48,13,Ant. Esc.,Carpa frente Ant. Esc. Olga Evangelina,"Carr. 334, Calle 2 Sect. La Luna, Bo. Cenero",3,1
+Guánica,48,14,C. Com,Santa Juanita,"78 Cll. A, Sect. Santa Juanita, Bo. Caño",1,1
+Sabana Grande,49,1,Ctro.,Parque Rafael Milán Padró,Carr. 121 # 32 Ave. Vicente Quillinchini,8,1
+Sabana Grande,49,2,Cncha,"José ""Witito"" Martínez","Carr. 121 Km. 5.0, Bo. Machuchal",7,1
+Sabana Grande,49,3,Esc.,Luis Negrón López,"Carr. 368 Km. 0.1, Bo. Rincón",7,1
+Sabana Grande,49,4,Esc.,Blanca Malaret,"Cll. Pedro Rodríguez Acosta, Num. 1 Ext. San Isidro",7,1
+Sabana Grande,49,5,C. Com,San Isidro,"Cll. Manuel Rodríguez Num. 161, Ext. San Isidro",2,1
+Maricao,50,1,Esc.,La Carmen,"Carr. 105 Km. 21.2 Sect. La Carmen, Bo. Montoso",3,1
+Maricao,50,2,Esc.,Raúl Ybarra,"Carr. 120 Cll. Lucchetti, Bo. Pueblo",4,1
+Maricao,50,3,Ctro.,Cibérnetico El 30 (Centro de Servicios Múltiples),"Carr. 428 Km. 3.3 Interior, Sect. El 30, Bo. Indiera Alta",1,1
+Maricao,50,4,Ctro.,Fundación Bucarabón (Ant. Esc. Francisco Vicenty),"Carr. 105 Km. 39.6, Bo. Bucarabones",1,1
+Maricao,50,5,Esc.,Indiera Fría,"Carr. 366 Km. 3.2, Bo. Indiera Fría",1,1
+Maricao,50,6,Ctro.,ADEA,"Carr. 105 Km. 43.0, Bo. Indiera Baja",2,1
+Yauco,51,1,C. Com,Barriada Lluberas,"Carr. 376, Bda. Arturo Lluberas, Bo. Almácigo Bajo",2,1
+Yauco,51,2,Esc.,Lena N. Francesch (Rubias),"Carr. 105 Km. 25.0, Bo. Rubias",1,1
+Yauco,51,3,Ctro.,Servicios Múltiples de Río Prieto,"Carr. 374 Km. 8.0, Bo. Río Prieto",2,1
+Yauco,51,4,Ant. Esc.,Andrés Mattei Rodríguez (Collores Tardí) (M),"Carr. 371 Km. 7.2, Bo. Collores",2,1
+Yauco,51,5,Ctro.,"Colmado Wilmer, Cafetería La Querencia","Carr. 128 Km. 3.1, Bo. Almácigo Alto",1,1
+Yauco,51,6,Ctro.,Usos Múltiples de Naranjo,"Carr. 373 Km. 4.1, Bo. Naranjo",1,1
+Yauco,51,7,Ctro.,Envejecientes Myrna Hernández,"Carr. 371 Km. 2.2 Int. Sect. Quiñones, Bo. Almácigo Bajo",4,1
+Yauco,51,8,Esc.,Doris Martínez (Almácigo Alto II),"Ramal 371 Km. 4.6 Int. Sect. Ramón El Guardia, Bo. Almácigo Alto",2,1
+Yauco,51,9,Ant. Esc.,Teresa Semidei (Algarrobos) (M),"Carr. 128 Km. 8.7, Bo. Algarrobo",1,1
+Yauco,51,10,Esc.,S.U. Jaime Castañer (Duey),"Carr. 372 Km. 7.1, Bo. Duey",2,1
+Yauco,51,11,Ctro.,Iglesia Oasis de Vida Eterna,"Carr. 368 Centro Comercial Villa del Cafetal, Bo. Susúa Alta",5,1
+Yauco,52,1,C. Com,Mogotes,"Carr. 375 Sect. Mogotes, Bo. Sierra Alta",1,1
+Yauco,52,2,Ctro.,Usos Múltiples Sierra Alta,"Ramal 3375, Bo. Sierra Alta",1,1
+Yauco,52,3,Esc.,Santiago Negroni,"Carr. 2 Ave. Barbosa Cll.1, Bo. Pueblo",3,1
+Yauco,52,4,C. Com,Diego Hernández,Km. Hm 1.9 Carr. 372 Bo. Diego Hernández,2,1
+Yauco,52,5,Ctro.,Usos Múltiples Primitivo Irizarry,"Cll. Leida Irizarry Sect. Primitivo Irizarry, Bo. Quebrada",2,1
+Yauco,52,6,Cncha,Bajo Techo Parcelas de Jácana,Carr.127 Parc. Jácanas,2,1
+Yauco,52,7,Ant. Esc.,Ana Negrón (M),Carr. 335 Bo. Barina,6,1
+Yauco,52,8,Esc.,Inés María Mendoza*,"Ave. Luis Muñoz Marín, frente a Urb. Mont Blanc",2,1
+Yauco,52,9,Esc.,Inés María Mendoza*,"Ave. Luis Muñoz Marín, frente a Urb. Mont Blanc",4,0
+Yauco,52,10,Esc.,Santiago Rivera García (Ocupacional y Técnica)*,"Carr. 128 Int. 368 Km. 0.2, Bo. Susúa Baja",3,1
+Yauco,52,11,Ctro.,Cesari (Ant. Centro de Envejecientes),"Ave. 65 de Infantería, Bo. Pueblo",3,1
+Yauco,52,12,Esc.,Santiago Rivera García (Ocupacional y Técnica)*,"Carr. 128 Int. 368 Km. 0.2, Bo. Susúa Baja",4,0
+Yauco,52,13,Ctro.,Club Rotario de Yauco,"Carr. 121 Ave. Rotario, Bo. Susúa Baja",3,1
+Lares,53,1,Esc.,Domingo Aponte Collazo,"Cll. Ramón De Jesús Sierra, Bo. Pueblo",5,1
+Lares,53,2,Ant. Esc.,Rafael Martínez Nadal (M),6 Cll. Francisco Echegaray,4,1
+Lares,53,3,Esc.,George Washington,"Carr. 111 Km. 33.8, Sect. Seburuquillo, Bo. Pueblo",4,1
+Lares,53,4,Ant. Esc.,Juan Carlos Pagán (M),"Carr. 129 Int. 454, Bo. Callejones",6,1
+Lares,53,5,Esc.,Josefina Linares,"Carr. 111 Km. 39.3, Bo. Lares",4,1
+Lares,53,6,Esc.,Angélica Delgado Sella,"Carr. 129 Km. 13.5, Bo. Buenos Aires",5,1
+Lares,53,7,Esc.,Ramón De Jesús Sierra,"Carr. 111 Km. 2.9, Bo. Pueblo",2,1
+Lares,53,8,Ant. Esc.,José Oliver (M),"Carr. 124 Km. 2.1, Bo. Espino",2,1
+Lares,53,9,Ctro.,Comunidad Bartolo ( Ant. Esc. Bartolo) (M),"Carr. 128 Km. 38.6, Bo. Bartolo",2,1
+Lares,53,10,Esc.,Julio Lebrón Soto,"Carr. 135 Km. 64.1, Poblado Castañer",1,1
+Lares,53,11,Esc.,Héctor Hernández Arana,"Carr. 111 Km. 24.9, Bo. Piletas Arce",2,1
+Lares,53,12,C. Com,Pezuela,"Carr. 413, Bo. Pezuela",2,1
+Lares,53,13,Ant. Esc.,Ignacio Dicupé Gonzalez (M),"Carr. 453 Km. 5.5, Bo. Piletas",6,1
+Utuado,54,1,Ant. Esc.,Carmen Aponte (Cayucos) (M),"Carr. 621 Km. 2.5, Sect. Cayuco, Bo. Caguana",2,1
+Utuado,54,2,Esc.,José Vizcarrondo (Angeles),"Carr. 602 Km. 1.1, Bo. Angeles",3,1
+Utuado,54,3,Esc.,Francisco Jordán (Caguana),"Carr. 621 Km. 9.0, Bo. Caguana",4,1
+Utuado,54,4,H. S.,Arenas Abajo,"Carr. 523 Km. 4, Bo. Arenas",1,1
+Utuado,54,5,Esc.,Inocencio A. Montero (Salto Arriba),"Carr. 123 (Antigua PR- 10) Km. 51.6, Bo. Arenas",3,1
+Utuado,54,6,Esc.,Bernardo González (Salto Abajo),"Carr. 123 (Antigua PR- 10) Km. 56.3, Bo. Pueblo",4,1
+Utuado,54,7,Esc.,María Libertad Gómez,"Cll. Roble, Urb. Luis Pérez Matos, Bo. Pueblo",5,1
+Utuado,54,8,Esc.,Judith A. Vivas,"Carr. 111, Bo. Pueblo",3,1
+Utuado,54,9,Ant. Esc.,Isabel M. Rivera (M),"Carr. 611 Km. 5.3, Bo. Sabana Grande Arriba",2,1
+Utuado,54,10,C. Com,Jácana,"Carr. 622 Km. 2.2, Sect. Jácana, Bo. Caguana",1,1
+Utuado,54,11,Cncha,Bujosa,"Sect. Bujosa, Bo. Don Alonso",1,1
+Utuado,54,12,Ant. Esc.,Luis Vélez (Paso Palma I) (M),"Carr. 140 Km. 15.0, Bo. Las Palmas",1,1
+Utuado,54,13,H. S.,Las Palmas,"Carr. 140 Km. 22.4, Bo. Las Palmas",1,1
+Utuado,54,14,Esc.,Antonio Tulla Torres (S.U Mameyes),"Carr. 140 Km. 38.8, Bo. Mameyes Abajo",2,1
+Utuado,54,15,Ant. Esc.,Celina Maestre (Viví Arriba) (M),"Carr. 605 Km. 4.0, Bo. Viví Arriba",2,1
+Utuado,54,16,Ant. Esc.,Ángeles Corcho (M),"Carr. 600 Km. 2.2, Bo. Angeles",2,1
+Utuado,54,17,Esc.,Luis Muñoz Rivera,"124 Cll. Dr. Cueto, Bo. Pueblo",3,1
+Utuado,54,18,Esc.,Marta Lafontaine,"Carr. 613 Km. 2.5, Bo. Caonillas Abajo",2,1
+Utuado,54,19,Esc.,Proyecto CASA (Ant. Esc. Monserrate Moreno),"Ave. Esteves (Ant. Carr. 111), Km. 1.1, Bo. Pueblo",2,1
+Utuado,54,20,H. S.,Ant. Esc. Félix Seijo (M),"Cll. José Colomer Sánchez, Bo. Pueblo",2,1
+Adjuntas,55,1,C. Com,Pellejas Hoyos,"Carr. 524 Km. 0.9, Sect. Pellejas Hoyos, Bo. Pellejas",1,1
+Adjuntas,55,2,Ant. Esc.,Telesforo Vélez Oliver (M),"Carr. 521, Esq. Carr. 522, Bo. Vegas Arriba",2,1
+Adjuntas,55,3,C. Com,Las Maracas,"Carr. 523 Km. 2.3, Bo. Juan González",1,1
+Adjuntas,55,4,Esc.,Gabriela Mistral,"Carr. 135 Km. 65.4, Sect. Castañer, Bo. Bartolo, Lares",2,1
+Adjuntas,55,5,Esc.,Domingo Pietri Ruiz,"16 Cll. Rodulfo González, Bo. Juan González",2,1
+Adjuntas,55,6,Ant. Esc.,Francisco Pietri Mariani (M),"Carr. 131 Km. 1.4, Bo. Guilarte",2,1
+Adjuntas,55,7,H. S.,Mi Casita (Manuel F. Sánchez),"Carr. 518 Km. 8.8, Sect. Garzas Juncos, Bo. Garzas",2,1
+Adjuntas,55,8,Igl.,De Dios Pentescostal M.I. (Ant. Esc. Ángel A. Maldonado Bula),"Carr. 526 Km. 7.2, Bo. Tanamá",2,1
+Adjuntas,55,9,Ctro.,Servicios Municipales (Ant. Esc. José Julián Acosta)  ,"Carr. 5516 (Cll. Rodolfo González), Bo Pueblo",3,1
+Adjuntas,55,10,Loc.,Oficinas ADEA,"Carr. 135 Km. 13.7, Bo. Yahuecas",4,1
+Adjuntas,55,11,Esc.,Domingo Massol,"Carr. 388, Sect. Vacas, Bo. Saltillo",2,1
+Adjuntas,55,12,Ctro.,Servicios Municipales (Ant. Esc. Washington Irving),"Carr. 5516 (Cll. Rodolfo González), Bo Pueblo",7,1
+Jayuya,56,1,Ctro.,Seguridad Pública (Ant. Esc. Agustín Ortiz Rivera),"Carr. 141 Km. 1.9, Bo. Pueblo",3,1
+Jayuya,56,2,Esc.,Adrián Torres Torres*,"Carr. 5141, Sect. El Desvío",1,1
+Jayuya,56,3,Esc.,Antonia Serrano González (S.U. Mameyes),"Carr. 141 Km.11.1, Bo. Mameyes Arriba",3,1
+Jayuya,56,4,Esc.,Adrián Torres Torres*,"Carr. 5141, Sect. El Desvío",5,0
+Jayuya,57,1,Esc.,Nemesio R. Canales,"Carr. 144 Km. 9.2, Bo. Coabey",2,1
+Jayuya,57,2,Cncha,Complejo Deportivo Aníbal Oyola Rabago (Com. Saliente),"Carr. 539 Km. 1.7, Bo. Saliente",1,1
+Jayuya,57,3,Esc.,Miguel A. Sastre Oliver,"Carr. 527 Km. 1.5, Sect. Gripiñas, Bo. Veguita",3,1
+Jayuya,57,4,Esc.,Joséfina León Zayas,"Carr. 5144, Esq. Desvío Los Maestros, Bo. Coabey",4,1
+Jayuya,57,5,Ctro.,Biblioteca Electrónica (Antigua Escuela Zamas),"Carr. 528 Km. 2.0, Bo. Veguitas",1,1
+Jayuya,57,6,Esc.,San Patricio,"Carr. 143 Km. 7.9, Bo. Pica",1,1
+Jayuya,57,7,Esc.,Antonio Romero Muñíz,"Carr. 140 Km. 16.0, Bo. Collores",3,1
+Guayanilla,58,1,C. Com,Barrio Playa (Centro Marítimo),"Carr. 127 Km. 10.4, Bo. Playa",2,1
+Guayanilla,58,2,H. S.,Llano,"Carr. 379 Sect. Pimientos, Bo. Llanos",1,1
+Guayanilla,58,3,Esc.,Gloria M. Borrero Oliveras (Nueva Macaná),"Carr. 132 Km. 4.2, Bo. Macaná",4,1
+Guayanilla,58,4,C. Com,Jaguas Tuna,"Carr. 132 Km. 1.4 Int, Bo. Jaguas",2,1
+Guayanilla,58,5,Ctro.,Hotel Costa Bahía Convention Center*,Carr. 127 Km. 8.6,3,1
+Guayanilla,58,6,Ctro.,Hotel Costa Bahía Convention Center*,Carr. 127 Km. 8.6,4,0
+Guayanilla,58,7,Ant. Esc.,Padre Nazario (M),"4 Cll. Concepción, Esq. Cll. Padre Napeleon Fruscoloni, Bo. Pueblo",5,1
+Guayanilla,58,8,C. Com,Magas Arriba,"Carr. 382 Km. 2.4, Bo. Magas",2,1
+Guayanilla,58,9,Rcia.,Tato Roig,"Carr. 378, Km 4.4, Bo. Jagua Pasto",1,1
+Guayanilla,58,10,C. Com,Verdún,"Carr. 335 Km. 11.6 Int, Sect. Verdún, Bo. Indios",2,1
+Guayanilla,58,11,Cncha,Bajo Techo Aleina Ramírez González,"Carr. 3336, Km. 10.5, Bo. Indios",3,1
+Guayanilla,58,12,C. Com,Quebrada Honda,"Carr. 381 Km. 1.8, Bo. Quebrada Honda:",1,1
+Guayanilla,58,13,Rcia.,José Damiani Emmanuelli,"Carr. 375 Km. 1.0, Bo. Sierra Baja",1,1
+Guayanilla,58,14,Ant. Esc.,Consejo (M),"Carr. 377 Km. 12, Sect. Consejo Alto, Bo. Consejo",2,1
+Peñuelas,59,1,C. Com,Luis Manuel Ridríguez,Carr. 386 Km. 7.5 Bo. Barreal,1,1
+Peñuelas,59,2,C. Com,Jaguas,"Carr. 386, Sect. Planta I. Bo. Jaguas  ",1,1
+Peñuelas,59,3,C. Com,Alturas II,Urb. Alturas de Peñuelas II Cll. 9,4,1
+Peñuelas,59,4,H. S.,Bo. Rucio,"Ramal 391, Bo. Rucio",1,1
+Peñuelas,59,5,Ctro.,Usos Múltiples (Macaná La Vega),"Ramal 131 Sect. La Vega, Bo. Macaná",1,1
+Peñuelas,59,6,C. Com,Y Cancha Bo. Santo Domingo,"Carr. 132 Km. 7.0 Sect. La Carcajada, Bo. Santo Domingo",4,1
+Peñuelas,59,7,C. Com,Bo. Quebrada Ceiba,"Carr. 386 Sect. La Gelpa, Bo. Quebrada Ceiba",2,1
+Peñuelas,59,8,C. Com,Parcelas Caracoles II,"Cll. 1, Sect. Caracoles, Bo. Quebrada Ceiba",4,1
+Peñuelas,59,9,Esc.,Rafael Irizarry Rivera,"Carr. 132 Cll. Pedro Mercado, Bo. Coto",1,1
+Peñuelas,59,10,Ant. Esc.,Adolfo Grana Rivera (M),"Carr. 132 Cll. Luis Muñoz Rivera, Bo. Pueblo",5,1
+Peñuelas,59,11,C. Com,Cuebas,"Carr. 390, Bo. Cuebas",1,1
+Peñuelas,59,12,Ctro.,De Usos Múltiples Tallaboa Alta,"Carr. 132 Km. 14.3 Parc. Tallaboa Alta I, Bo. Tallaboa Alta",2,1
+Peñuelas,59,13,C. Com,Tallaboa Saliente (Seboruco),"Ramal 384, Bo. Tallaboa Saliente",1,1
+Peñuelas,59,14,C. Com,Tallaboa Poniente (Juncos),"Carr. 384 Sect. Juncos, Bo. Tallaboa Poniente",1,1
+Peñuelas,59,15,C. Com,Tallaboa Encarnación,"Carr. 2, Cll. 1 Bo. Encarnación  ",2,1
+Peñuelas,59,16,Ctro.,Usos Múltiples de La Moca,"Carr. 391 Km. 1.0 Sect. La Moca, Bo. Tallaboa Alta",3,1
+Ponce,60,1,C. Com,Quebrada del Agua (Ant. Esc. Carmen Medina Anaya),"Carr. 132 Ramal Carr. 549 Sect. Quebrada del Agua, Bo. Canas",2,1
+Ponce,60,2,Esc.,Dr. Pedro Albizu Campos,"Carr. 2 Km. 22.1 Sect. El Tuque, Bo. Canas",4,1
+Ponce,60,3,Esc.,Lila María Mercedes Mayoral,"Carr. 2 Km. 22.1 Int. Parc. Nueva Vida, Bo. Canas",2,1
+Ponce,60,4,Esc.,Julio Alvarado**,"Cll. 13 Esq. Cll. 15 Final Jardines del Caribe, Bo. Canas",6,1
+Ponce,60,5,Ant. Esc.,Julia Cordero Negrón (M) (Pastillo de Canas),"Carr. 132 Int. 502 Km. 21. 4 Com. Pastillo de Canas, Bo. Canas",5,1
+Ponce,60,6,C. Com,Clemente Bartolomei,"Carr. 502 Km. 3.7, Bo. Quebrada Limón",1,1
+Ponce,61,1,Esc.,Eugenio Le Compte Benitez,"Carr. 132 Villa final 1150 Urb. La Providencia, Bo. Canas Urbano",4,1
+Ponce,61,2,C. Com,Clausells,"Cll. Central Final Bda. Clausells, Bo. Portugués Urbano",3,1
+Ponce,61,3,Esc.,Eduardo Neumann Gandía,"Ave. Eduardo Ruberté Urb. San Antonio #3130, Bo. Canas Urbano",7,1
+Ponce,61,4,Esc.,Jaime L. Drew,3239 Ave. Roosevelt Bda. Baldorioty   ,2,1
+Ponce,61,5,H. S.,Clausells,"72 Cll. 5, Bda. Clausells, Bo. Segundo",2,1
+Ponce,61,6,Esc.,Hemeterio Colón*,"21 Cll. Concordia, Bo. Pueblo",3,1
+Ponce,61,7,Esc.,Hemeterio Colón*,"21 Cll. Concordia, Bo. Pueblo",2,0
+Ponce,61,8,Esc.,Dr. Rafael Pujals*,"Cll. Lolita Tizol Esq. Sol, Bo. Quinto",2,1
+Ponce,61,9,Esc.,Abraham Lincoln,"46 Cll. Campeche Bda. Bélgica, Bo. San Antón",2,1
+Ponce,61,10,Esc.,Manuel González Pató*,"Cll. Navarra Urb. La Rambla, Machuelo Arriba",3,1
+Ponce,61,11,Esc.,Andrés Grillasca Salas,"Ave. Las Américas Urb. Constancia, Bo. San Antón",4,1
+Ponce,61,12,Esc.,Fernando L. Malavé Oliveras,"Cll. Ramos Antonini Parc. El Tuque, Bo. Canas",4,1
+Ponce,61,13,Esc.,Julio Alvarado**,"Cll. 13 Esq. Cll. 15 Final Jardines del Caribe, Bo. Canas",6,1
+Ponce,61,14,Esc.,Lucy Grillasca,"1615 Ave. Eduardo Ruberte Parc. Amalia Marín, Bo. Playa",5,1
+Ponce,61,15,Esc.,Bethzaida Velázquez Andújar,"100 Cll. Monsita Ferré 2da Secc. Las Delicias, Bo. Canas",3,1
+Ponce,61,16,Esc.,Santa Teresita,"Cll. 24 Urb. Santa Teresita, Bo. Machuelo Arriba",6,1
+Ponce,61,17,Esc.,Juan Cuevas Aboy,Cll. Eduardo Cuevas Urb. Villa Grillasca,3,1
+Ponce,61,18,Esc.,Bernardino Cordero Bernard*,"Ave. Juan B. Román #488, Carr. Ponce a Guayanilla",5,1
+Ponce,61,19,Esc.,Bernardino Cordero Bernard*,"Ave. Juan B. Román #488, Carr. Ponce a Guayanilla",2,0
+Ponce,61,20,Esc.,Dr. Alfredo M. Aguayo,"Ave. 65 Infantería, Esq. Valdivieso, Bo. Playa",2,1
+Ponce,61,21,Esc.,Sor Isolina Ferré (Int. Villa del Carmen),"Ave. Constancia, Urb.Villa del Carmen, Bo. Playa",7,1
+Ponce,61,22,C. Com,La Lula,"Cll. 12 Urb. La Lula, Bo. Portugués Urbano",4,1
+Ponce,61,23,Univ.,UPR Recinto de Ponce,2151 Ave. Santiago de los Caballeros,2,1
+Ponce,61,24,Esc.,Ramón Marín,"Ave. Las Américas, Bo. San Antón",4,1
+Ponce,61,25,Esc.,Dr. Rafael Pujals*,"Cll. Lolita Tizol Esq. Sol, Bo. Quinto",3,0
+Ponce,61,26,Esc.,Ernesto Ramos Antonini,"89 Sect. Peter Conde, Cll. Mayor Cantera, Bo. Sexto",3,1
+Ponce,61,27,Esc.,Rodulfo del Valle,"Carr. 14 Ave. Tito Castro, Bo. Machuelo Abajo",4,1
+Ponce,61,28,Esc.,Manuel González Pató*,"Cll. Navarra Urb. La Rambla, Machuelo Arriba",3,0
+Ponce,61,29,Esc.,Dr. José Celso Barbosa,"Cll. Guadalupe Final, Bo. Segundo",3,1
+Ponce,62,1,Ant. Esc.,Dr. Ramón E. Betances (M),"Carr. 123 Km. 24.4, Bo. Guaraguao",1,1
+Ponce,62,2,C. Com,Res. Santa Marta,"Res. Santa Marta, Bo. Sabanetas",1,1
+Ponce,62,3,Loc.,El Higüerito,"Carr. 139 Km. 15.1, Sect. El Tesoro, Bo. Maragüez",1,1
+Ponce,62,4,Esc.,Josefina Boyá León (La Ceiba Nueva),"Cll. Húcar, Bo. Sabanetas",7,1
+Ponce,62,5,Cncha,Parcelas Marueño,"Carr. 501 Km. 13.0 Int. Cll. Salvador Brau, Bo. Marueño",2,1
+Ponce,62,6,C. Com,Corral Viejo,"Carr. 123 Km. 15.8 Sect. Corral Viejo, Bo. Magueyes",1,1
+Ponce,62,7,C. Com,Tibes (Aguacate),"Carr. 503 Km. 1.6 Sect. Aguacate, Bo. Tibes",1,1
+Ponce,62,8,Ant. Esc.,Monte Llanos,"Carr. 505 Km. 10.2, Bo. Monte Llanos",2,1
+Ponce,62,9,Loc.,Polideportivo Frankie Colón,"Urb. Los Caobos, Bo. Bucaná",5,1
+Ponce,62,10,Esc.,La Plena (Capitanejo),"Carr. 510 Km. 0.9, Sect. La Plena Bo. Sabana Llana, Juana Díaz",1,1
+Ponce,62,11,Col.,Ponceño,"Carr. 14 Km. 6.3, Bo. Cerrillos",5,1
+Ponce,62,12,C. Com,Parcelas Magueyes,"Cll. Rubí Parc. Magueyes, Bo. Magueyes",2,1
+Ponce,62,13,Esc.,Jardines de Ponce (Int.)*,"Carr. 505 Km. 0.7 Urb. Jardines de Ponce, Bo. Machuelo Arriba",3,1
+Ponce,62,14,Ant. Esc.,La Yuca,"Carr. 505 Km. 5.1 Sect. La Yuca, Bo. Machuelo Arriba",3,1
+Ponce,62,15,Esc.,Jardines de Ponce (Int.)*,"Carr. 505 Km. 0.7 Urb. Jardines de Ponce, Bo. Machuelo Arriba",2,0
+Ponce,62,16,Esc.,Áurea E. Rivera Collazo (Nueva El Madrigal),"Cll. 7 Urb. El Madrigal, Bo. Magueyes",5,1
+Ponce,62,17,Ant. Esc.,Parcelas Real (Parc. Salvador Mandry),Carr. 551 Km. 4.1 Parcelas Real (Parc. Salvador Mandry),3,1
+Ponce,62,18,Esc.,Juan Serrallés,"Carr. 14 Km. 22.5, Bo. Coto Laurel",8,1
+Ponce,62,19,Esc.,Jardines de Ponce (Sup.),"Carr. 505 Km. 0.7 Urb. Jardines de Ponce, Bo. Machuelo Arriba",3,1
+Ponce,62,20,Esc.,Herminia García de Cintrón,"Cll. E9 Urb. Glenview Gardens, Bo. Machuelo Arriba",3,1
+Juana Díaz,63,1,Cncha,Bajo Techo Com. Arús*,"Carr.509, Parc. Arús, Bo. Cintrona",1,1
+Juana Díaz,63,2,Esc.,Zoilo Gracia*,"Carr. 512 Km. 5.3 Sect. Capital, Bo. Collores",3,1
+Juana Díaz,63,3,Esc.,Juan Serapio Mangual*,"Carr. 1 Km. 13.9, Sect. Singapur, Bo. Capitanejo",5,1
+Juana Díaz,63,4,Esc.,Zoilo Gracia*,"Carr. 512 Km. 5.3 Sect. Capital, Bo. Collores",2,0
+Juana Díaz,63,5,Esc.,"Pedro A. ""Nini"" Colón Santiago (Nueva Jacaguas)","Carr. 12 Km. 11.1, Bo. Jacagaus",5,1
+Juana Díaz,63,6,H. S.,Lomas,"30 Cll. Natación, Com. Lomas, Bo. Lomas",1,1
+Juana Díaz,63,7,Esc.,Luis Llorens Torres,"Cll. La Cruz, Bo. Pueblo",4,1
+Juana Díaz,63,8,Cncha,Bajo Techo Com. Arús*,"Carr.509, Parc. Arús, Bo. Cintrona",1,0
+Juana Díaz,63,9,Esc.,Carmen Belén Veiga,"Cll. Muñoz Rivera, Cll.6 Int., Bo.Pueblo",3,1
+Juana Díaz,63,10,Esc.,Pedro Albizu Campos,"Cll. 31, Sect. Aguilita, Bo. Sabana Llana",5,1
+Juana Díaz,63,11,Cncha,Bajo Techo Piedra Aguzá,"Carr. 510, Sect. Piedra Aguzá, Bo. Amuelas",5,1
+Juana Díaz,63,12,Esc.,"Máximo ""Max"" Donoso Sánchez","Carr. 510 Km. 2.4 Com. La Plena, Bo. Sabana Llana",3,1
+Juana Díaz,63,13,Esc.,Juan Serapio Mangual*,"Carr. 1 Km. 13.9, Sect. Singapur, Bo. Capitanejo",2,0
+Juana Díaz,64,1,Cncha,Bajo Techo Cañas Arriba,"Carr. 540, Sect. Provincia, Bo. Cañas Arriba",3,1
+Juana Díaz,64,2,Ant. Esc.,Carmen Flores (M),"Carr. 535 Km. 4.0, Bo. Río Cañas",3,1
+Juana Díaz,64,3,Esc.,Francisco Prado Picart,"Carr. 552 Km. 1.3, Sect. Cerro, Bo.Guayabal",6,1
+Juana Díaz,64,4,Esc.,Manuel Fernández Juncos,"Carr. 14 Cll. Comerío, Bo. Tijeras",7,1
+Villalba,65,1,Ant. Esc.,Áurea Ginestre (M),"Carr. 149 Km. 50.1, Sect. Palmarejo, Bo. Villalba Arriba",3,1
+Villalba,65,2,C. Com,San Juan Evangelista (Centro de Tec.),"Sect. Chichón, Bo. Villalba Arriba",1,1
+Villalba,65,3,Esc.,Norma I. Torres Colón,"Carr. 151, Km. 5.0, Urb. La Vega, Bo. Hato Puerco Arriba",5,1
+Villalba,65,4,Esc.,Ramón López Berrios,"Carr. 561 Km. 5.0, Sect. Mogote, Bo. Vacas",2,1
+Villalba,65,5,C. Com,Emilia Bonilla (Mogote),"Carr. 561 Int., Sect. Mogote, Bo. Vacas",1,1
+Villalba,65,6,Ant. Esc.,Johnny E. Laboy Torres (M),"Carr. 560, Sect. Camarones, Bo. Hato Puerco Arriba",2,1
+Villalba,65,7,Esc.,Isabel Alvarado Alvarado (Nueva El Pino),"Carr. 151 Km. 3.0, Sect. El Pino, Bo. Hato Puerco Arriba",4,1
+Villalba,65,8,Ant. Esc.,Teodoro Rivera Vázquez (M),"Carr. 151 Km. 7.3, Sect. El Limón, Bo. Hato Puerco Arriba",2,1
+Villalba,65,9,C. Com,Caonillas,"Carr. 151 Inter. 553 Km. 0.2, Bo. Caonillas Arriba",1,1
+Villalba,65,10,Ant. Esc.,Eladia Correa Morales (Cerro Gordo) (M),"Carr. 150 Km. 10.6, Bo. Cerro Gordo",1,1
+Villalba,65,11,Ant. Esc.,Eladio Rosa Romero (Higüero) (M),"Carr. 150 Km. 6.0, Sect. Higüero, Bo. Hato Puerco Abajo",2,1
+Villalba,65,12,Esc.,Silvia Torres Torres (Hatillo),"Carr. 150 Km. 3.6, Sect. Hatillo, Bo. Hato Puerco Arriba",5,1
+Villalba,65,13,Esc.,Daniel Serrano Rivera (Jagüeyes),"Carr. 149 Km. 59.3, Parc. Jagüeyes, Bo. Villalba Abajo",4,1
+Villalba,65,14,Ant. Esc.,José González Ginorio (M),"Carr. 149 Km. 62.9, Sect. Romero, Bo. Villalba Abajo",2,1
+Villalba,65,15,Esc.,Lysander Borrero Terry,"Carr. 149 Km. 57.4, Sect. Tierra Santa, Bo. Villalba Arriba",5,1
+Villalba,65,16,Esc.,Francisco Zayas Santana,"Carr. 150, Urb. Vega, Bo. Pueblo",3,1
+Villalba,65,17,C. Com,Aceituna,"Carr. 547, Sect. Aceituna, Bo. Villa Arriba.",1,1
+Orocovis,66,1,Ant. Esc.,Ana Dalia Burgos Ortiz* (M),"Carr. 155 Km. 20.1, Bo. Saltos",2,1
+Orocovis,66,2,H. S.,Sabana,"Carr. 569 Int., Bo. Sabanas",2,1
+Orocovis,66,3,Esc.,Botijas I,"Carr. 568 Km. 5.0, Bo. Botijas I",2,1
+Orocovis,66,4,Esc.,Ana Joaquina Ortiz Ortiz (Botijas II),"Carr. 156, Inter. Carr. 7722,Bo. Botijas",3,1
+Orocovis,66,5,Cncha,Bajo Techo Mata de Cañas,Carr. 568 Km. 8.4. Bo. Mata de Cañas,1,1
+Orocovis,66,6,Esc.,Visitación Pagán,"Carr. 155 Km. 34.1, Bo. Gato",3,1
+Orocovis,66,7,Col.,San Juan Bautista (Centro ALESPI),"Carr. 157 Km. 23.7, Bo. Barros",4,1
+Orocovis,66,8,H. S.,Román Díaz Avilés,"Carr. 157 Km. 20.4, Bo. Damián Arriba",2,1
+Orocovis,66,9,Ant. Esc.,San Miguel (Damián Abajo) (M),"Carr. 157 Km.12.6, Bo. Damián Abajo",2,1
+Orocovis,66,10,C. Com,Ángel G. Rivera,"Carr. 157 Km. 2.2, Bo. Cacao Hacienda",2,1
+Orocovis,66,11,Cncha,Ala de la Piedra,"Carr. 143 Km. 30.1, Bo. Ala de la Piedra",1,1
+Orocovis,66,12,Esc.,Matrullas*,"Carr. 564 Km. 4.3, Bo. Matrullas",2,1
+Orocovis,66,13,Esc.,Matrullas*,"Carr. 564 Km. 4.3, Bo. Matrullas",1,0
+Orocovis,66,14,Ant. Esc.,Ana Dalia Burgos Ortiz* (M),"Carr. 155 Km. 20.1, Bo. Saltos",1,0
+Orocovis,66,15,Esc.,Ángel R. Díaz Colón (Saltos Cabra),"Carr. 566 Km. 2.1, Bo. Saltos",5,1
+Orocovis,66,16,Esc.,Nélida Meléndez Meléndez*,"Ave. Luis Muñoz Marin, Camn. Sect. Los Montes, Bo. Pueblo",5,1
+Orocovis,66,17,Esc.,Nélida Meléndez Meléndez*,"Ave. Luis Muñoz Marin, Camn. Sect. Los Montes, Bo. Pueblo",2,0
+Santa Isabel,67,1,Ant. Esc.,Felicita Olivieri (M),"Carr. 536 Km. 3.8, Bo. Descalabrado",3,1
+Santa Isabel,67,2,Esc.,Pedro Meléndez Santiago,"Cll. Libertad, Sect. Playita de Cortada",3,1
+Santa Isabel,67,3,Ant. Esc.,Ana L. Rosa Tricoche (Velázquez) (M),"Carr. 5507, Bo. Boca Velázquez",2,1
+Santa Isabel,67,4,Ant. Esc.,Playa (M),"Cll. 1, Sect. Playa, Bo. Playa",2,1
+Santa Isabel,67,5,Ant. Esc.,Apolonia Valentín (M),"Carr. 1 Km. 10.3, Bo. Pueblo",2,1
+Santa Isabel,67,6,Esc.,Martín G. Brumbaugh,"Carr. 153, Bo. Pueblo",4,1
+Santa Isabel,67,7,Esc.,Manuel Martín Monserrate,"Cll. Roman Baldorioty de Castro, Bo. Pueblo",3,1
+Santa Isabel,67,8,Ant. Esc.,Emilio Casas (Peñuelas) (M),"Carr. 543 Km. 2.4, Sect. Peñuelas",2,1
+Santa Isabel,67,9,Ant. Esc.,Esther Rivera (M),Carr. 153 Km. 5.4 Sect. Pasto Seco,8,1
+Santa Isabel,67,10,Esc.,Ana Valdejuly (Jauca),"Carr. 1, Bo. Jauca I",3,1
+Coamo,68,1,Esc.,Ramón José Dávila,"Cll. A, Urb. El Edén, Bo. Pueblo",2,1
+Coamo,68,2,Ant. Esc.,Enrique Colón (M),"Carr. 143 Km. 50.6, Bo. Hayales",2,1
+Coamo,68,3,Esc.,Purificación Rodríguez,"Cll. Rodríguez Hidalgo Esq. Cll. Carrión Maduro, Bo. Pueblo",3,1
+Coamo,68,4,Esc.,José Ramón Rodríguez,"21 Cll. Willie Rosario, Bo. Pueblo",2,1
+Coamo,68,5,Esc.,Sabino Rivera Berrios,"Carr. 723 Km. 7.4 int., Sect. Progreso",2,1
+Coamo,68,6,Ctro.,Club Social Recreativo y Deportivo Santa Catalina de Coamo,"Carr. 150 Km. 16.1, Bo. Santa Catalina",2,1
+Coamo,68,7,Ant. Esc.,Hilda Raquel Mateo (M),"Carr. 5556, Bo. Pasto",3,1
+Coamo,68,8,Ant. Esc.,Anastacio Santiago (M),"Carr. 556 Km. 4.5, Bo. Pasto",1,1
+Coamo,68,9,Ant. Esc.,Aurelia Quintero Laboy (M),"Carr. 555 Km. 7.2, Bo. Pasto",2,1
+Coamo,68,10,Esc.,Benjamín Franklin,"82 Cll. José I. Quintón, Bo. Pueblo",3,1
+Coamo,68,11,Esc.,José Felipe Zayas,"Cll. 19, Urb. Jardines de Coamo, Bo. Idelfonso",3,1
+Aibonito,69,1,Esc.,José C. Barbosa,"Carr. 14 Km. 46.5, Bo. Asomante",6,1
+Aibonito,69,2,Esc.,Rabanal,"Carr. 722 Km. 6.1, Sect. Rabanal, Bo. Robles",3,1
+Aibonito,69,3,Esc.,Pasto,"Carr. 162 Km. 4.9, Com. Yura, Bo. Pasto",5,1
+Aibonito,69,4,Esc.,Rafael Pont Flores (Especializada),Cll. Ruiz Rivera Final Sect. El Coquí,4,1
+Aibonito,69,5,Esc.,Dra. Carmen Delia Colón Martínez,"Carr. 725 Km. 4.9, Bo. Llanos",5,1
+Aibonito,69,6,Esc.,Dr. José N. Gándara,"Carr. 162 Km. 7.8, Bo. Pueblo",4,1
+Aibonito,69,7,Esc.,Carmen Zenaida Vega (La Plata),"Carr. 173 Km. 1.1, Bo. La Plata",3,1
+Aibonito,69,8,Esc.,Federico Degetau II,Cll. San José Esq. Ignacio López,5,1
+Barranquitas,70,1,Esc.,Federico Degetau,"Carr. 156 Km. 11.1, Bo. Palo Hincado",6,1
+Barranquitas,70,2,Col.,CEM San Francisco de Asís,"Carr.719, Bo. Helechal",5,1
+Barranquitas,70,3,C. Com,La Torre,Carr. 770 Km. 2.9 Bo. Cañabón,2,1
+Barranquitas,70,4,Esc.,Ramón T. Rivera,"(Lajitas) Carr. 771 Km. 5.4, Bo. Barrancas",7,1
+Barranquitas,70,5,Esc.,Antonio Vázquez Ramos (La Loma),"Carr. 156 Km. 20.1, Bo. Quebrada Grande",4,1
+Barranquitas,70,6,C. Com,El Llano,"Carr. 152 Int 749, Sect El Llano, Bo. Quebrada Grande",1,1
+Barranquitas,70,7,Esc.,Luis Muñoz Marín,"Carr. 152 Cll. Escuela Superior Nueva, Bo. Barrancas",2,1
+Barranquitas,70,8,Esc.,Petroamérica Pagán,"Carr. 162 Cll. Muñoz Rivera 16, Bo. Pueblo",2,1
+Barranquitas,70,9,Esc.,Pablo Colón Berdecía,"Carr. 156, Bo. Pueblo",1,1
+Barranquitas,70,10,Esc.,José N. Colón González,"Carr. 156 Km. 17.4, Bo. Honduras",2,1
+Barranquitas,70,11,C. Com,Cañabón,"Carr. 772 Km. 6.9, Bo. Cañabón",2,1
+Barranquitas,71,1,Esc.,Farallón,"Carr. 152 Km. 7.6 interior,Sect. Farallón, Bo. Quebradillas  ",4,1
+Barranquitas,71,2,Ctro.,Cuidado Amor (Ant. Esc. Sinforoso Aponte),"Carr. 152 Km. 4.0, Bo. Quebradillas I",3,1
+Corozal,72,1,Esc.,Pablo D. Burgos Marrero (Agrícola)*,Carr. 159 Km. 13.3 Bo. Abras Sect. Los Albinos,1,1
+Corozal,72,2,Esc.,Pablo D. Burgos Marrero (Agrícola)*,Carr. 159 Km. 13.3 Bo. Abras Sect. Los Albinos,2,0
+Corozal,72,3,Esc.,Genaro Bou,"Carr. 818 Km. 2.7 Interior, Bo. Cibuco",3,1
+Corozal,72,4,Esc.,Manuel Bou Galí*,"Carr. 891, Bo. Pueblo",3,1
+Corozal,72,5,Esc.,Fidel López Colón,"Carr. 159 Km. 15.8, Bo. Pueblo",5,1
+Corozal,72,6,Cncha,Bajo Techo Carmen Zoraida Figueroa,"Carr. 891, Bo. Pueblo",5,1
+Corozal,72,7,Esc.,Manuel Bou Galí*,"Carr. 891, Bo. Pueblo",4,0
+Corozal,72,8,Esc.,Julián Marrero,"Carr. 164 Km. 14.0 Int. Carr. 803, Bo. Palmarejo",6,1
+Corozal,72,9,Esc.,Nicolás Rodriguez*,"Carr. 568 Km. 30.1, Bo. Padilla",3,1
+Corozal,72,10,Esc.,Nicolás Rodriguez*,"Carr. 568 Km. 30.1, Bo. Padilla",4,0
+Corozal,72,11,Esc.,Demetrio Rivera*,"Carr. 801 Km. 0.5, Bo. Palmarito",3,1
+Corozal,72,12,Esc.,Dr. José Padín*,"(Ant. Esc.Porfirio Cruz García) Carr. 568 Km. 6.6, Bo. Cuchillas",3,1
+Corozal,72,13,Esc.,Dr. José Padín*,"Carr. 568 Km. 6.6, Bo. Cuchillas",2,0
+Corozal,72,14,Esc.,Demetrio Rivera*,"Carr. 801 Km. 0.5, Bo. Palmarito",3,0
+Corozal,72,15,Ctro.,Recreativo La Quinta,"Carr. 803 Km. 4.3, Bo. Palos Blancos",4,1
+Naranjito,73,1,Esc.,Francisco López Cruz,"3 Cll Esteban Rodríguez, Bo. Pueblo",2,1
+Naranjito,73,2,Esc.,Coleen Vázquez Urrutia*,"Carr. 164 Km. 7.0, Bo. Achiote",3,1
+Naranjito,73,3,Esc.,Silvestre Martínez,"Carr. 826 Com. Lago La Plata, Bo. Guadiana",5,1
+Naranjito,73,4,Esc.,Bernarda Robles de Hevía,"Carr. 167 Km. 7.5, Bo. Nuevo",2,1
+Naranjito,73,5,Esc.,Rubén Rodríguez Figueroa,Carr. 164 Bo. Nuevo,4,1
+Naranjito,73,6,Esc.,Francisco Roque Muñoz,"Carr. 814 Km. 2.2, Sect La Sierra, Bo. Anones",5,1
+Naranjito,73,7,Esc.,Pedro Fernández,"Carr. 152 Km. 10.5, Bo. Cedro Arriba",3,1
+Naranjito,73,8,Esc.,Rosa Luz Zayas Feijó,"Carr. 809 Km. 2.0, Bo. Cedro Arriba",3,1
+Naranjito,73,9,Ctro.,Programa del Adolescente ( Ant. Esc. Felipa Sánchez),"Carr. 811 Km. 5.9, Bo. Cedro Abajo",6,1
+Naranjito,73,10,Esc.,Adolfo García*,"Carr. 165 Km. 1.9, Bo. Lomas",3,1
+Naranjito,73,11,Esc.,Adolfo García*,"Carr. 165 Km. 1.9, Bo. Lomas",3,0
+Naranjito,73,12,Esc.,Coleen Vázquez Urrutia*,"Carr. 164 Km. 7.0, Bo. Achiote",4,0
+Comerío,74,1,Esc.,Ramón Alejandro Ayala,"Carr. 779 Km. 5.3, Bo. Palomas",4,1
+Comerío,74,2,Cncha,Bajo Techo El Verde,"Carr. 782 Km. 7.9 Sect. El Verde, Bo. Naranjo",2,1
+Comerío,74,3,Esc.,Antolín Santos (Nueva),"42 Cll. Georgetti, Bo. Pueblo",2,1
+Comerío,74,4,Cncha,Bajo Techo La Prieta,Carr. 781 Sect. La Prieta Bo. Cedrito,2,1
+Comerío,74,5,Col.,Aprendix (Ant. Esc. Juan Zamora),"Carr. 780 Km. 6.5, Bo. Doña Elena",2,1
+Comerío,74,6,Esc.,María C. Santiago (S.U. Sabana),"Carr. 172 Km. 1.5, Bo. Naranjo, Sect. Sabana",3,1
+Comerío,74,7,Esc.,Juana Colón,"Carr. 778 Km. 1.6 Bda. Pasarell, Sect. Industrial",2,1
+Comerío,74,8,Esc.,Oscar Porrata Doria,"Carr. 156 Ramal 776, Bo. Rio Hondo I",3,1
+Comerío,74,9,Esc.,Inés María Mendoza de Muñoz,"Carr. 156 Km. 33.5, Sect. Manuel Espina, Bo Palomas,",4,1
+Comerío,74,10,Cncha,Bajo Techo Piñas,Carr.0775 Sect. Las Parcelas Bo. Piñas,2,1
+Comerío,74,11,Esc.,Luis Muñoz Marín,"Carr. 775 Ramal 7774 Km. 0.4, Sect. La Mora, Bo Piñas",3,1
+Coamo,75,1,Esc.,Susana Rivera (Nueva),"Carr. 545 Km. 0.4, Bo los Llanos.",4,1
+Coamo,75,2,Esc.,Herminio W. Santaella,"Carr. 14 Km. 27.5, Bo. Los Llanos",3,1
+Coamo,75,3,Esc.,Román Colón Correa (Río Jueyes),"Carr. 154, Sect. Río Jueyes",3,1
+Coamo,75,4,Esc.,Eugenio Nazario Soto,"Carr. 704 Km. 2.5, Bo. Cuyón",4,1
+Coamo,75,5,Esc.,José M. Espada Zayas,"Carr. 138 Km. 1.8, Desvío Luis Muñoz Marín, Bo. Pueblo",5,1
+Coamo,75,6,Ctro.,Usos Múltiples Las Flores,"Carr. 153, Cll. Tulipan Bo. Ildelfonso",3,1
+Coamo,75,7,Esc.,Florencio Santiago,"116 Cll. José I. Quintón, Bo. Pueblo",4,1
+Cidra,76,1,Ctro.,Nuevo Corazón (Ant. Esc. Pedro María Dominicci),"Carr. 171 Km. 4.4, Bo. Rincón",4,1
+Cidra,76,2,Esc.,Regino Vega Martínez,"Carr. 734 Km. 1.6, Bo. Arenas",5,1
+Cidra,76,3,Univ.,Liberty Technical College*,"Carr. 735 Km. 0.4, Bo. Vegas, Cayey",3,1
+Cidra,76,4,Univ.,Liberty Technical College*,"Carr. 735 Km. 0.4, Bo. Vegas, Cayey",2,0
+Cidra,76,5,Esc.,Juan Stubbe*,"Carr. 787 Km. 2.9, Bo. Bayamón",2,1
+Cidra,76,6,Esc.,Certenejas II (Nueva),"Carr. 172 Km. 8.0, Bo. Bayamón",5,1
+Cidra,76,7,Esc.,Luis Muñoz Iglesias,"Cll. Luis Lugo Esq. Cll. Haddock, Urb. Fernández Juncos",5,1
+Cidra,76,8,C. Com,Certenejas,"Carr. 172 Km. 7.6 Int., Sect. Certenejas Bo. Bayamón",3,1
+Cidra,76,9,Esc.,Juan Stubbe*,"Carr. 787 Km. 2.9, Bo. Bayamón",5,0
+Cidra,76,10,Esc.,Ruth E. Cruz (Vocacional),Carr. 171 Km. 1.0 Bo.Sud,2,1
+Cidra,76,11,Esc.,Jesús T. Piñero,"Carr. 734 Km. 0.1, Calle José de Diego Final",3,1
+Cidra,76,12,Esc.,Ana Jacoba Candelas,"Carr. 171 Km. 0.3, Bo. Sud",3,1
+Cidra,76,13,Cncha,Bajo Techo Toíta,"Carr. 7729 Km. 2.4, Bo. Toíta",2,1
+Cidra,76,14,Esc.,Ernesto Vicente Carattini,"Carr. 782 Km. 6.2, Bo. Ceiba",3,1
+Cidra,76,15,Esc.,Violeta Reyes Pérez (Urbana),"Carr. 172 Km. 11.1, Bo. Río Abajo",2,1
+Cidra,76,16,Esc.,Clemencia Meléndez Santos (Rabanal),"Carr. 173 Km. 7.9, Sect. La Cumbre Bo Rabanal",5,1
+Cidra,76,17,C. Com,El Salto,"Carr. 173, Bo. Salto",1,1
+Cidra,76,18,Cncha,Bajo Techo Bo. Honduras,"Sect. Gutiérrez, Bo. Honduras",2,1
+Cayey,77,1,Esc.,Salvador Brau,"Cll. 13, Final, Urb. Jardines de Cayey I, Bo. Pueblo",2,1
+Cayey,77,2,Esc.,Benigno Fenández García,"Cll. Barbosa Final, Ave. José de Diego, Bo. Puebo",3,1
+Cayey,77,3,Esc.,Emérita León (Proyecto Montesori),"118 Cll. Luis Morales, Urb. Villa Verde, Bo. Pueblo",4,1
+Cayey,77,4,Esc.,Emérita León,"Carr. 1, Int. Ave. Fernández, Detras Res. Luis Muñoz Morales",3,1
+Cayey,77,5,Esc.,Miguel Meléndez Muñoz (Int.),"Carr. 14 Km. 69.7, Ave. Antonio R. Barceló, Bo. Pueblo",3,1
+Cayey,77,6,C. Com,Reparto Montellano,"Carr. 14 Km. 69.7, Ave. Antonio R. Barceló, Bo. Pueblo",3,1
+Cayey,77,7,C. Com,Pasto Viejo,"Carr. 1 Km. 66.0, Bo. Pasto Viejo",2,1
+Cayey,77,8,Esc.,Virginia Vázquez,"Mendoza 11 Cll. Ambar Urb. La Plata, Bo. Rincón",5,1
+Cayey,77,9,Cncha,Parque (frente Ant. Esc. Félix Lucas Benet),"Carr. 14, Ave. José de Diego Final, Bo. Pueblo",5,1
+Cayey,77,10,Esc.,Eugenio María de Hostos,"Carr. 14 Km. 65.3, Bo. Toíta",3,1
+Cayey,77,11,Acad.,La Milagrosa,"Carr. 171, Urb. El Prado, Bo. Rincón",3,1
+Cayey,77,12,Esc.,Agustín Fernández Colón (Oficina Regional Caguas),"Carr. 14, Urb. Alturas de Montellano, Bo. Pueblo",4,1
+Cayey,77,13,Ant. Esc.,Rexford Guy Tugwell (M),Carr. 15 Inter. Carr. 7737. Bo. Sumido,2,1
+Cayey,77,14,C. Com,"José L. ""Tati"" Ríos y Head Start","Cll. Gregorio Ríos, Bo. Vegas",3,1
+Cayey,77,15,C. Com,Beatriz,"Carr. 1 Km. 49.6, Bo. Beatriz",4,1
+Cayey,77,16,Acad.,Adventista de Cayey,"Carr. 1 Km. 54.8, Bo. Vegas",3,1
+Cayey,77,17,Esc.,Gerardo Sellés Solá,"Carr. 184 Km.27.9, Bo. Guavate",2,1
+Cayey,77,18,C. Com,Farallón,"Carr. 742 Km. 1.3, Bo. Farallón",1,1
+Cayey,77,19,C. Com,Cedro,"Carr. 738 Km. 5.7, Bo. Cedros",1,1
+Cayey,77,20,C. Com,Cercadillo,"Carr. 715 Km. 5.9, Bo. Cercadillo",1,1
+Cayey,77,21,C. Com,Jájome Bajo,"Carr. 708 Km. 6.0, Bo. Jájome Bajo",1,1
+Cayey,77,22,Esc.,Benjamín Harrison,"249 Ave .José De Diego, Bo. Pueblo",3,1
+Salinas,78,1,Esc.,Stella Márquez*,"Cll. Santos P. Amadeo, Bo Aguirre",5,1
+Salinas,78,2,Esc.,Stella Márquez*,"Cll. Santos P. Amadeo, Bo Aguirre",2,0
+Salinas,78,3,Esc.,Urbana,"Carr. 3 Km. 157.3, Bo. Aguirre",3,1
+Salinas,78,4,Esc.,Felix Garay Ortiz,"Cll. Antonia Sáez, Parc. El Coco, Bo. Lapa",6,1
+Salinas,78,5,Esc.,Antonio Ledeé Colón (S.U. Sabana Llana),"Carr. 1 Km. 83.0, Sect. Sabana Llana, Bo. Lapa",1,1
+Salinas,78,6,Ant. Esc.,Rafael Esparra Cartagena (M),"Carr. 1 Km. 77.9, Parc. Vázquez, Bo. Lapa",4,1
+Salinas,78,7,Ant. Esc.,Guillermo González Hernández (M),"Cll.A Sect. La Playita, Bo. Aguirre",2,1
+Salinas,78,8,Ant. Esc.,Victoria Santiago Colón (M),"Carr. 712 Km. 5.2, Com. La Plena, Bo. Quebrada Yeguas",2,1
+Salinas,78,9,Esc.,Coquí (Intermedia)*,Carr. 3 Km. 156 Bo. Aguirre,3,1
+Salinas,78,10,Esc.,Coquí (Intermedia)*,Carr. 3 Km. 156 Bo. Aguirre,2,0
+Salinas,78,11,Esc.,Coquí (Intermedia)*,Carr. 3 Km. 156 Bo. Aguirre,3,0
+Salinas,78,12,Esc.,Las Mareas,"Carr. 703 Km. 2.6, Parc. Las Mareas",1,1
+Guayama,79,1,C. Com,Usos Múltiples Carite,"Carr. 179 Sect. Cambrené, Bo. Carite",2,1
+Guayama,79,2,Esc.,Juan Alemañy Silva (Guamaní),"Carr. 179 Km. 4.4, Bo. Guamaní",2,1
+Guayama,79,3,Ctro.,Usos Múltiples Olimpo,"Cll. 1, Com. Olimpo, Bo. Caimital",1,1
+Guayama,79,4,Ctro.,Usos Múltiples Carmen,"Carr. 712, Sect. Pueblito del Carmen, Bo. Carmen",1,1
+Guayama,79,5,Ctro.,Envejecientes Acción Social (Cimarrona),"Carr. 713 Km. 3.5, Bo. Pozo Hondo",1,1
+Guayama,79,6,Ctro.,Asociación de Retirados de,"la Guardia Nacional Carr. 7710 Km. 4.7, Bo. Jobos",1,1
+Guayama,79,7,C. Com,Usos Múltiples Mosquito,"Carr. 3 Km.148.3, Sect. Mosquito Bo. Jobos",1,1
+Guayama,79,8,C. Com,Usos Múltiples (Puerto de Jobos),"Carr. 707 Km. 1.5 Int., Calle D, Bo. Jobos",1,1
+Guayama,79,9,Esc.,Adela Brenes Texidor,"Carr. 3 Km. 143.8, Bo. Jobos",5,1
+Guayama,79,10,Cncha,Bajo Techo Com. Corazón,"Cll. Candelaria, Bo. Corazón",2,1
+Guayama,79,11,Esc.,Rafael Antonio Delgado Mateo,"Cll. 7, Com. Olimpo, Bo. Caimital",5,1
+Guayama,79,12,Esc.,Genaro Cautiño,"Cll. San Agustín Esq. Cll. Ashford, Bo. Pueblo",2,1
+Guayama,79,13,Esc.,Vicente Palés Anés,"Cll. 4 Esq. Cll. Vicente Palés, Urb. Carioca, Bo. Pueblo",3,1
+Guayama,79,14,Esc.,Simón Madera,"Cll. Mc Arthur, Bo. Pueblo",2,1
+Guayama,79,15,Esc.,Rafael López Landrón,"Cll. Paseo del Pueblo,Urb. Vives, Bo. Pueblo",3,1
+Guayama,79,16,Esc.,Francisco García Boyrie*,"Cll. 7, Urb. Costa Azul, Bo. Algarrobo",3,1
+Guayama,79,17,Esc.,Oscar Hernández Guevara,"Cll. D, Bda. Blondet",5,1
+Guayama,79,18,C. Com,Usos Múltiples Barrancas,Com. Barrancas,2,1
+Guayama,79,19,Esc.,Dra. María Socorro Lacot,"Carr. 54 Km. 4.5, Ave. Albizu Campos, Bo. Algarrobo",4,1
+Guayama,79,20,Esc.,Proyecto CASA (Ant. Esc. Luis Pales Matos),"Carr. 744 Km. 0.7, Res. Luis Palés Matos, Bo. Pueblo",5,1
+Guayama,79,21,Esc.,Francisco García Boyrie*,"Cll. 7, Urb. Costa Azul, Bo. Algarrobo",3,0
+Arroyo,80,1,Esc.,Dolores González  ,"Cll. A, Urb. Jardines de Arroyo, Bo. Guásimas",3,1
+Arroyo,80,2,Esc.,José M. Massari  ,"162 Cll. Morse, Sect. Cuatro Calles, Bo. Pueblo",4,1
+Arroyo,80,3,Esc.,Carmen B. Huyke,"Res. Isidro Cora, Bo. Pueblo",4,1
+Arroyo,80,4,Ant. Esc.,Cayetano Sánchez (M),"Carr. 3 Km. 127.0, Sect. Palmas, Bo. Palmas",3,1
+Arroyo,80,5,Esc.,Adlaberto Sánchez Morales,"Carr. 753 Com. Las 500, Bo. Ancones",6,1
+Arroyo,80,6,Esc.,José Horacio Cora  ,"Carr. 753 Km. 2.2, Bda. Marín, Bo. Pitahaya",2,1
+Arroyo,80,7,Ant. Esc.,Edmundo del Valle (C),"Carr. 753 Km. 8.8, Bo. Yaurel",3,1
+Aguas Buenas,81,1,Esc.,Bayamoncito,"Carr. 156 Km. 42.3, Bo. Bayamoncito",6,1
+Aguas Buenas,81,2,Esc.,Carmen D. Ortiz Ortiz (Sumidero),"Carr. 173 Km. 7.1, Bo. Sumidero",9,1
+Aguas Buenas,81,3,Esc.,Luis Muñoz Marín,"Carr. 794 Cll. Monserrate Final, Sect. Araña, Bo. Sumidero",2,1
+Aguas Buenas,81,4,Esc.,Dr. Pedro Albizu Campos,"Carr. 156 Ramal 794, Bo. Cagüitas",8,1
+Aguas Buenas,81,5,Esc.,Vocacional Urbana,"Carr. 156 Km. 54.5, Bo. Bairoa",6,1
+Aguas Buenas,81,6,Esc.,Alfonso López O'Neill (Jagüeyes Abajo),"Carr. 797 Km. 2.4, Sect. La Pajilla Bo. Jagüeyes",5,1
+Caguas,82,1,C. Com,Ramón Díaz,"Carr. 175 Km. 0.1, Ramal 739, Sect. El Faro Bo San Antonio",3,1
+Caguas,82,2,Ant. Esc.,Juan Navarro** (M),"Carr. 172 Km. 20.0, Bo. Cañaboncito",2,1
+Caguas,82,3,Esc.,Francisco Valdés Rola,"Carr. 798 Km. 12.5, Bo. Río Cañas",4,1
+Caguas,82,4,Esc.,Jesús T. Piñero Jiménez,"Carr. 795 Km. 0.2 int., Bo. La Barra",3,1
+Caguas,82,5,C. Com,La Barra,"Carr. 1 int. Carr. 795 Km. 2.3, Sect. La Barra, Bo. Río Cañas ",4,1
+Caguas,82,6,C. Com,Antonio Longo (La Mesa),"Carr. 795 Km. 2.5, Sect. La Mesa Bo. Bairoa",2,1
+Caguas,82,7,Esc.,Pedro Millán Rivera,"Cll. 6 Esq Cll. 7, Urb. Residencial Bairoa",5,1
+Caguas,82,8,C. Com,Bairoa La 25,"Carr. 796 Km. 7.3 int. Sect. La 25, Bo. Bairoa",2,1
+Caguas,82,9,Ctro.,Apoyo Mutuo y Resiliencia Com. (Ant. Esc. María Montañez),"Cll. Hortensia, Sect. Las Carolinas, Bo. Bairoa",3,1
+Caguas,82,10,Esc.,Eloísa Pascual,Ave. Eugenio Astol Busatti Esq. Cll.11 Urb. Res. Bairoa,6,1
+Caguas,82,11,Col.,San Juan Apóstol y Evangelista,"27 Ave. Bairoa, Urb. Bairoa",4,1
+Caguas,82,12,Esc.,Felipe Rivera Centeno,"Cll. 1, Esq. Ave. Luis Muñoz Marín, Urb. Santa Juana",3,1
+Caguas,82,13,Ant. Esc.,Andrés González (M),"Carr. 784 Km. 4.3, Sect. Parcelas, Bo. Cañaboncito",3,1
+Caguas,82,14,Ctro.,Jardín Botánico y Cultural,Carr. 156 Km. 56.1,6,1
+Caguas,82,15,Esc.,Pepita Arenas,"Cll. Milagros Carrillo Bloq. Q, Urb. Valle Tolima",6,1
+Caguas,82,16,C. Com,La Unión,"Cll. Rufino Lozano Esq. Cll. Juan Sánchez, Com. La Unión, Sect. 4 Cuerdas",1,1
+Caguas,82,17,H. S.,Hormigas,"Sect. Hormigas, Bo. Cañaboncito",2,1
+Caguas,82,18,C. Com,Turabo Gardens III,"Cll F Final. Urb. Turabo Gardens III, Bo. Cañaboncito",2,1
+Caguas,83,1,Esc.,Pepita Garriga,"Cll. Esmeralda Esq. Cll. Coral, Urb. Villa Blanca",4,1
+Caguas,83,2,Ctro.,Margarita (Ant. Esc. Cornelio Ayala),Carr 763 Km. 3.4 Borinquen Atrevasada,4,1
+Caguas,83,3,Esc.,Manuela Toro Morice,"Cll. Estambul Esq. Cll. 7, Urb. Caguas Norte",4,1
+Caguas,83,4,Esc.,Benita González Quiñones,"Cll. 5, Urb. José Delgado",2,1
+Caguas,83,5,Esc.,Abelardo Díaz Morales*,Urb. Santa Elvira Calle Santa Gertrudis,5,1
+Caguas,83,6,Esc.,Abelardo Díaz Morales*,Urb. Santa Elvira Calle Santa Gertrudis,3,0
+Caguas,83,7,Esc.,Jardines de Caguas,"Cll. G Final, Urb. Jardines de Caguas",2,1
+Caguas,83,8,Esc.,Diego Vázquez,"Cll. D Final, Bda. Morales",2,1
+Caguas,83,9,Esc.,Luis Muñoz Rivera,"65 Cll. Luis Muñoz Rivera, Bo. Pueblo",1,1
+Caguas,83,10,Esc.,Nicolás Aguayo Aldea,"13 Ave. Rafael Cordero, Bo. Pueblo",3,1
+Caguas,83,11,C. Com,La Coss,"Carr. 765 Km. 8.8, Sect. La Plaza Bo. San Salvador",2,1
+Caguas,83,12,Acad.,Cristo de los Milagros,"85 Ave. Luis Muñoz Marín, Caguas",2,1
+Caguas,83,13,Esc.,Myrna M. Fuentes (Bonneville)*,"Cll. San Lorenzo, Urb. Bonneville Heights",4,1
+Caguas,83,14,Esc.,José Gautier Benitez,"Cll. Gautier Benitez, Esq. Cristobal Colón",5,1
+Caguas,83,15,Ctro.,Criollo de Ciencias y Tec.(C3Tec),"59 Av. Gautier Benítez, Caguas",2,1
+Caguas,83,16,Esc.,Myrna M. Fuentes (Bonneville)*,"Cll. San Lorenzo, Urb. Bonneville Heights",3,0
+Caguas,83,17,Esc.,Paula Mojica,"Cll. Robles, Urb. Villa Turabo",3,1
+Caguas,83,18,C. Com,Hato Arriba,"Carr. 763, Sect. Hato Arriba, Bo. San Salvador",1,1
+Caguas,83,19,Esc.,José Mercado (Bilingual School),"Cll. Woodrow Wilson, Urb. José Mercado",5,1
+Caguas,83,20,Esc.,Inés María Mendoza de Muñoz,"Cll. 10, Esq. 11, Urb. Villas de Castro",6,1
+Caguas,83,21,Esc.,Concepción Méndez Cano,"Cll. 25 2da Secc., Urb Turabo Gardens",5,1
+Caguas,83,22,Cncha,Bajo Techo Las Piñas,"Carr. 1 Km. 46.9 Int. Calle 1A Sect. Las Piñas, Bo. Beatríz",3,1
+Caguas,83,23,Esc.,Rosa C. Benítez,"Cll. Windsor, Urb. Villa del Rey",3,1
+Caguas,83,24,Esc.,Justina Vázquez Mendoza,"Cll. San Antonio Esq. Cll. San José, Urb. Mariolga",4,1
+Caguas,83,25,Esc.,Haydeé Caballero,"Cll. 12 A, Urb. Villa del Rey",5,1
+Caguas,83,26,Esc.,Charles E. Miner,"Cll. 25, Urb. Villa Nueva",5,1
+Caguas,83,27,Ctro.,Complejo Recreo-Deportivo del Este,"Carr. 788 Km. 3.8, Bo. Tomás de Castro",2,1
+Caguas,83,28,Esc.,Sandalio Marcano,"Carr. 788 Km. 7.2, Bo. Tomás de Castro",3,1
+Caguas,83,29,Ant. Esc.,Juan Navarro** (M),"Carr. 172 Km. 20.0, Bo. Cañaboncito",3,1
+Caguas,83,30,H. S.,La Jurado,"Carr. 1 Km. 45.5, Bo. Beatríz",1,1
+Caguas,83,31,Esc.,Dr. Juan José Osuna,"Carr. 1 Km. 38.9, Villa Esperanza, Bo. Turabo",4,1
+Caguas,83,32,Esc.,Cipriano Manrique,"Carr. 765 Km. 3.2, Parc. Borinquen, Bo. Borinquen",5,1
+Gurabo,84,1,Ant. Esc.,Daniel Díaz Santana (Jaguas) (M) C. Com. y Cancha,"Carr. 941 Km. 5.0, Com. Jaguas, Bo. Jaguas",4,1
+Gurabo,84,2,C. Com,Santa Rita (y Cancha),"Carr. 181 Km. 17, Bo. Santa Rita",3,1
+Gurabo,84,3,Esc.,Margarita Rivera de Janer,"Carr. 941, Cll. San Antonio, Bo. Rincón",2,1
+Gurabo,84,4,Esc.,Dra. Conchita Cuevas,"Carr. 30 Int., Carr. 9948, Bo. Rincón",4,1
+Gurabo,84,5,Esc.,Villa Marina,"Cll. Bahía Oeste, Urb. Villa Marina, Bo. Rincón",5,1
+Gurabo,84,6,Esc.,Vidal Serrano,"Carr. 931 Parcelas Navarro, Bo. Navarro",8,1
+Gurabo,84,7,Esc.,Josefina Sitiriche,"Carr. 181 Km. 22.9, Bo. Celada",8,1
+Gurabo,84,8,Col.,ADLER College,"Carr. 30 Int. Carr. 189, Bo. Navarro",7,1
+Gurabo,84,9,Acad.,Gosen Bilingual Christian Academy,"Carr.189 Km. 3.0, Bo. Hato Nuevo",5,1
+Gurabo,84,10,Esc.,Matías González García,"Cll. Andrés Arús Rivera, Bo.Pueblo",7,1
+Salinas,85,1,Ant. Esc.,Matilde Rivera (Las 80) (M),"Cll. Dalia, Parcelas Las 80, Bo. Río Jueyes",1,1
+Salinas,85,2,Ant. Esc.,Francisco M. Quiñones (M),"Carr. 701 Km. 1.4, Sect. Playa, Bo Jueyes",3,1
+San Lorenzo,86,1,Esc.,Antonio Fernós Isern,"Carr. 181 Km. 10.0, Bo.Quebrada",4,1
+San Lorenzo,86,2,C. Com,Julia Vázquez Torres (Hato Parcelas),"Carr. 183 Km. 6.2, Parc. Hato, Bo. Hato",2,1
+San Lorenzo,86,3,Ant. Esc.,Francisco Ponce (M),"Carr. 788 Km. 3.7, Bo. Quemados",2,1
+San Lorenzo,86,4,Esc.,Generoso Morales Muñoz,"Carr. 183 Km. 9.9, Bo. Hato",3,1
+San Lorenzo,86,5,Ant. Esc.,El Parque (Santa Clara) (M),"Cll. 4, Urb. Ramos Antonini",3,1
+San Lorenzo,86,6,Esc.,José Campeche*,"Cll. Emilio Buitrago, Urb. Las Mercedes",3,1
+San Lorenzo,86,7,Esc.,José Campeche*,"Cll. Emilio Buitrago, Urb. Las Mercedes",5,0
+San Lorenzo,86,8,Esc.,Dra. María Teresa Delgado Marcano,"Carr. 9929, Bo. Florida",5,1
+San Lorenzo,87,1,Esc.,Luis Muñoz Rivera,"Cll. Luis Muñoz Rivera Final, Bo. Pueblo",5,1
+San Lorenzo,87,2,Esc.,Padre Jorge Rosario Del Valle,"Carr. 181 Km. 12.0 Ramal Carr. 745, Bo. Espino",5,1
+San Lorenzo,87,3,Esc.,Manuel Torres (Jagual Adentro),"Carr. 765 Km. 2.0, Bo. Jagual",5,1
+San Lorenzo,87,4,C. Com,Carmelo Figueroa,"Sect. Carmelo Figueroa, Bo. Cerro Gordo",2,1
+San Lorenzo,87,5,Esc.,Carlos Zayas,"Carr. 916 Km. 4.4, Bo. Cerro Gordo",5,1
+San Lorenzo,87,6,Ant. Esc.,Isidro Vicéns (M),"Carr. 181 Int. Carr. 913, Bo. Quebrada Honda",4,1
+Juncos,88,1,Esc.,Juana Sánchez González (La Placita),"Carr. 946 Km. 0.9, Bo.Gurabo Abajo",3,1
+Juncos,88,2,Ctro.,Fundación Casa Ramón (Ant. Esc. Agustín Dueño),"Carr. 185 Km. 19.7, Sect. Las Piñas, Bo. Gurabo Abajo",3,1
+Juncos,88,3,C. Com,Reparto Valenciano,"Cll. 11, Urb. Reparto Valenciano, Bo. Mamey",2,1
+Juncos,88,4,Esc.,Clara Maldonado de Aramburu,"Carr. 31 Km. 20.8, Bo. Gurabo Arriba",4,1
+Juncos,88,5,Esc.,Alfonso Díaz Lebrón,"Carr. 9913, Bo. Ceiba Norte",1,1
+Juncos,88,6,Ctro.,Pathstone (Canta Gallo),"Carr. 189 Km. 11.6,   Sect. Canta Gallo  , Bo. Mamey ",2,1
+Juncos,88,7,Ctro.,"Coliseo Héctor ""Pito"" Carrasquillo","Carr. 933 Km. 3.2, Cll. Algarín. Bo Pueblo",3,1
+Juncos,88,8,Esc.,Pedro Bosh Salgas,"Carr. 935 Km. 2.9, Parc. Ceiba Norte, Bo. Ceiba Norte",3,1
+Juncos,88,9,Esc.,Isabel Flores,"Cll. Cedros, Urb. Los Almendros, Bo. Ceiba Norte",3,1
+Juncos,88,10,Esc.,José A. López Castro,"Cll. Algarín Final, Res. Antulio Lóoez, Bo. Linos",3,1
+Juncos,88,11,Esc.,Roberto Silva Morales (Ángel González)  ,"Carr. 929 Inter. Carr. 9919, Bo. Lirios",4,1
+Juncos,88,12,Esc.,Pedro Rivera Molina,"Carr. 183 Km. 16.3, Bo. Valenciano Abajo",5,1
+Juncos,88,13,Ant. Esc.,Laura Navarro (M),"Carr. 934 Inter. Carr. 9934, Bo. Ceiba Sur",4,1
+Juncos,88,14,Esc.,Carmen Arzuaga de Rivera,"Cll. Mariano Pérez, Urb. Valencia 1, Bo. Ceiba Sur",2,1
+Juncos,88,15,Esc.,José A. Collazo Colón,"Carr. 935 Km. 2.2, Bo. Ceiba Norte",5,1
+Las Piedras,89,1,Ant. Esc.,Francisco Torres (M),"Carr. 198 Km. 20.6, Bo. Quebrada Arenas",6,1
+Las Piedras,89,2,Ctro.,Parque Municipal Francisco Negrón,"Carr. 198 Km. 9.7, Bo. Ceiba",2,1
+Las Piedras,89,3,Esc.,Carmen Benítez,"Cll. José Celso Barbosa, Bo. Pueblo",2,1
+Las Piedras,89,4,Esc.,Ramón Power y Giralt,"22 Cll. Jesús T. Piñero, Bo. Pueblo",4,1
+Las Piedras,89,5,Esc.,José de Diego,"Carr. 917 Km. 4.1, Bo. Montones",5,1
+Las Piedras,89,6,C. Com,Pedro González (La Pepa),"Carr. 917 Km. 9.6, Sect. La Pepa, Bo. Montones II",2,1
+Las Piedras,89,7,Ant. Esc.,Benito Medina (M),"Carr. 917 Km. 2.1, Bo. Tejas",2,1
+Las Piedras,89,8,Esc.,Santiago Torres (Cancha),"Cll. Eulogio Reyes, Urb. April Gardens",4,1
+Las Piedras,89,9,Esc.,Leoncio Meléndez,Desvío Sur Aníbal García Peña,5,1
+Las Piedras,89,10,Esc.,Florencia García**,"Cll. José C. Barbosa, Bo. Collores",5,1
+Las Piedras,90,1,Cncha,Quebrada Grande,Carr. 948. Bo. Río,2,1
+Las Piedras,90,2,Ant. Esc.,Matías Rivera (M),"Carr. 31, Km 17.3, Com. Pueblito, Bo. El Río",3,1
+Las Piedras,90,3,C. Com,Lijas,Bo. El Río,1,1
+Las Piedras,90,4,Esc.,Luis Muñoz Rivera,"Carr. 936 Int. Carr. 937, Bo. Boquerón",3,1
+Las Piedras,90,5,Esc.,Florencia García**,"Cll. José C. Barbosa, Bo. Collores",1,1
+Patillas,91,1,Esc.,Rafaelina E. Lebrón Flores,"Cll. Principal, Urb. San Martin, Bo. Pueblo",4,1
+Patillas,91,2,Ant. Esc.,Quebrada Arriba II (M),"Carr. 184 Km. 0.2 Inter. 762, Sect. Las Parcelas, Bo. Quebrada Arriba",1,1
+Patillas,91,3,C. Com,Francisco Zenón Gely,"Carr. 184 Km. 10.8, Sect. Río Abajo, Bo. Muñoz Rivera",1,1
+Patillas,91,4,Ant. Esc.,Andrea Lebrón Ramos (M),"Carr. 184 Km. 7.0, Inter. Carr. 754, Bo. Cacao Alto",1,1
+Patillas,91,5,Esc.,Joaquín Parrilla (El Real),"Carr. 184 Km. 2.2, Bo. Cacao Alto",3,1
+Patillas,91,6,Ctro.,Biblioteca Electrónica,"Carr. 179 Km. 10.4, Sect. Cambrelé, Bo. Carite, Guayama",1,1
+Patillas,91,7,Ant. Esc.,Marín Bajo (M),"Carr. 181 Km. 3.9, Bo. Marin Bajo",2,1
+Patillas,91,8,Esc.,María Dávila Semidey,"Carr. 3, Cll. Muñoz Rivera #300, Bo. Pueblo",1,1
+Patillas,91,9,H. S.,Ramón Lebrón Rodríguez,"Carr. 757 Km. 8.7, Bo. Mamey",1,1
+Patillas,91,10,H. S.,Apeadero,"Carr. 757 Km. 3.4, Bo. Apeadero",1,1
+Patillas,91,11,Esc.,Joséfina Muñoz de Bernier,"Carr. 181 Km. 0.2, Cll. Jesús T. Piñero, Bo. Pueblo",3,1
+Patillas,91,12,Ctro.,Envejecientes Cirilo Santiago Plaud,"Carr. 7757, Parc. Viejas, Bo. Pollos",4,1
+Patillas,91,13,Esc.,Guillermo Riefkhol,"Carr. 3 Km. 121.2, Bo. Bajo",1,1
+Patillas,91,14,Ant. Esc.,Lamboglia (M),"Carr. 3 Km. 117.8, Cll. 6, Sect. Lamboglia, Bo. Bajo",2,1
+Patillas,91,15,Ant. Esc.,María M. Ortiz García (M),"Carr. 758 Km. 1.7, Bo. Jacaboa",2,1
+Patillas,91,16,Ant. Esc.,Manuel Mendía Moret (M),"Carr. 3 Km. 114.5, Bo. Guardarraya",2,1
+Patillas,91,17,Ant. Esc.,Tomás Vera Ayala (M),"Cll. Vista Alegre, Sect. Recio, Bo. Guardarraya",2,1
+Maunabo,92,1,Ant. Esc.,Matuyas Bajo (M),"Carr. 759, Bo. Matuyas Bajo",1,1
+Maunabo,92,2,Esc.,Higinio Figueroa Villegas (Bordaleza),"Carr. 760, Sect. Bordaleza, Bo. Emajaguas",5,1
+Maunabo,92,3,H. S.,Lucila Montes Fantauzzi,"Carr. 758 Int. 759, Bo. Lizas",1,1
+Maunabo,92,4,C. Com,Tumbao (SENDEC),"Carr. 759, Sect. Tumbao Bo. Palo Seco",1,1
+Maunabo,92,5,Esc.,Manuel Ortiz Suyá,"Carr. 7762 Km. 0.3, Bo. Palo Seco",2,1
+Maunabo,92,6,Esc.,Wilfredo Lafuente Ortiz,"Carr. 750, Bo. Talante",2,1
+Maunabo,92,7,C. Com,Calzada,"Carr. 7761 Interior, Bo Calzada",2,1
+Maunabo,92,8,Esc.,Alfonso Casta Martínez,"Carr. 939, Bo. Quebrada Arenas",3,1
+Maunabo,92,9,Ctro.,Child Care Cuido y Desarrollo del Niño,"Carr. 939, Bo. Quebrada Arenas",1,1
+Yabucoa,93,1,Ant. Esc.,Marcos Sánchez (M),"Carr. 182 Km. 12.3, Bo. Guayabota",3,1
+Yabucoa,93,2,Ant. Esc.,Catalina Morales (M),"Carr. 900 Km. 9.5 Sect. Quebradillas, Bo. Quebradillas",2,1
+Yabucoa,93,3,Esc.,Manuel Ortiz,"Carr. 902 Km. 5.8, Bo. Jácanas Abajo",4,1
+Yabucoa,93,4,Esc.,Asunción Lugo,Carr. 901 Km. 0.3 Bo. Camino Nuevo,5,1
+Yabucoa,93,5,Esc.,Jaime C. Rodríguez,"Carr. 900 Km. 0.6, Urb. Jaime C. Rodríguez, Bo. Calabazas",2,1
+Yabucoa,93,6,Esc.,Marta Sánchez Alverio,"Carr. 900, Sect. Playita, Bo. Calabazas",3,1
+Yabucoa,93,7,Ant. Esc.,Rosa Sánchez Vargas (M),"Cll. 8, Parc. Rosa Sánchez, Bo. Calabazas Abajo",2,1
+Yabucoa,93,8,Ant. Esc.,Doroteo Peña Mora (M),"Carr. 182 Km. 7.2, Bo. Calabazas",2,1
+Yabucoa,93,9,Ant. Esc.,Juan B. Huyke (M),"Sect. La Villa, Bo. Juan Martín",3,1
+Yabucoa,93,10,Esc.,Jesús T. Sanabria Cruz,"Carr. 9903, Bo. Tejas",4,1
+Yabucoa,93,11,Esc.,Luis Muñoz Marín,"Carr. 902 Km. 2.2, Com. Martorell, Bo. Limones",4,1
+Yabucoa,93,12,Esc.,José Facundo Cintrón,"Cll. José F. Cintrón, Bo. Pueblo",3,1
+Yabucoa,93,13,Ant. Esc.,Andrés Soto Quiñones (M),"Carr. 908, Bo. Jagueyes",2,1
+Yabucoa,93,14,Ant. Esc.,Federico Mathew Báez (M),"Carr. 905 Km. 0.6, Sect. Ingenio, Bo. Aguacate",1,1
+Yabucoa,93,15,Esc.,Ramón Quiñones Medina,"Urb. Rpto. Horizonte, Bo. Pueblo",4,1
+Yabucoa,93,16,Esc.,Andrés Sandín,Carr. 906 Km. 5.1 Bo. Aguacate,6,1
+Humacao,94,1,C. Com,Mambiche Blanco,"Carr. 938, Bo. Mambiche",2,1
+Humacao,94,2,C. Com,Mambiche Prieto,"Carr. 938 Km. 4.8, Bo. Mambiche",1,1
+Humacao,94,3,C. Com,Collores,"Carr. 926 Km. 5.1, Bo. Collores",3,1
+Humacao,94,4,C. Com,Sixto Jiménez Santos (Antón Ruíz),"Carr. 927 Km. 0.6, Bo. Antón Ruíz",2,1
+Humacao,94,5,C. Com,Juan de Dios (Río Abajo),"Carr. 925 Km. 3.3, Parc. Pasto Viejo, Bo. Antón Ruíz  ",2,1
+Humacao,94,6,C. Com,Servicios Múltiples Punta Santiago,"Carr. 3, Bo. Punta Santiago",2,1
+Humacao,94,7,Esc.,Agapito López Flores,"Cll. 6, Urb. Verde Mar",3,1
+Humacao,94,8,C. Com,Junquito,"Cll. Gladiola, Bo. Junquito",2,1
+Humacao,94,9,C. Com,Antonio A. Roig,"Carr. 198 Res. Antonio Roig, Bo. Mabú",2,1
+Humacao,94,10,Esc.,La Fermina,"Carr. 922, Parcelas La Fermina, Bo. Mabú, Las Piedras  ",3,1
+Humacao,94,11,Esc.,Antonio Rosa Guzmán (Nueva),"Carr. 909 Km. 2.2, Sect. Mariana II, Bo. Mariana",3,1
+Humacao,94,12,C. Com,Mariana,"Carr. 9908 int. Km 3.5, Bo. Mariana, Sect. Jurutungo",2,1
+Humacao,94,13,C. Com,Cataño,"Carr. 3, Km 85.4, Bo. Candelero Arriba",2,1
+Humacao,94,14,Esc.,Anita Otero Hernández (Bellas Artes),"58 Cll. B, Sect. Parque Industrial Final, Bo. Cataño",2,1
+Humacao,94,15,C. Com,Buena Vista (Al lado Parque de Pelota),"Carr. 9933, Sect. BUena Vista, Bo. Buena Vista",4,1
+Humacao,94,16,Esc.,Cándido Berrios,"Carr. 3 Km. 87.1, Bo. Candelero Arriba",5,1
+Humacao,94,17,C. Com,Parcelas Martínez,"Carr. 906, Km. 8.2, Cll. 2, Parcelas Martínez, Bo.Candelero Abajo",3,1
+Humacao,94,18,C. Com,Aniceto Cruz,"Carr. 906 Km. 3.4, Parcelas Aniceto Cruz, Bo. Candelero Abajo",2,1
+Humacao,94,19,Esc.,Rufino Vigo,"Carr. 924, 113 Cll. Duchesne, Bo. Pueblo",3,1
+Humacao,94,20,Esc.,Ana Roqué de Duprey,"3 Cll. Dr. Vidal, Bo.Pueblo",3,1
+Humacao,94,21,Esc.,Juan Ponce de León,"Carr. 3, Cll. Vidal, Bo. Pueblo",3,1
+Humacao,94,22,Esc.,Carmen Pilar Santos,"50 Cll. Progreso, Bda. Patagonia",2,1
+Humacao,94,23,Esc.,Petra Mercado Bougart,"Carr. 908 Ave. Tejas Final, Bo. Tejas",5,1
+Humacao,94,24,Ant. Esc.,Adrián Medina (M),"Carr. 914, Camn. Adrián Medina, Bo. Tejas",2,1
+Humacao,94,25,Esc.,Carlos Rivera Ufret,80 Ave. Roosevelt Bo. Pueblo,3,1
+Humacao,94,26,Esc.,Lidia Fiol Scarano,"Cll. 6, Urb. Villa Humacao",4,1
+Naguabo,95,1,Esc.,Dr. Juan José Maunez Pimentel  ,"Cll. Principal, Bda. Buenos Aires, Bo. Río",6,1
+Naguabo,95,2,Ant. Esc.,Juan F. Carrasquillo (M)  ,"Carr. 972 Km. 1.6, Parc. Mariana, Bo. Mariana",2,1
+Naguabo,95,3,Esc.,Silverio García  ,"Carr. 3 Km. 61.4, Bo. Daguao",3,1
+Naguabo,95,4,H. S.,Santiago y Lima,"Carr. 3 Parcelas Santiago y Lima, Bo. Santiago y Lima",2,1
+Naguabo,95,5,C. Com,Húcares Inc.,"Sect. Fanduca, Parc. Playa, Bo. Húcares",2,1
+Naguabo,95,6,Esc.,Eugenio Brac,"Cll. Antonio Ríos, Bo. Pueblo",2,1
+Naguabo,95,7,Esc.,Quebrada Grande,"Cll. 3 Esq. Cll. 8 Parc. Duque, Bo. Duque",3,1
+Naguabo,95,8,Ant. Esc.,Desiderio Méndez (M),"Carr. 970 Km. 8.0, Bo. Maizales",3,1
+Naguabo,95,9,Ant. Esc.,Lydia M. López (Anexo) (Ant. Esc. Antonio Ríos) (M),"Carr. 31 Km. 6.9, Bo. Río Blanco",2,1
+Naguabo,95,10,Esc.,Lutgarda Rivera Reyes ,"Carr. 191, Parc. Florida, Bo. Río Blanco",2,1
+Naguabo,95,11,Esc.,Fermín Delgado Díaz  ,"Carr. 950 Km. 3.8, Sect. Higüerillo, Bo. Peña Pobre",2,1
+Naguabo,95,12,Ant. Esc.,Lydia M. López (M),"Cll. 2, Parc. Peña Pobre, Bo. Peña Pobre",3,1
+Vieques,96,1,Esc.,Playa Grande,"Carr. 200 Km. 1.3, Sect. Monte Santo, Bo. Florida",4,1
+Vieques,96,2,Esc.,Germán Rieckehoff Morales,"Carr. 200 Km. 0.5, Sect. Santa María. Bo. Puerto Diablo",2,1
+Vieques,96,3,Esc.,Juanita Rivera Albert,"10 Cll. Húcar, Sect. La Esperanza, Bo. Puerto Real",2,1
+Vieques,96,4,Esc.,María M. Simmons De Rivera,"Carr. 200 Km. 2.0, Sect. Coffi, Bo. Pueblo (Isabel II)",2,1
+Vieques,96,5,Esc.,20 de septiembre de 1988,"Carr. 200 Esq. 997, Bo. Puerto Ferro",2,1
+Culebra,97,1,Esc.,Carmelo Feliciano (Ecológica Intermedia),"Carr. 250, Esq. Cll. Luís Muñoz Marín, Com. Clark, Bo. Pueblo",2,1
+Culebra,97,2,Esc.,Nueva Ecológica (Ecológica Elemental),"Carr. 250, Esq. Cll. Luís Muñoz Marín, Com. Clark, Bo. Pueblo",2,1
+Ceiba,98,1,Esc.,Luis Muñoz Marín,"Carr 979, Desvío Felícita Rincón De Gautier",4,1
+Ceiba,98,2,Cncha,Río Abajo,"Carr. 975 Km. 6.4, Bo. Río Abajo",1,1
+Ceiba,98,3,C. Com,Saco (Ant. Esc. Saco) (M),"Carr. 975 Km. 2.3, Bo. Saco",2,1
+Ceiba,98,4,C. Com,Machos,"Carr. 982 Km. 0.2, Bo. Machos",1,1
+Ceiba,98,5,Esc.,Irma Pedraza Ruiz (Nueva),"Cll. Sofía Int., Urb. Rossy Valley",4,1
+Ceiba,98,6,Ant. Esc.,Parcelas Aguas Claras (M),"Carr. 3 Km. 56.1, Bo. Chupacallos",3,1
+Ceiba,98,7,Igl.,Primera Iglesia Bautista de Ceiba   ,"Carr. 3 Km. 56.7, Bo. Quebrada Seca    ",2,1
+Fajardo,99,1,Esc.,Antonio Valero Bernabé Calzada,"Carr. 194 (Ave. General Valero), Bo. Pueblo",3,1
+Fajardo,99,2,Ctro.,Ant. Esc. Dr. José Ramos Lebrón,"492 Carr. 195 (Cll. Unión), Sect. Puerto Real",2,1
+Fajardo,99,3,Esc.,Dr. Santiago Veve Calzada,"Ave. Osvaldo Molina, Bo. Pueblo",4,1
+Fajardo,99,4,Esc.,Ramón Quiñones Pacheco,"12 Cll. Federico García, Bo. Pueblo",1,1
+Fajardo,99,5,Esc.,Gabino Soto,"174 Cll. Igualdad, Bo. Pueblo",4,1
+Fajardo,99,6,Esc.,Inés Encarnación,"Carr. 985 Km. 0.3, Bo. Florencio",5,1
+Fajardo,99,7,Esc.,María I. Dones,"Cll. 5, Com. Luis M. Cintrón, Bo. Quebrada Vueltas",4,1
+Fajardo,99,8,Ctro.,Amigos Club Aries,"Carr. 987 (Las Croabas) Km. 4.6, Bo. Cabezas",2,1
+Fajardo,99,9,Esc.,Josefina Ferrero,Ave. Conquistador esq. Urb Monte Brisas,5,1
+Fajardo,99,10,Esc.,Rosa P. París,"Cll. 23, Urb. Fajardo Gardens",3,1
+Fajardo,99,11,C. Com,Paraíso,"Carr. 976 Km. 6.2 Int, Sect. Peñón Paraíso, Bo. Río Arriba",2,1
+Fajardo,99,12,Esc.,Berta Zalduondo Cruz,"Cll. 104, Urb. Monte Brisas, 3ra Secc.",2,1
+Luquillo,100,1,Esc.,Rafael N. Coca*,"Cll. Fernández García final, Bo. Pueblo",2,1
+Luquillo,100,2,C. Com,Fortuna Playa,"Carr. 3 Km. 34.8 (Lado Norte), Parcelas Fortuna, Bo. Mameyes I",1,1
+Luquillo,100,3,C. Com,Río Chiquito,"Carr. 988, Sect. Río Chiquito, Bo. Pitahaya",1,1
+Luquillo,100,4,Ctro.,Mi Casa Montessori (Ant. Esc. Mata de Plátano),"Carr. 990, Esq. Carr 992 Km. 3.5, Bo. Mata de Plátano  ",3,1
+Luquillo,100,5,Esc.,Camilo Valles Matienzo,"Cll. 3, Urb. Brisas del Mar",4,1
+Luquillo,100,6,Esc.,Alejandrina Ríos Benabe (S.U. Sabana)*,"Carr. 983 Km. 2.3, Bo. Sabana",3,1
+Luquillo,100,7,Esc.,Isidro A. Sánchez,Cll. 2 Urb. Brisas del Mar,3,1
+Luquillo,100,8,Esc.,Alejandrina Ríos Benabe (S.U. Sabana)*,"Carr. 983 Km. 2.3, Bo. Sabana",3,0
+Luquillo,100,9,Ant. Esc.,Carolina G. de Veve (M),"Carr. 940 Esq. Carr. 984, Bo. Juan Martín",2,1
+Luquillo,100,10,Esc.,Rafael N. Coca*,"Cll. Fernández García final, Bo. Pueblo",3,0
+Río Grande,101,1,Esc.,Rafael Rexach Dueño,"Carr. 955 Km. 5.4, Sect. Palmer, Bo. Mameyes",4,1
+Río Grande,101,2,Ant. Esc.,Carola (M),"Cll. 5, Sect. Carola, Bo. Zarzal",3,1
+Río Grande,101,3,Esc.,Félix Sánchez Cruz**,"Cll. 9A Esq. Cll. 7 Norte, Urb. Río Grande Estates",2,1
+Río Grande,101,4,C. Com,Zarzal,"Carr. 967 Km. 4.8, Bo Zarzal",2,1
+Río Grande,102,1,Ctro.,Yunquelandia Childcare (La Ponderosa),"Ave. Margarita Final, Parc. La Ponderosa",2,1
+Río Grande,102,2,H. S.,Centro Child Care,"Bda. P. H. Hernández, Bo. Herreras",1,1
+Río Grande,102,3,Esc.,Félix Sánchez Cruz**,"Cll. 9A Esq. Cll. 7 Norte, Urb. Río Grande Estates",4,1
+Río Grande,102,4,Esc.,Antera Rosado Fuentes,"Cll. 19, Urb. Villa de Río Grande",5,1
+Río Grande,102,5,Esc.,Rafael de Jesús,"33 Cll. Juan R. González, Bo. Pueblo",6,1
+Río Grande,102,6,C. Com,Morovis,"Carr. 960 Km. 3.8, Bo. Guzmán Arriba",2,1
+Río Grande,102,7,Ant. Esc.,Julio Millán Cepeda (M),"Cll. Chile Esq. Cll. Jericó Com. Las Dolores, Bo. Ciénaga Baja",2,1
+Río Grande,102,8,Esc.,Edmundo del Valle Cruz,"Cll. 20 Esq Calle 17 A, Urb. Alturas de Río Grande",8,1
+Río Grande,102,9,C. Com,Jiménez (Cara del Indio),"Carr. 966, Sect. Cara del Indio, Bo. Jiménez",1,1
+Río Grande,102,10,Ant. Esc.,Vega Alegre (M),"Carr. 186 Km. 23.2, Bo. Jiménez",3,1
+Río Grande,102,11,Ant. Esc.,Santiago Medina (M),"Carr. 956 Km. 9.8, Bo. Ciénaga Alta",2,1
+Río Grande,102,12,Ant. Esc.,Rosa Bernard (M),"Carr. 958, Sect. Malpica, Bo. Ciénaga Baja",7,1
+Río Grande,102,13,Esc.,Casiano Cepeda,"Carr. 959 Km. 2.0, Bo. Ciénaga Alta",2,1
+Río Grande,102,14,Ant. Esc.,Vicente Escobar (M),"Carr. 956 Km. 2.2 Parcelas Bartolo, Bo. Guzmán Abajo",3,1
+Loíza,103,1,Esc.,Belén Blanco De Zequeira*,"205 Cll. Carlos Escobar, Urb San Patricio",5,1
+Loíza,103,2,Esc.,Belén Blanco De Zequeira*,"205 Cll. Carlos Escobar, Urb San Patricio",3,0
+Loíza,103,3,Ctro.,Gregorio (Goyín) Lanzó Cirino,"Carr. 187, Calle 2, Parc. Suárez, Bo. Medianía Baja",4,1
+Loíza,103,4,Esc.,Nueva (Ant. Esc. Jesusa Vizcarrondo),"Carr. 187 Km. 5.6, Bo. Medianía Alta",4,1
+Loíza,103,5,Ctro.,Proyecto Nuestra Escuela (Ant. Esc. Parcelas Vieques),"Carr. 187 Esq. Cll. 5, Parc. Vieques, Bo. Medianía Alta",3,1
+Loíza,103,6,Esc.,Guillermina Rosado de Ayala,"Cll. 25, Urb. Villas de Loíza",6,1
+Loíza,103,7,C. Com,La Torre,"Carr. 187 Km. 5.3 Int. , Sect. La Torre, Bo. Torrecilla Baja",2,1
+Loíza,103,8,Esc.,Jobos,"Carr. 187 Km. 9.8, Sect. Jobos, Bo. Medianía Alta",3,1
+Loíza,103,9,Esc.,Medianía Alta,"Carr. 187 Km. 6.6, Bo. Medianía Alta",4,1
+Canóvanas,104,1,H. S.,Los Indiecitos,"Carr. 962 Km. 1.8, Sect. Cambalache, Bo. Canóvanas",2,1
+Canóvanas,104,2,C. Com,Campo Rico (Neftalí Ortiz),"Carr. 185, Parc. Campo Rico",3,1
+Canóvanas,104,3,Esc.,José Calzada Ferrer,"Carr. 185 Km. 5.5, Bo. Campo Rico",4,1
+Canóvanas,104,4,Ant. Esc.,Domingo Nieves Ortiz (M),"Carr. 186 Km. 5.0, Sect. Cubuy Campamento",2,1
+Canóvanas,104,5,Esc.,Georgina Baquero*,"Carr. 186 Km. 7.5, Bo. Cubuy",3,1
+Canóvanas,104,6,Esc.,Antonio R. Barceló,"Cll. Palmer, Bo. Pueblo",6,1
+Canóvanas,104,7,Esc.,"Francisco ""Paco"" Dávila (Las 400)","Carr. 185 Km. 15.8, Cll. 1, Parc. Las Cuatrocientas, Bo. Lomas",1,1
+Canóvanas,104,8,Esc.,Georgina Baquero*,"Carr. 186 Km. 7.5, Bo. Cubuy",4,0
+Canóvanas,105,1,Ctro.,Sor Isolina Ferré,"Calle 16 Sect. Sierra Maestra, Bo. Torrecilla Alta",1,1
+Canóvanas,105,2,Ant. Esc.,Julia De Burgos (C),"Carr. 874, Sect. La Central, Bo. Torrecilla Alta",6,1
+Canóvanas,105,3,Esc.,Dr. Pedro Albizu Campos,"Carr. 188, Sect. San Isidro",3,1
+Canóvanas,105,4,Esc.,Juana Rodríguez Mundo,"Cll. Adonis, Urb. Loíza Valley",4,1
+Canóvanas,105,5,Esc.,Luis Hernáiz Veronne,"Cll. Autonomía Final, Bo. Pueblo",5,1
+Canóvanas,105,6,Esc.,José Santos Quiñones,"Cll. 21, Com. Jardines de Palmarejo, Bo. Canóvanas",3,1
+Canóvanas,105,7,Esc.,William Rivera Betancourt,"Carr. 188 km 1.6, Bo. San Isidro",5,1
+Carolina,106,1,C. Com,Santa Cruz,"Carr. 859, Cll. Laurel, Esq. Cll. Úcar, Bo. Santa Cruz",3,1
+Carolina,106,2,Esc.,Ángel P. Millán Rohena,"Carr. 857 Km. 0.7, Bo. Canovanillas",6,1
+Carolina,106,3,Esc.,"Francisco ""Prisco"" Fuentes","13 Cll. Grovish, Urb. Parque Ecuestre, Bo. Canovanillas",6,1
+Carolina,106,4,Esc.,Jesús M. Súarez Sosa,"Carr. 853 Km. 8.2, Bo. Barrazas",5,1
+Carolina,106,5,Esc.,Jesús T. Piñero Jiménez,"Carr. 857 Km. 9.4, Bo. Carruzos",3,1
+Carolina,106,6,C. Com,Los Cedros,"Carr. 853, Km. 13.7 Int., Bo. Cedro",2,1
+Carolina,106,7,H. S.,Canario,"Carr. 857 Lote Q Int., Cll. Pablo Pizarro, Parc. Buenaventura",3,1
+Carolina,106,8,C. Com,Loman View,"Cll. 58, Urb. Loman View, Trujillo Bajo",6,1
+Carolina,106,9,Esc.,Salvador Brau,"Carr. 853 Km. 6.0, Bo. Cacao",5,1
+Carolina,107,1,C. Com,Arrevica,Ave. Ignacio Cruz #100 Esq. Elioi Hernández 3ra Ext. Villa Carolina,7,1
+Carolina,107,2,Col.,Bautista de Carolina,"Ave. 65 De Infantería, Km. 9.0",4,1
+Carolina,107,3,Esc.,Roberto Clemente,"Carr. 860 Km. 0.3 Int. Cll. Manuela Walker y Perú, Urb. Rolling Hills",7,1
+Carolina,107,4,Esc.,Jesús María Sanromá,"Cll. 46, Esq. Central Blvd, Urb. Villa Carolina",7,1
+Carolina,107,5,Esc.,Lorenzo Vizcarrondo,"8 Cll. Quiñones, Urb. Severo Quiñones",4,1
+Carolina,107,6,Esc.,José Severo Quiñones,"Cll. Ulises Ortiz, Urb. Severo Quiñones",4,1
+Carolina,107,7,Esc.,Dr. Modesto Rivera Rivera,"Cll. 9 Núm 84 Bloque 79, Urb. Villa Carolina",4,1
+Carolina,107,8,Esc.,Agustín Cabrera,"Ave. Central Blvd. Urb. Villa Carolina, 3ra sección  ",3,1
+Carolina,107,9,Esc.,Luz América Calderón,"Ave. Central Boulevard Núm 18 3era Secc., Urb. Villa Carolina",8,1
+Carolina,107,10,Esc.,Juana A. Méndez Meléndez,"Cll. 1, Urb. Metrópolis",8,1
+Carolina,108,1,Col.,La Piedad,"Cll. Marginal Villamar, Exp. Baldorioty de Castro, Urb. Villamar",7,1
+Carolina,108,2,Esc.,María Teresa Serrano,"Vía 8 Final, Urb. Villa Fontana",4,1
+Carolina,108,3,Esc.,Gilberto Concepción de Gracia,"Ave. Sánchez Osorio, Urb. Villa Fontana Park",3,1
+Carolina,108,4,Col.,Fountain Christian Bilingual School (Ant. Esc.Julia de Burgos),"Cll. Capella, Urb. Los Ángeles, Bo. Cangrejo Arriba",8,1
+Carolina,108,5,C. Com,Wilfredo Benítez,"Carr. 848, Bo Saint Just",2,1
+Carolina,108,6,Col.,Santa Gema*,"Ave. Galicia Final, Ext. Vistamar",4,1
+Carolina,108,7,Esc.,Dr. José M. Lázaro*,"Ave. El Comandante, Urb. Country Club",6,1
+Carolina,108,8,Univ.,Colegio Regional de Carolina (UPR),"Carr. 887 Km 0.5, Bo. San Antón",6,1
+Carolina,108,9,Esc.,Pascasio P. Sancérrit,"Cll. Toledo Esq. Cll. Granada, Urb. Vistamar",3,1
+Carolina,108,10,Esc.,Eduardo J. Saldaña,"Cll. Isla Verde, Sect. La Cerámica",4,1
+Carolina,108,11,Col.,Santa Gema*,"Ave. Galicia Final, Ext. Vistamar",5,0
+Carolina,108,12,Esc.,René Marqués,"Cll. 116 Final, Urb. Jardines de Country Club",4,1
+Carolina,108,13,Esc.,Petra Román Vigo,"Carr. 887 Km. 3.5, Bo. San Antón",3,1
+Carolina,108,14,Esc.,Rvdo. Félix Castro Rodríguez,"Cll. 612, 6ta Secc., Urb. Villa Carolina",6,1
+Carolina,108,15,Esc.,Dr. José M. Lázaro*,"Ave. El Comandante, Urb. Country Club",5,0
+Carolina,108,16,Esc.,Manuel Febres González,"Vía 6, Urb. Villa Fontana",5,1
+Carolina,108,17,H. S.,Sabana Abajo Norte,"Carr. 190 Km. 1.8, Bo.Sabana Abajo",2,1
+Carolina,108,18,C. Com,Sabana Gardens,"Cll. 5, Urb. Sabana Gardens",4,1
+Carolina,108,19,Esc.,Francisco Matías Lugo,"Cll. Almendro, Urb. Valle Arriba Heights",5,1
+Carolina,108,20,Esc.,Pedro Moczó Baniet,"Cll. San Fernando, Ext. El Comandante",5,1
+Trujillo Alto,109,1,Esc.,Andrés Valcárcel**,"Cll. Andrés Valcárcel, Bo. Pueblo",2,1
+Trujillo Alto,109,2,Esc.,El Conquistador,"Cll. 13 Esq. Cll. 11 Urb. El Conquistador, Bo. Carraízo",4,1
+Trujillo Alto,109,3,Esc.,Medardo Carazo,"Cll. Cruz Final 200, Bo. Pueblo",10,1
+Trujillo Alto,109,4,Esc.,José F. Díaz,"Carr 843 Km. 3.7 Carr Antigua, Bo. Carraízo",6,1
+Trujillo Alto,109,5,Cncha,Prudencio Machín Egüin (La Gloria),"Carr. 851 Km. 2.3, Bo. La Gloria",6,1
+Trujillo Alto,109,6,Loc.,Gallera La Sabana,Carr 852 km 6.6 Bo. Qdra Grande,2,1
+Trujillo Alto,109,7,Esc.,Juan J. Osuna,"Carr. 181 Km. 10.7, Bo. Quebrada Negrito",5,1
+Trujillo Alto,109,8,H. S.,Ramón T. Colón,"Carr. 852, Interior Parc. Ramón T. Colón, Bo. Quebrada Negrito",3,1
+Trujillo Alto,110,1,C. Com,Ciudad Universitaria,"Carr 816, Km 0.1 Salón de Actos Cond. Ciudad Universitaria, Bo. Cuevas",1,1
+Trujillo Alto,110,2,Col.,New Generation School,"Carr. 846 Km. 0.3, Bo. Cuevas",5,1
+Trujillo Alto,110,3,Esc.,Fair View,"Cll. 17 Esq. 18 Urb. Fair View, Bo Carraízo",7,1
+Trujillo Alto,110,4,Esc.,Andrés Valcárcel**,"Cll. Andrés Valcárcel, Bo. Pueblo",2,1
+Trujillo Alto,110,5,Esc.,Petra Zenón de Fabery,"Carr. 181 Km.1.8, Bo. Saint Just",10,1
+Trujillo Alto,110,6,Esc.,Jesús Silva Alemán,"Cll. Gardenia Esq. Azucena Urb. Villa Blanca, Bo. Cuevas",6,1
+Trujillo Alto,110,7,Acad.,Antilles Military Academy,"Carr. 850, Bo. Cuevas",5,1
+Trujillo Alto,110,8,Esc.,Herminia Díaz Aponte,"Cll. Torrecilla Urb. Lago Alto, Bo. Saint Just",3,1
+Trujillo Alto,110,9,Col.,Santa María del Camino,"Carr. 860 Km. 5.9 Urb. Metrópolis, Bo. Saint Just",4,1

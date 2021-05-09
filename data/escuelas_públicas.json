@@ -1,0 +1,1000 @@
+[{"region":"HUMACAO","lon":"-65.44178","lat":"18.14372"}
+,{"region":"SAN JUAN","lon":"-66.06287","lat":"18.31255"}
+,{"region":"BAYAMON","lon":"-66.21927","lat":"18.36274"}
+,{"region":"CAGUAS","lon":"-66.01383","lat":"18.23615"}
+,{"region":"ARECIBO","lon":"-66.74019","lat":"18.46253"}
+,{"region":"PONCE","lon":"-66.60992","lat":"18.00463"}
+,{"region":"SAN JUAN","lon":"-66.11357","lat":"18.46764"}
+,{"region":"BAYAMON","lon":"-66.31734","lat":"18.34198"}
+,{"region":"CAGUAS","lon":"-66.05327","lat":"17.98963"}
+,{"region":"CAGUAS","lon":"-66.16153","lat":"17.95553"}
+,{"region":"BAYAMON","lon":"-66.21538","lat":"18.3609"}
+,{"region":"BAYAMON","lon":"-66.25288","lat":"18.43998"}
+,{"region":"MAYAGUEZ","lon":"-67.11244","lat":"18.39537"}
+,{"region":"PONCE","lon":"-66.72196","lat":"18.05218"}
+,{"region":"PONCE","lon":"-66.354215","lat":"18.132715"}
+,{"region":"HUMACAO"}
+,{"region":"ARECIBO","lon":"-66.40216","lat":"18.43408"}
+,{"region":"BAYAMON","lon":"-66.21732","lat":"18.38543"}
+,{"region":"PONCE","lon":"-66.90617","lat":"17.9726"}
+,{"region":"CAGUAS","lon":"-66.11837","lat":"17.97802"}
+,{"region":"MAYAGUEZ","lon":"-66.97788","lat":"18.33367"}
+,{"region":"SAN JUAN","lon":"-65.96069","lat":"18.39549"}
+,{"region":"CAGUAS","lon":"-66.14269","lat":"18.12282"}
+,{"region":"MAYAGUEZ","lon":"-66.9333","lat":"18.38331"}
+,{"region":"SAN JUAN","lon":"-66.04607","lat":"18.4331"}
+,{"region":"BAYAMON","lon":"-66.39266","lat":"18.22596"}
+,{"region":"MAYAGUEZ","lon":"-67.13728","lat":"18.28147"}
+,{"region":"BAYAMON","lon":"-66.25677","lat":"18.36625"}
+,{"region":"SAN JUAN","lon":"-66.12162","lat":"18.30477"}
+,{"region":"MAYAGUEZ","lon":"-67.04707","lat":"17.97474"}
+,{"region":"SAN JUAN","lon":"-66.04516","lat":"18.43826"}
+,{"region":"SAN JUAN","lon":"-66.03302","lat":"18.34204"}
+,{"region":"HUMACAO","lon":"-65.89685","lat":"18.00734"}
+,{"region":"HUMACAO","lon":"-65.91815","lat":"18.22674"}
+,{"region":"CAGUAS","lon":"-66.07612","lat":"18.28765"}
+,{"region":"PONCE","lon":"-66.88103","lat":"18.06108"}
+,{"region":"PONCE","lon":"-66.86901","lat":"18.05284"}
+,{"region":"BAYAMON","lon":"-66.23427","lat":"18.42334"}
+,{"region":"SAN JUAN","lon":"-65.95258","lat":"18.39996"}
+,{"region":"CAGUAS","lon":"-66.03686","lat":"18.30274"}
+,{"region":"ARECIBO","lon":"-66.84433","lat":"18.46785"}
+,{"region":"BAYAMON","lon":"-66.18546","lat":"18.44145"}
+,{"region":"SAN JUAN","lon":"-66.06276","lat":"18.37701"}
+,{"region":"SAN JUAN","lon":"-66.05409","lat":"18.39313"}
+,{"region":"MAYAGUEZ","lon":"-67.04179","lat":"18.07922"}
+,{"region":"HUMACAO","lon":"-65.64811","lat":"18.30027"}
+,{"region":"CAGUAS","lon":"-66.22832","lat":"17.97604"}
+,{"region":"CAGUAS","lon":"-66.16219","lat":"18.17064"}
+,{"region":"MAYAGUEZ","lon":"-67.14958","lat":"18.45022"}
+,{"region":"PONCE","lon":"-66.84447","lat":"18.00504"}
+,{"region":"HUMACAO","lon":"-65.82054","lat":"18.14917"}
+,{"region":"SAN JUAN","lon":"-66.0888","lat":"18.38764"}
+,{"region":"PONCE","lon":"-66.36765","lat":"17.9685"}
+,{"region":"BAYAMON","lon":"-66.1648","lat":"18.31756"}
+,{"region":"PONCE","lon":"-66.60161","lat":"18.00744"}
+,{"region":"SAN JUAN","lon":"-66.0064","lat":"18.35289"}
+,{"region":"BAYAMON","lon":"-66.44581","lat":"18.35816"}
+,{"region":"MAYAGUEZ","lon":"-67.13447","lat":"18.34708"}
+,{"region":"MAYAGUEZ","lon":"-66.95463","lat":"18.37019"}
+,{"region":"PONCE","lon":"-66.76118","lat":"18.21682"}
+,{"region":"BAYAMON","lon":"-66.15154","lat":"18.35291"}
+,{"region":"SAN JUAN","lon":"-65.93054","lat":"18.36921"}
+,{"region":"SAN JUAN","lon":"-66.00786","lat":"18.40331"}
+,{"region":"ARECIBO","lon":"-66.38388","lat":"18.44348"}
+,{"region":"PONCE","lon":"-66.60425","lat":"18.21765"}
+,{"region":"PONCE","lon":"-66.60722","lat":"17.98069"}
+,{"region":"ARECIBO","lon":"-66.69367","lat":"18.47902"}
+,{"region":"PONCE","lon":"-66.59433","lat":"18.22162"}
+,{"region":"ARECIBO","lon":"-66.80053","lat":"18.36489"}
+,{"region":"MAYAGUEZ","lon":"-67.17037","lat":"18.36258"}
+,{"region":"HUMACAO","lon":"-65.8382","lat":"18.38239"}
+,{"region":"MAYAGUEZ","lon":"-67.04653","lat":"18.08325"}
+,{"region":"BAYAMON","lon":"-66.20746","lat":"18.39905"}
+,{"region":"SAN JUAN","lon":"-66.05438","lat":"18.4424"}
+,{"region":"MAYAGUEZ","lon":"-67.09736","lat":"18.48642"}
+,{"region":"MAYAGUEZ","lon":"-67.09781","lat":"18.48796"}
+,{"region":"CAGUAS","lon":"-66.04754","lat":"18.28626"}
+,{"region":"HUMACAO","lon":"-65.96228","lat":"18.19892"}
+,{"region":"MAYAGUEZ","lon":"-67.03173","lat":"18.46913"}
+,{"region":"MAYAGUEZ","lon":"-67.13959","lat":"18.28729"}
+,{"region":"PONCE","lon":"-66.62685","lat":"18.01129"}
+,{"region":"ARECIBO","lon":"-66.31669","lat":"18.41179"}
+,{"region":"HUMACAO","lon":"-65.90364","lat":"18.37867"}
+,{"region":"ARECIBO","lon":"-66.85406","lat":"18.45143"}
+,{"region":"HUMACAO","lon":"-65.84329","lat":"18.13437"}
+,{"region":"CAGUAS","lon":"-66.02826","lat":"18.23582"}
+,{"region":"MAYAGUEZ","lon":"-67.11309","lat":"18.39219"}
+,{"region":"CAGUAS","lon":"-66.04121","lat":"18.2148"}
+,{"region":"SAN JUAN","lon":"-65.99524","lat":"18.40727"}
+,{"region":"PONCE","lon":"-66.60231","lat":"18.29906"}
+,{"region":"HUMACAO","lon":"-65.65245","lat":"18.33243"}
+,{"region":"ARECIBO","lon":"-66.46613","lat":"18.435"}
+,{"region":"ARECIBO","lon":"-66.2821","lat":"18.2558"}
+,{"region":"ARECIBO","lon":"-66.33316","lat":"18.41254"}
+,{"region":"MAYAGUEZ","lon":"-67.14525","lat":"18.37448"}
+,{"region":"PONCE","lon":"-66.7921","lat":"18.01826"}
+,{"region":"MAYAGUEZ","lon":"-67.18516","lat":"18.37596"}
+,{"region":"PONCE","lon":"-66.86206","lat":"18.04173"}
+,{"region":"PONCE","lon":"-66.8009","lat":"18.03217"}
+,{"region":"PONCE","lon":"-66.63862","lat":"18.03692"}
+,{"region":"MAYAGUEZ","lon":"-66.98146","lat":"18.30833"}
+,{"region":"PONCE","lon":"-66.90477","lat":"17.97548"}
+,{"region":"PONCE","lon":"-66.37267","lat":"18.1162"}
+,{"region":"BAYAMON","lon":"-66.19175","lat":"18.38843"}
+,{"region":"MAYAGUEZ","lon":"-66.99505","lat":"18.33826"}
+,{"region":"HUMACAO","lon":"-65.82274","lat":"18.14894"}
+,{"region":"BAYAMON","lon":"-66.44233","lat":"18.35501"}
+,{"region":"MAYAGUEZ","lon":"-67.13727","lat":"18.44793"}
+,{"region":"MAYAGUEZ","lon":"-67.01142","lat":"18.09406"}
+,{"region":"BAYAMON","lon":"-66.17358","lat":"18.43839"}
+,{"region":"HUMACAO","lon":"-65.88004","lat":"18.43235"}
+,{"region":"SAN JUAN","lon":"-66.017058","lat":"18.412188"}
+,{"region":"SAN JUAN","lon":"-66.054","lat":"18.41065"}
+,{"region":"ARECIBO","lon":"-66.67123","lat":"18.4418"}
+,{"region":"PONCE","lon":"-66.60828","lat":"18.01526"}
+,{"region":"PONCE","lon":"-66.87579","lat":"18.03458"}
+,{"region":"PONCE","lon":"-66.32418","lat":"18.07454"}
+,{"region":"CAGUAS","lon":"-66.16856","lat":"18.10959"}
+,{"region":"CAGUAS","lon":"-66.16773","lat":"18.11489"}
+,{"region":"CAGUAS","lon":"-66.02191","lat":"18.23555"}
+,{"region":"MAYAGUEZ","lon":"-67.15498","lat":"18.45848"}
+,{"region":"PONCE","lon":"-66.36208","lat":"18.07975"}
+,{"region":"CAGUAS","lon":"-66.16996","lat":"18.11429"}
+,{"region":"BAYAMON","lon":"-66.21263","lat":"18.29585"}
+,{"region":"PONCE","lon":"-66.62944167","lat":"18.14"}
+,{"region":"PONCE","lon":"-66.71126","lat":"18.2755"}
+,{"region":"BAYAMON","lon":"-66.16102","lat":"18.35867"}
+,{"region":"HUMACAO","lon":"-65.65086","lat":"18.34936"}
+,{"region":"SAN JUAN","lon":"-66.01285","lat":"18.40081"}
+,{"region":"SAN JUAN","lon":"-66.0127","lat":"18.40229"}
+,{"region":"SAN JUAN","lon":"-66.01225","lat":"18.4073"}
+,{"region":"PONCE","lon":"-66.657","lat":"18.03739"}
+,{"region":"SAN JUAN","lon":"-66.10322","lat":"18.33501"}
+,{"region":"MAYAGUEZ","lon":"-66.95798","lat":"18.07807"}
+,{"region":"SAN JUAN","lon":"-66.034","lat":"18.41264"}
+,{"region":"CAGUAS","lon":"-66.26322","lat":"18.13971"}
+,{"region":"HUMACAO","lon":"-65.81211","lat":"18.19844"}
+,{"region":"BAYAMON","lon":"-66.16335","lat":"18.39123"}
+,{"region":"MAYAGUEZ","lon":"-66.92717","lat":"18.22649"}
+,{"region":"HUMACAO","lon":"-65.91629","lat":"17.99344"}
+,{"region":"HUMACAO","lon":"-65.72141","lat":"18.37455"}
+,{"region":"CAGUAS","lon":"-66.3386","lat":"18.2308"}
+,{"region":"HUMACAO","lon":"-65.83008","lat":"18.10009"}
+,{"region":"PONCE","lon":"-66.53377","lat":"18.00798"}
+,{"region":"BAYAMON","lon":"-66.41281","lat":"18.30637"}
+,{"region":"HUMACAO","lon":"-65.87777","lat":"18.43225"}
+,{"region":"SAN JUAN","lon":"-65.95659","lat":"18.38561"}
+,{"region":"BAYAMON","lon":"-66.16742","lat":"18.37668"}
+,{"region":"PONCE","lon":"-66.73946","lat":"18.29473"}
+,{"region":"ARECIBO","lon":"-66.71874","lat":"18.47243"}
+,{"region":"HUMACAO","lon":"-65.91849","lat":"18.22454"}
+,{"region":"BAYAMON","lon":"-66.17268","lat":"18.43399"}
+,{"region":"PONCE","lon":"-66.50414","lat":"18.04626"}
+,{"region":"HUMACAO","lon":"-65.86781","lat":"18.18365"}
+,{"region":"MAYAGUEZ"}
+,{"region":"MAYAGUEZ","lon":"-67.13216","lat":"18.28701"}
+,{"region":"CAGUAS","lon":"-66.13132","lat":"18.22399"}
+,{"region":"HUMACAO","lon":"-65.7787","lat":"18.36912"}
+,{"region":"MAYAGUEZ","lon":"-67.13452778","lat":"18.49775"}
+,{"region":"SAN JUAN","lon":"-66.01135","lat":"18.3905"}
+,{"region":"BAYAMON","lon":"-66.14161","lat":"18.39044"}
+,{"region":"ARECIBO","lon":"-66.77591","lat":"18.45667"}
+,{"region":"HUMACAO","lon":"-65.83097","lat":"18.14571"}
+,{"region":"SAN JUAN","lon":"-66.05489","lat":"18.37131"}
+,{"region":"PONCE","lon":"-66.65441","lat":"18.01495"}
+,{"region":"HUMACAO","lon":"-65.85306","lat":"18.361"}
+,{"region":"HUMACAO","lon":"-65.8542","lat":"18.36096"}
+,{"region":"MAYAGUEZ","lon":"-67.15128","lat":"18.16856"}
+,{"region":"CAGUAS","lon":"-66.02984","lat":"17.98387"}
+,{"region":"HUMACAO","lon":"-66.01105","lat":"18.00546"}
+,{"region":"PONCE","lon":"-66.87475","lat":"18.00076"}
+,{"region":"HUMACAO","lon":"-65.88097","lat":"18.42633"}
+,{"region":"SAN JUAN","lon":"-66.06979","lat":"18.44818"}
+,{"region":"CAGUAS","lon":"-66.15637","lat":"18.11716"}
+,{"region":"ARECIBO","lon":"-66.42994","lat":"18.43259"}
+,{"region":"ARECIBO","lon":"-66.40578","lat":"18.43434"}
+,{"region":"SAN JUAN","lon":"-66.08693","lat":"18.41049"}
+,{"region":"MAYAGUEZ","lon":"-67.1562","lat":"18.36856"}
+,{"region":"PONCE","lon":"-66.56588","lat":"18.0651"}
+,{"region":"MAYAGUEZ","lon":"-67.07776","lat":"18.34165"}
+,{"region":"CAGUAS","lon":"-66.05572","lat":"18.20853"}
+,{"region":"MAYAGUEZ","lon":"-67.15063","lat":"18.17657"}
+,{"region":"CAGUAS","lon":"-66.04161","lat":"18.17479"}
+,{"region":"CAGUAS","lon":"-66.23603","lat":"18.21106"}
+,{"region":"CAGUAS","lon":"-66.19183","lat":"18.16227"}
+,{"region":"ARECIBO","lon":"-66.44577","lat":"18.42915"}
+,{"region":"BAYAMON","lon":"-66.25257","lat":"18.29895"}
+,{"region":"CAGUAS","lon":"-66.05384","lat":"18.21915"}
+,{"region":"ARECIBO","lon":"-66.4774","lat":"18.30636"}
+,{"region":"MAYAGUEZ","lon":"-67.25098","lat":"18.33903"}
+,{"region":"PONCE","lon":"-66.8131","lat":"18.06286"}
+,{"region":"CAGUAS","lon":"-66.10983","lat":"18.12626"}
+,{"region":"MAYAGUEZ","lon":"-67.03143","lat":"18.2093"}
+,{"region":"CAGUAS","lon":"-66.22818","lat":"17.9715"}
+,{"region":"ARECIBO","lon":"-66.73596","lat":"18.46298"}
+,{"region":"BAYAMON","lon":"-66.15804","lat":"18.37521"}
+,{"region":"HUMACAO","lon":"-65.8944","lat":"18.0778"}
+,{"region":"ARECIBO","lon":"-66.25971","lat":"18.396"}
+,{"region":"ARECIBO","lon":"-66.5057","lat":"18.31551"}
+,{"region":"HUMACAO"}
+,{"region":"MAYAGUEZ","lon":"-67.08917","lat":"18.17693"}
+,{"region":"ARECIBO","lon":"-66.49761","lat":"18.44914"}
+,{"region":"SAN JUAN","lon":"-65.93721","lat":"18.37334"}
+,{"region":"MAYAGUEZ","lon":"-67.14307","lat":"18.18531"}
+,{"region":"PONCE","lon":"-66.79254","lat":"18.02428"}
+,{"region":"BAYAMON","lon":"-66.46182","lat":"18.23803"}
+,{"region":"CAGUAS","lon":"-66.00712","lat":"18.28076"}
+,{"region":"PONCE","lon":"-66.50581","lat":"18.10698"}
+,{"region":"ARECIBO","lon":"-66.88233","lat":"18.29956"}
+,{"region":"MAYAGUEZ","lon":"-67.14365","lat":"18.20206"}
+,{"region":"BAYAMON","lon":"-66.18149","lat":"18.43506"}
+,{"region":"HUMACAO","lon":"-65.76057","lat":"18.23301"}
+,{"region":"CAGUAS","lon":"-66.04072","lat":"18.23283"}
+,{"region":"BAYAMON","lon":"-66.17822","lat":"18.37352"}
+,{"region":"ARECIBO","lon":"-66.7275","lat":"18.47102"}
+,{"region":"CAGUAS","lon":"-66.06448","lat":"17.97405"}
+,{"region":"ARECIBO","lon":"-66.87977","lat":"18.29666"}
+,{"region":"PONCE","lon":"-66.72947","lat":"18.13412"}
+,{"region":"HUMACAO","lon":"-65.87097","lat":"18.32032"}
+,{"region":"PONCE","lon":"-66.726671","lat":"18.17278"}
+,{"region":"BAYAMON","lon":"-66.22027","lat":"18.29276"}
+,{"region":"MAYAGUEZ","lon":"-67.15506","lat":"18.42658"}
+,{"region":"PONCE","lon":"-66.61915","lat":"17.98619"}
+,{"region":"SAN JUAN","lon":"-66.07822","lat":"18.4073"}
+,{"region":"MAYAGUEZ","lon":"-67.19133","lat":"18.3835"}
+,{"region":"ARECIBO","lon":"-66.64628","lat":"18.42251"}
+,{"region":"PONCE","lon":"-66.80358","lat":"18.29252"}
+,{"region":"MAYAGUEZ","lon":"-67.11149","lat":"18.39137"}
+,{"region":"BAYAMON","lon":"-66.16943","lat":"18.44162"}
+,{"region":"SAN JUAN","lon":"-66.05612","lat":"18.44306"}
+,{"region":"SAN JUAN","lon":"-66.07799","lat":"18.44513"}
+,{"region":"ARECIBO","lon":"-66.72279","lat":"18.46249"}
+,{"region":"ARECIBO","lon":"-66.56969","lat":"18.41666"}
+,{"region":"MAYAGUEZ","lon":"-67.02635","lat":"18.4701"}
+,{"region":"BAYAMON","lon":"-66.17501","lat":"18.38415"}
+,{"region":"PONCE","lon":"-66.62006","lat":"18.01518"}
+,{"region":"MAYAGUEZ","lon":"-66.97971","lat":"18.05665"}
+,{"region":"SAN JUAN","lon":"-66.10116","lat":"18.4659"}
+,{"region":"SAN JUAN","lon":"-65.99382","lat":"18.41606"}
+,{"region":"CAGUAS","lon":"-66.26427","lat":"18.13952"}
+,{"region":"BAYAMON","lon":"-66.15324","lat":"18.37319"}
+,{"region":"BAYAMON","lon":"-66.35331","lat":"18.29035"}
+,{"region":"CAGUAS","lon":"-66.05255","lat":"18.20382"}
+,{"region":"SAN JUAN","lon":"-66.04791","lat":"18.44568"}
+,{"region":"PONCE","lon":"-66.52824","lat":"18.02024"}
+,{"region":"SAN JUAN","lon":"-65.96031","lat":"18.3984"}
+,{"region":"ARECIBO","lon":"-66.93915","lat":"18.46849"}
+,{"region":"CAGUAS","lon":"-66.10144","lat":"18.25266"}
+,{"region":"HUMACAO","lon":"-65.88726","lat":"18.39341"}
+,{"region":"PONCE","lon":"-66.53709","lat":"18.03067"}
+,{"region":"PONCE","lon":"-66.66255","lat":"17.98219"}
+,{"region":"BAYAMON","lon":"-66.18166","lat":"18.44928"}
+,{"region":"MAYAGUEZ","lon":"-67.14605","lat":"18.20849"}
+,{"region":"PONCE","lon":"-66.6276","lat":"18.00595"}
+,{"region":"CAGUAS","lon":"-66.1176","lat":"17.97951"}
+,{"region":"PONCE","lon":"-66.60934","lat":"18.01411"}
+,{"region":"CAGUAS","lon":"-66.15779","lat":"18.11601"}
+,{"region":"SAN JUAN","lon":"-65.97499","lat":"18.41662"}
+,{"region":"HUMACAO","lon":"-65.64999","lat":"18.33322"}
+,{"region":"BAYAMON","lon":"-66.17361","lat":"18.40239"}
+,{"region":"BAYAMON","lon":"-66.15863","lat":"18.3992"}
+,{"region":"BAYAMON","lon":"-66.15916","lat":"18.39262"}
+,{"region":"CAGUAS","lon":"-66.3012","lat":"18.15234"}
+,{"region":"CAGUAS","lon":"-65.97458","lat":"18.25141"}
+,{"region":"CAGUAS","lon":"-66.0983187","lat":"17.972003"}
+,{"region":"HUMACAO","lon":"-65.94123","lat":"18.19121"}
+,{"region":"ARECIBO","lon":"-66.58004","lat":"18.43536"}
+,{"region":"HUMACAO","lon":"-65.30285","lat":"18.30769"}
+,{"region":"HUMACAO","lon":"-65.84772","lat":"18.37509"}
+,{"region":"HUMACAO","lon":"-65.88929","lat":"18.32192"}
+,{"region":"SAN JUAN","lon":"-65.9843","lat":"18.42278"}
+,{"region":"PONCE","lon":"-66.63215","lat":"18.00712"}
+,{"region":"CAGUAS","lon":"-66.15972","lat":"18.17855"}
+,{"region":"SAN JUAN","lon":"-66.00711","lat":"18.34365"}
+,{"region":"CAGUAS","lon":"-66.28919","lat":"18.23878"}
+,{"region":"HUMACAO","lon":"-65.97249","lat":"18.19497"}
+,{"region":"SAN JUAN","lon":"-66.06066","lat":"18.36046"}
+,{"region":"MAYAGUEZ","lon":"-67.15598","lat":"18.42158"}
+,{"region":"MAYAGUEZ","lon":"-67.15608","lat":"18.36971"}
+,{"region":"ARECIBO","lon":"-66.74012","lat":"18.45402"}
+,{"region":"SAN JUAN","lon":"-66.06436","lat":"18.41782"}
+,{"region":"ARECIBO","lon":"-66.301143","lat":"18.432552"}
+,{"region":"ARECIBO","lon":"-66.27703","lat":"18.4293"}
+,{"region":"HUMACAO","lon":"-65.91448","lat":"18.26935"}
+,{"region":"CAGUAS","lon":"-66.16472222","lat":"18.21333333"}
+,{"region":"SAN JUAN","lon":"-66.03777","lat":"18.40167"}
+,{"region":"PONCE","lon":"-66.7038","lat":"18.0516"}
+,{"region":"BAYAMON","lon":"-66.40863","lat":"18.32623"}
+,{"region":"ARECIBO","lon":"-66.3293","lat":"18.41309"}
+,{"region":"CAGUAS","lon":"-66.17248","lat":"18.17556"}
+,{"region":"HUMACAO","lon":"-65.64796","lat":"18.26012"}
+,{"region":"MAYAGUEZ","lon":"-67.05556","lat":"18.03755"}
+,{"region":"ARECIBO","lon":"-66.55274","lat":"18.44712"}
+,{"region":"ARECIBO","lon":"-66.3027","lat":"18.40217"}
+,{"region":"CAGUAS","lon":"-66.04178","lat":"18.25417"}
+,{"region":"MAYAGUEZ","lon":"-67.13811","lat":"18.18227"}
+,{"region":"PONCE","lon":"-66.9214","lat":"17.98848"}
+,{"region":"PONCE","lon":"-66.84925","lat":"18.03195"}
+,{"region":"PONCE","lon":"-66.40558","lat":"17.96018"}
+,{"region":"CAGUAS","lon":"-66.16219","lat":"18.10815"}
+,{"region":"HUMACAO","lon":"-65.9591","lat":"18.45066"}
+,{"region":"SAN JUAN","lon":"-66.05932","lat":"18.44666"}
+,{"region":"SAN JUAN","lon":"-66.05658","lat":"18.42823"}
+,{"region":"BAYAMON","lon":"-66.32194","lat":"18.3403"}
+,{"region":"MAYAGUEZ","lon":"-66.9736","lat":"18.48664"}
+,{"region":"BAYAMON","lon":"-66.17887","lat":"18.38921"}
+,{"region":"BAYAMON","lon":"-66.21055","lat":"18.41632"}
+,{"region":"MAYAGUEZ","lon":"-66.99874","lat":"18.34746"}
+,{"region":"BAYAMON","lon":"-66.21387","lat":"18.40831"}
+,{"region":"PONCE","lon":"-66.84929","lat":"18.03115"}
+,{"region":"PONCE","lon":"-66.61032","lat":"18.02032"}
+,{"region":"SAN JUAN","lon":"-66.0504","lat":"18.43614"}
+,{"region":"SAN JUAN","lon":"-66.06239","lat":"18.42761"}
+,{"region":"HUMACAO","lon":"-65.8234","lat":"18.13949"}
+,{"region":"MAYAGUEZ","lon":"-67.13317","lat":"18.13944"}
+,{"region":"HUMACAO","lon":"-65.82192","lat":"18.14852"}
+,{"region":"MAYAGUEZ"}
+,{"region":"CAGUAS","lon":"-66.167245","lat":"18.116236"}
+,{"region":"PONCE"}
+,{"region":"BAYAMON","lon":"-66.39342","lat":"18.30802"}
+,{"region":"MAYAGUEZ","lon":"-67.12477","lat":"18.27477"}
+,{"region":"ARECIBO","lon":"-66.30086","lat":"18.40334"}
+,{"region":"MAYAGUEZ","lon":"-67.17206","lat":"18.23021"}
+,{"region":"MAYAGUEZ","lon":"-67.14558","lat":"18.50035"}
+,{"region":"PONCE","lon":"-66.39017","lat":"18.00439"}
+,{"region":"HUMACAO","lon":"-65.73354","lat":"18.20984"}
+,{"region":"CAGUAS","lon":"-66.23112","lat":"18.03119"}
+,{"region":"PONCE","lon":"-66.64664","lat":"18.01455"}
+,{"region":"ARECIBO","lon":"-66.60817","lat":"18.45702"}
+,{"region":"ARECIBO","lon":"-66.80989","lat":"18.45603"}
+,{"region":"HUMACAO","lon":"-65.96422","lat":"18.19519"}
+,{"region":"PONCE","lon":"-66.62938","lat":"17.99295"}
+,{"region":"MAYAGUEZ","lon":"-66.99741","lat":"18.24659"}
+,{"region":"MAYAGUEZ","lon":"-67.14438","lat":"18.19839"}
+,{"region":"MAYAGUEZ","lon":"-66.98916","lat":"18.24694"}
+,{"region":"ARECIBO","lon":"-66.46826","lat":"18.38165"}
+,{"region":"SAN JUAN","lon":"-66.08751","lat":"18.39201"}
+,{"region":"MAYAGUEZ","lon":"-67.15191","lat":"18.47935"}
+,{"region":"ARECIBO","lon":"-66.63999","lat":"18.4445"}
+,{"region":"SAN JUAN","lon":"-66.03383","lat":"18.36276"}
+,{"region":"BAYAMON","lon":"-66.13266","lat":"18.39319"}
+,{"region":"SAN JUAN","lon":"-66.05556","lat":"18.43822"}
+,{"region":"CAGUAS","lon":"-66.34152","lat":"18.18951"}
+,{"region":"CAGUAS","lon":"-66.26427","lat":"18.13952"}
+,{"region":"PONCE","lon":"-66.6187","lat":"18.01168"}
+,{"region":"BAYAMON","lon":"-66.2728","lat":"18.28498"}
+,{"region":"PONCE","lon":"-66.50742","lat":"18.05091"}
+,{"region":"SAN JUAN","lon":"-66.02355","lat":"18.40662"}
+,{"region":"PONCE","lon":"-66.7469","lat":"18.08849"}
+,{"region":"CAGUAS","lon":"-66.02688","lat":"18.24914"}
+,{"region":"ARECIBO","lon":"-66.4838","lat":"18.43551"}
+,{"region":"CAGUAS","lon":"-66.26368","lat":"18.00184"}
+,{"region":"CAGUAS","lon":"-66.178","lat":"18.11999"}
+,{"region":"ARECIBO","lon":"-66.60456","lat":"18.40059"}
+,{"region":"HUMACAO","lon":"-65.79582","lat":"18.38203"}
+,{"region":"PONCE","lon":"-66.70265","lat":"18.26566"}
+,{"region":"HUMACAO","lon":"-65.81325","lat":"18.23646"}
+,{"region":"ARECIBO","lon":"-66.48723","lat":"18.42736"}
+,{"region":"PONCE","lon":"-66.65638","lat":"17.98809"}
+,{"region":"ARECIBO","lon":"-66.5383","lat":"18.45177"}
+,{"region":"BAYAMON","lon":"-66.30778","lat":"18.34097"}
+,{"region":"HUMACAO","lon":"-65.73378","lat":"18.21099"}
+,{"region":"HUMACAO","lon":"-65.85994","lat":"18.17793"}
+,{"region":"PONCE","lon":"-66.36231","lat":"18.07785"}
+,{"region":"MAYAGUEZ","lon":"-66.95375","lat":"18.24324"}
+,{"region":"BAYAMON","lon":"-66.18486","lat":"18.4268"}
+,{"region":"CAGUAS","lon":"-66.09809","lat":"17.97575"}
+,{"region":"BAYAMON","lon":"-66.20119","lat":"18.33498"}
+,{"region":"PONCE","lon":"-66.75156","lat":"18.28343"}
+,{"region":"BAYAMON","lon":"-66.240345","lat":"18.298222"}
+,{"region":"BAYAMON","lon":"-66.19271","lat":"18.36872"}
+,{"region":"CAGUAS","lon":"-66.30211","lat":"17.96462"}
+,{"region":"SAN JUAN","lon":"-65.97385","lat":"18.41018"}
+,{"region":"MAYAGUEZ","lon":"-67.01981","lat":"18.50178"}
+,{"region":"ARECIBO","lon":"-66.53019","lat":"18.413"}
+,{"region":"BAYAMON","lon":"-66.24925","lat":"18.29953"}
+,{"region":"BAYAMON","lon":"-66.12656","lat":"18.44143"}
+,{"region":"ARECIBO","lon":"-66.75383","lat":"18.47023"}
+,{"region":"PONCE","lon":"-66.63483","lat":"18.01499"}
+,{"region":"PONCE","lon":"-66.76916","lat":"18.18034"}
+,{"region":"PONCE","lon":"-66.49311","lat":"18.07391"}
+,{"region":"PONCE","lon":"-66.70568","lat":"18.2667"}
+,{"region":"BAYAMON","lon":"-66.40145","lat":"18.32594"}
+,{"region":"PONCE","lon":"-66.79321","lat":"18.02052"}
+,{"region":"BAYAMON","lon":"-66.24554","lat":"18.28085"}
+,{"region":"HUMACAO","lon":"-65.88178","lat":"18.19323"}
+,{"region":"CAGUAS","lon":"-66.05016","lat":"18.29189"}
+,{"region":"PONCE","lon":"-66.49031","lat":"18.12578"}
+,{"region":"MAYAGUEZ","lon":"-67.14906","lat":"18.19709"}
+,{"region":"MAYAGUEZ","lon":"-66.92166","lat":"18.05181"}
+,{"region":"PONCE","lon":"-66.91445","lat":"18.00504"}
+,{"region":"SAN JUAN","lon":"-66.03578","lat":"18.43464"}
+,{"region":"HUMACAO","lon":"-65.92477","lat":"18.2282"}
+,{"region":"HUMACAO","lon":"-65.65645","lat":"18.32381"}
+,{"region":"ARECIBO","lon":"-66.83036","lat":"18.17848"}
+,{"region":"SAN JUAN","lon":"-66.09082","lat":"18.40158"}
+,{"region":"SAN JUAN","lon":"-66.03019","lat":"18.3985"}
+,{"region":"BAYAMON","lon":"-66.39433","lat":"18.25199"}
+,{"region":"BAYAMON","lon":"-66.33589","lat":"18.34841"}
+,{"region":"CAGUAS","lon":"-66.11254","lat":"17.99037"}
+,{"region":"HUMACAO","lon":"-65.96106","lat":"18.1887"}
+,{"region":"MAYAGUEZ","lon":"-67.26544","lat":"18.35936"}
+,{"region":"ARECIBO","lon":"-66.89","lat":"18.194"}
+,{"region":"MAYAGUEZ","lon":"-67.07152","lat":"18.13602"}
+,{"region":"HUMACAO","lon":"-65.87392","lat":"18.26638"}
+,{"region":"CAGUAS","lon":"-66.03575","lat":"18.22684"}
+,{"region":"SAN JUAN","lon":"-66.01437","lat":"18.39746"}
+,{"region":"HUMACAO","lon":"-65.43863","lat":"18.15216"}
+,{"region":"SAN JUAN","lon":"-65.97719","lat":"18.40046"}
+,{"region":"MAYAGUEZ","lon":"-66.95463","lat":"18.38542"}
+,{"region":"CAGUAS","lon":"-66.28955","lat":"17.96167"}
+,{"region":"HUMACAO","lon":"-65.99573","lat":"17.98027"}
+,{"region":"HUMACAO","lon":"-65.8683","lat":"18.38393"}
+,{"region":"SAN JUAN","lon":"-66.04914","lat":"18.41383"}
+,{"region":"CAGUAS","lon":"-65.94134","lat":"18.26486"}
+,{"region":"ARECIBO","lon":"-66.49272","lat":"18.36056"}
+,{"region":"CAGUAS","lon":"-66.0533","lat":"18.21488"}
+,{"region":"SAN JUAN","lon":"-66.04568","lat":"18.43345"}
+,{"region":"PONCE","lon":"-66.61467","lat":"18.0076"}
+,{"region":"MAYAGUEZ","lon":"-67.03717","lat":"18.08018"}
+,{"region":"BAYAMON","lon":"-66.26968","lat":"18.34535"}
+,{"region":"MAYAGUEZ","lon":"-67.06978","lat":"18.1076"}
+,{"region":"SAN JUAN","lon":"-66.00461","lat":"18.36696"}
+,{"region":"PONCE","lon":"-66.59335","lat":"18.04266"}
+,{"region":"BAYAMON","lon":"-66.1437","lat":"18.31667"}
+,{"region":"CAGUAS"}
+,{"region":"PONCE"}
+,{"region":"PONCE","lon":"-66.81443","lat":"17.99275"}
+,{"region":"MAYAGUEZ","lon":"-67.12562","lat":"18.45726"}
+,{"region":"BAYAMON","lon":"-66.12146","lat":"18.44014"}
+,{"region":"ARECIBO","lon":"-66.32616","lat":"18.41052"}
+,{"region":"ARECIBO","lon":"-66.33517","lat":"18.41993"}
+,{"region":"ARECIBO","lon":"-66.55764","lat":"18.43753"}
+,{"region":"MAYAGUEZ","lon":"-66.93366","lat":"18.15058"}
+,{"region":"HUMACAO","lon":"-65.66831","lat":"18.31877"}
+,{"region":"CAGUAS","lon":"-66.21714","lat":"18.22601"}
+,{"region":"CAGUAS","lon":"-66.0097","lat":"18.21628"}
+,{"region":"PONCE","lon":"-66.86884","lat":"18.02949"}
+,{"region":"SAN JUAN","lon":"-66.07748","lat":"18.33924"}
+,{"region":"BAYAMON","lon":"-66.15097","lat":"18.38724"}
+,{"region":"CAGUAS","lon":"-66.31086","lat":"18.24555"}
+,{"region":"PONCE","lon":"-66.721","lat":"18.24821"}
+,{"region":"SAN JUAN","lon":"-66.07391","lat":"18.44667"}
+,{"region":"BAYAMON","lon":"-66.91944444","lat":"18.33333333"}
+,{"region":"ARECIBO","lon":"-66.87253611","lat":"18.317925"}
+,{"region":"CAGUAS","lon":"-66.285279","lat":"18.234232"}
+,{"region":"BAYAMON","lon":"-66.17208","lat":"18.40737"}
+,{"region":"HUMACAO","lon":"-65.64618","lat":"18.26384"}
+,{"region":"HUMACAO","lon":"-65.84938","lat":"18.42601"}
+,{"region":"PONCE","lon":"-66.72205","lat":"18.05453"}
+,{"region":"CAGUAS","lon":"-66.25086","lat":"18.02434"}
+,{"region":"PONCE","lon":"-66.70386","lat":"18.05139"}
+,{"region":"CAGUAS","lon":"-66.2984022","lat":"17.9729436"}
+,{"region":"MAYAGUEZ","lon":"-67.02123","lat":"18.49813"}
+,{"region":"BAYAMON","lon":"-66.14369","lat":"18.42984"}
+,{"region":"HUMACAO","lon":"-65.90938","lat":"18.22734"}
+,{"region":"MAYAGUEZ","lon":"-67.13682","lat":"18.2813"}
+,{"region":"PONCE","lon":"-66.60409","lat":"18.00551"}
+,{"region":"ARECIBO","lon":"-66.26129","lat":"18.46031"}
+,{"region":"BAYAMON","lon":"-66.40455","lat":"18.32492"}
+,{"region":"HUMACAO","lon":"-65.88723","lat":"18.04678"}
+,{"region":"ARECIBO","lon":"-66.48243","lat":"18.27293"}
+,{"region":"PONCE","lon":"-66.62797","lat":"18.00872"}
+,{"region":"SAN JUAN","lon":"-66.0483","lat":"18.43152"}
+,{"region":"MAYAGUEZ","lon":"-67.1506","lat":"18.08048"}
+,{"region":"CAGUAS","lon":"-66.04603","lat":"18.22947"}
+,{"region":"PONCE","lon":"-66.59023","lat":"18.04306"}
+,{"region":"SAN JUAN","lon":"-65.93969","lat":"18.32666"}
+,{"region":"SAN JUAN","lon":"-65.9538","lat":"18.39564"}
+,{"region":"BAYAMON","lon":"-66.15721","lat":"18.35848"}
+,{"region":"SAN JUAN","lon":"-66.02305","lat":"18.36804"}
+,{"region":"ARECIBO","lon":"-66.49088","lat":"18.42624"}
+,{"region":"CAGUAS","lon":"-66.0579","lat":"18.28231"}
+,{"region":"CAGUAS","lon":"-66.1591","lat":"18.17438"}
+,{"region":"SAN JUAN","lon":"-65.91477","lat":"18.31455"}
+,{"region":"SAN JUAN","lon":"-66.01085","lat":"18.37222"}
+,{"region":"PONCE","lon":"-66.62941","lat":"18.01735"}
+,{"region":"ARECIBO","lon":"-66.77812","lat":"18.45451"}
+,{"region":"HUMACAO","lon":"-65.86441","lat":"18.42738"}
+,{"region":"CAGUAS","lon":"-66.04955","lat":"18.20766"}
+,{"region":"PONCE","lon":"-66.40609","lat":"17.96684"}
+,{"region":"BAYAMON","lon":"-66.17909","lat":"18.45235"}
+,{"region":"ARECIBO","lon":"-66.73129","lat":"18.46304"}
+,{"region":"HUMACAO","lon":"-65.99334","lat":"18.12068"}
+,{"region":"MAYAGUEZ","lon":"-67.25554","lat":"18.34231"}
+,{"region":"CAGUAS","lon":"-66.11483","lat":"17.9833"}
+,{"region":"PONCE","lon":"-66.36784","lat":"18.0732"}
+,{"region":"HUMACAO","lon":"-65.87582","lat":"18.05066"}
+,{"region":"MAYAGUEZ","lon":"-66.96244","lat":"18.07934"}
+,{"region":"PONCE","lon":"-66.45696","lat":"18.05588"}
+,{"region":"HUMACAO","lon":"-65.92984","lat":"18.22678"}
+,{"region":"BAYAMON","lon":"-66.15082","lat":"18.43417"}
+,{"region":"MAYAGUEZ","lon":"-67.16493","lat":"18.46965"}
+,{"region":"PONCE","lon":"-66.729973","lat":"18.148034"}
+,{"region":"MAYAGUEZ","lon":"-67.02716","lat":"18.4697"}
+,{"region":"HUMACAO","lon":"-65.88934","lat":"18.33612"}
+,{"region":"HUMACAO","lon":"-65.96531","lat":"18.19024"}
+,{"region":"BAYAMON","lon":"-66.16018","lat":"18.35157"}
+,{"region":"HUMACAO","lon":"-65.90344","lat":"18.22539"}
+,{"region":"CAGUAS","lon":"-66.29445","lat":"18.18352"}
+,{"region":"ARECIBO","lon":"-66.54644","lat":"18.43553"}
+,{"region":"ARECIBO","lon":"-66.35893","lat":"18.41528"}
+,{"region":"CAGUAS","lon":"-66.06222","lat":"17.96755"}
+,{"region":"HUMACAO","lon":"-65.89412","lat":"18.14595"}
+,{"region":"MAYAGUEZ","lon":"-67.14831","lat":"18.44241"}
+,{"region":"MAYAGUEZ","lon":"-67.15607","lat":"18.4176"}
+,{"region":"PONCE","lon":"-66.72544","lat":"18.16602"}
+,{"region":"SAN JUAN","lon":"-66.02834","lat":"18.33214"}
+,{"region":"PONCE","lon":"-66.37419","lat":"18.07602"}
+,{"region":"ARECIBO","lon":"-66.7884","lat":"18.42787"}
+,{"region":"CAGUAS","lon":"-66.03634","lat":"18.22767"}
+,{"region":"MAYAGUEZ","lon":"-67.13304","lat":"18.20456"}
+,{"region":"PONCE","lon":"-66.61794","lat":"18.03298"}
+,{"region":"MAYAGUEZ","lon":"-67.17712","lat":"18.33827"}
+,{"region":"ARECIBO","lon":"-66.73029","lat":"18.46265"}
+,{"region":"CAGUAS","lon":"-66.21367","lat":"18.09472"}
+,{"region":"SAN JUAN","lon":"-66.00487","lat":"18.41079"}
+,{"region":"ARECIBO","lon":"-66.38986","lat":"18.44552"}
+,{"region":"CAGUAS","lon":"-66.05509","lat":"17.99222"}
+,{"region":"MAYAGUEZ","lon":"-67.029998","lat":"18.488838"}
+,{"region":"SAN JUAN","lon":"-66.1114","lat":"18.4656"}
+,{"region":"BAYAMON","lon":"-66.21663","lat":"18.3869"}
+,{"region":"CAGUAS","lon":"-66.05954","lat":"17.97133"}
+,{"region":"SAN JUAN","lon":"-66.04571","lat":"18.35929"}
+,{"region":"BAYAMON","lon":"-66.1867","lat":"18.30055"}
+,{"region":"CAGUAS","lon":"-66.01573","lat":"18.21861"}
+,{"region":"CAGUAS","lon":"-66.16442","lat":"17.95605"}
+,{"region":"BAYAMON","lon":"-66.25396","lat":"18.40243"}
+,{"region":"PONCE","lon":"-66.86064","lat":"18.03668"}
+,{"region":"BAYAMON","lon":"-66.2489","lat":"18.39091"}
+,{"region":"CAGUAS","lon":"-66.2512","lat":"18.02498"}
+,{"region":"ARECIBO","lon":"-66.33306","lat":"18.43816"}
+,{"region":"HUMACAO","lon":"-65.71484","lat":"18.23432"}
+,{"region":"MAYAGUEZ","lon":"-66.95729","lat":"18.07944"}
+,{"region":"PONCE","lon":"-66.35747","lat":"18.07834"}
+,{"region":"BAYAMON","lon":"-66.22946","lat":"18.4442"}
+,{"region":"PONCE","lon":"-66.93638","lat":"17.96766"}
+,{"region":"BAYAMON","lon":"-66.39252","lat":"18.22397"}
+,{"region":"ARECIBO","lon":"-66.26696","lat":"18.46249"}
+,{"region":"HUMACAO","lon":"-65.88425","lat":"18.3876"}
+,{"region":"SAN JUAN","lon":"-65.95893","lat":"18.38445"}
+,{"region":"PONCE","lon":"-66.8032","lat":"18.28419"}
+,{"region":"BAYAMON","lon":"-66.89","lat":"18.308"}
+,{"region":"PONCE","lon":"-66.74315","lat":"18.06551"}
+,{"region":"SAN JUAN","lon":"-66.09599","lat":"18.37651"}
+,{"region":"PONCE","lon":"-66.58487","lat":"18.01205"}
+,{"region":"HUMACAO","lon":"-65.65554","lat":"18.34179"}
+,{"region":"PONCE","lon":"-66.58811","lat":"18.21938"}
+,{"region":"ARECIBO","lon":"-66.83816","lat":"18.29084"}
+,{"region":"BAYAMON","lon":"-66.27853","lat":"18.31365"}
+,{"region":"HUMACAO","lon":"-66.01649","lat":"18.00749"}
+,{"region":"BAYAMON","lon":"-66.14879","lat":"18.38037"}
+,{"region":"SAN JUAN","lon":"-66.03896","lat":"18.3547"}
+,{"region":"ARECIBO","lon":"-66.47404","lat":"18.34071"}
+,{"region":"HUMACAO","lon":"-65.89991","lat":"18.24354"}
+,{"region":"ARECIBO","lon":"-66.48107","lat":"18.42371"}
+,{"region":"ARECIBO","lon":"-66.93604","lat":"18.47474"}
+,{"region":"HUMACAO","lon":"-65.87768","lat":"18.03961"}
+,{"region":"SAN JUAN","lon":"-66.09315","lat":"18.3798"}
+,{"region":"PONCE","lon":"-66.62222","lat":"17.99976"}
+,{"region":"MAYAGUEZ","lon":"-67.07915","lat":"18.37883"}
+,{"region":"SAN JUAN","lon":"-66.11586","lat":"18.38058"}
+,{"region":"MAYAGUEZ","lon":"-66.94436","lat":"18.07258"}
+,{"region":"HUMACAO","lon":"-65.73694","lat":"18.2083"}
+,{"region":"SAN JUAN","lon":"-66.05916","lat":"18.41281"}
+,{"region":"MAYAGUEZ","lon":"-67.15569","lat":"18.36866"}
+,{"region":"PONCE","lon":"-66.61019","lat":"18.01171"}
+,{"region":"BAYAMON","lon":"-66.1717","lat":"18.397"}
+,{"region":"CAGUAS","lon":"-66.10653","lat":"18.205"}
+,{"region":"HUMACAO","lon":"-65.82277","lat":"18.14893"}
+,{"region":"SAN JUAN","lon":"-66.0433","lat":"18.42046"}
+,{"region":"SAN JUAN","lon":"-66.12109","lat":"18.40019"}
+,{"region":"ARECIBO","lon":"-66.56795","lat":"18.35825"}
+,{"region":"ARECIBO","lon":"-66.39969","lat":"18.43197"}
+,{"region":"SAN JUAN","lon":"-66.03416","lat":"18.41278"}
+,{"region":"BAYAMON","lon":"-66.18355","lat":"18.40438"}
+,{"region":"SAN JUAN","lon":"-66.1255","lat":"18.39606"}
+,{"region":"PONCE","lon":"-66.4909","lat":"17.99454"}
+,{"region":"PONCE","lon":"-66.54771","lat":"18.05104"}
+,{"region":"PONCE","lon":"-66.54824","lat":"18.04971"}
+,{"region":"MAYAGUEZ","lon":"-67.09782","lat":"18.48632"}
+,{"region":"CAGUAS","lon":"-66.23547","lat":"18.25357"}
+,{"region":"SAN JUAN","lon":"-65.98575","lat":"18.36965"}
+,{"region":"MAYAGUEZ","lon":"-66.98115","lat":"18.27701"}
+,{"region":"CAGUAS","lon":"-66.2187","lat":"18.22355"}
+,{"region":"BAYAMON","lon":"-66.40972","lat":"18.35627"}
+,{"region":"HUMACAO","lon":"-65.91383","lat":"18.3727"}
+,{"region":"SAN JUAN","lon":"-66.04356","lat":"18.42757"}
+,{"region":"ARECIBO","lon":"-66.55081","lat":"18.36364"}
+,{"region":"PONCE","lon":"-66.50693","lat":"18.0613"}
+,{"region":"HUMACAO","lon":"-65.47612","lat":"18.09832"}
+,{"region":"PONCE","lon":"-66.6955","lat":"18.26701"}
+,{"region":"PONCE","lon":"-66.66209","lat":"18.03512"}
+,{"region":"HUMACAO","lon":"-65.91583","lat":"18.39002"}
+,{"region":"SAN JUAN","lon":"-66.06586","lat":"18.45074"}
+,{"region":"PONCE","lon":"-66.64463","lat":"18.00938"}
+,{"region":"PONCE","lon":"-66.63531","lat":"18.07412"}
+,{"region":"ARECIBO","lon":"-66.83379","lat":"18.18159"}
+,{"region":"BAYAMON","lon":"-66.17287","lat":"18.34489"}
+,{"region":"ARECIBO","lon":"-66.75505","lat":"18.44455"}
+,{"region":"SAN JUAN","lon":"-66.06661","lat":"18.39722"}
+,{"region":"MAYAGUEZ","lon":"-67.04663","lat":"18.08377"}
+,{"region":"CAGUAS","lon":"-66.03645","lat":"18.21653"}
+,{"region":"MAYAGUEZ","lon":"-67.00668","lat":"18.17701"}
+,{"region":"SAN JUAN","lon":"-66.08094","lat":"18.41698"}
+,{"region":"HUMACAO","lon":"-65.84837","lat":"18.17576"}
+,{"region":"CAGUAS","lon":"-66.31499","lat":"18.19014"}
+,{"region":"ARECIBO","lon":"-66.32461","lat":"18.40969"}
+,{"region":"HUMACAO","lon":"-65.98483","lat":"17.97855"}
+,{"region":"SAN JUAN","lon":"-66.08589","lat":"18.40596"}
+,{"region":"CAGUAS","lon":"-66.26474","lat":"17.9481"}
+,{"region":"SAN JUAN","lon":"-66.04872","lat":"18.42167"}
+,{"region":"SAN JUAN","lon":"-66.02299","lat":"18.41119"}
+,{"region":"MAYAGUEZ","lon":"-67.07786","lat":"18.16491"}
+,{"region":"ARECIBO","lon":"-66.84753","lat":"18.48542"}
+,{"region":"MAYAGUEZ","lon":"-66.95316","lat":"18.28826"}
+,{"region":"SAN JUAN","lon":"-66.0547","lat":"18.41045"}
+,{"region":"PONCE","lon":"-66.88604","lat":"18.15246"}
+,{"region":"ARECIBO","lon":"-66.56535","lat":"18.37234"}
+,{"region":"HUMACAO","lon":"-65.86748","lat":"18.17711"}
+,{"region":"MAYAGUEZ","lon":"-67.05692","lat":"18.04897"}
+,{"region":"HUMACAO","lon":"-65.84961","lat":"18.37947"}
+,{"region":"PONCE","lon":"-66.63638","lat":"18.00529"}
+,{"region":"HUMACAO","lon":"-65.80006","lat":"18.14178"}
+,{"region":"PONCE","lon":"-66.66344","lat":"17.98348"}
+,{"region":"ARECIBO","lon":"-66.38459","lat":"18.44501"}
+,{"region":"PONCE","lon":"-66.55013","lat":"18.04644"}
+,{"region":"PONCE","lon":"-66.86819","lat":"18.03055"}
+,{"region":"MAYAGUEZ","lon":"-67.0467","lat":"18.08373"}
+,{"region":"BAYAMON","lon":"-66.18587","lat":"18.4602"}
+,{"region":"ARECIBO","lon":"-66.82068","lat":"18.48155"}
+,{"region":"SAN JUAN","lon":"-65.96083","lat":"18.38453"}
+,{"region":"MAYAGUEZ","lon":"-67.12787","lat":"18.44366"}
+,{"region":"PONCE","lon":"-66.62923","lat":"17.98624"}
+,{"region":"BAYAMON","lon":"-66.17691","lat":"18.40615"}
+,{"region":"PONCE","lon":"-66.87173","lat":"18.01222"}
+,{"region":"CAGUAS","lon":"-66.12094","lat":"17.98191"}
+,{"region":"ARECIBO","lon":"-66.85207","lat":"18.46535"}
+,{"region":"ARECIBO","lon":"-66.89158","lat":"18.43254"}
+,{"region":"HUMACAO","lon":"-65.90108","lat":"18.37639"}
+,{"region":"PONCE","lon":"-66.5049","lat":"18.04658"}
+,{"region":"SAN JUAN","lon":"-66.04097","lat":"18.4478"}
+,{"region":"BAYAMON","lon":"-66.25291","lat":"18.44053"}
+,{"region":"ARECIBO","lon":"-66.77566","lat":"18.40733"}
+,{"region":"SAN JUAN","lon":"-66.09184","lat":"18.39644"}
+,{"region":"CAGUAS","lon":"-66.09312","lat":"18.17288"}
+,{"region":"ARECIBO","lon":"-66.74674","lat":"18.4662"}
+,{"region":"CAGUAS","lon":"-66.03114","lat":"18.22702"}
+,{"region":"CAGUAS","lon":"-66.10552","lat":"18.2526"}
+,{"region":"CAGUAS","lon":"-66.22447","lat":"18.21028"}
+,{"region":"CAGUAS","lon":"-66.30545","lat":"18.1907"}
+,{"region":"HUMACAO","lon":"-65.88035","lat":"18.38911"}
+,{"region":"HUMACAO","lon":"-65.89445","lat":"18.07654"}
+,{"region":"MAYAGUEZ","lon":"-67.13936","lat":"18.29424"}
+,{"region":"PONCE","lon":"-66.49162","lat":"17.99439"}
+,{"region":"SAN JUAN","lon":"-65.9861","lat":"18.40713"}
+,{"region":"ARECIBO","lon":"-66.80866","lat":"18.45915"}
+,{"region":"PONCE","lon":"-66.72525","lat":"18.26712"}
+,{"region":"CAGUAS","lon":"-66.03687","lat":"18.2312"}
+,{"region":"HUMACAO","lon":"-65.96116","lat":"18.18904"}
+,{"region":"HUMACAO","lon":"-65.8449","lat":"18.20648"}
+,{"region":"MAYAGUEZ","lon":"-67.15187","lat":"18.47391"}
+,{"region":"MAYAGUEZ","lon":"-67.0591","lat":"18.04763"}
+,{"region":"MAYAGUEZ","lon":"-67.13962","lat":"18.19982"}
+,{"region":"PONCE","lon":"-66.89452","lat":"17.99822"}
+,{"region":"PONCE","lon":"-66.84978","lat":"18.03198"}
+,{"region":"SAN JUAN","lon":"-66.06457","lat":"18.44167"}
+,{"region":"SAN JUAN","lon":"-66.04895","lat":"18.40019"}
+,{"region":"ARECIBO","lon":"-66.26618","lat":"18.47445"}
+,{"region":"SAN JUAN","lon":"-66.11382","lat":"18.42982"}
+,{"region":"SAN JUAN","lon":"-66.11422","lat":"18.43065"}
+,{"region":"MAYAGUEZ","lon":"-66.94919","lat":"18.07416"}
+,{"region":"BAYAMON","lon":"-66.14257","lat":"18.39051"}
+,{"region":"CAGUAS","lon":"-66.03664","lat":"18.22713"}
+,{"region":"SAN JUAN","lon":"-66.049","lat":"18.44864"}
+,{"region":"MAYAGUEZ","lon":"-66.99067","lat":"18.24953"}
+,{"region":"CAGUAS","lon":"-66.11975","lat":"18.2571"}
+,{"region":"ARECIBO","lon":"-66.29355","lat":"18.44889"}
+,{"region":"HUMACAO","lon":"-65.7822","lat":"18.23751"}
+,{"region":"HUMACAO","lon":"-65.83631","lat":"18.14278"}
+,{"region":"SAN JUAN","lon":"-65.96129","lat":"18.39749"}
+,{"region":"SAN JUAN","lon":"-66.07618","lat":"18.36228"}
+,{"region":"MAYAGUEZ","lon":"-67.18349","lat":"18.38322"}
+,{"region":"PONCE","lon":"-66.49979","lat":"18.12665"}
+,{"region":"SAN JUAN","lon":"-66.07311","lat":"18.45368"}
+,{"region":"PONCE","lon":"-66.88557","lat":"18.02262"}
+,{"region":"MAYAGUEZ","lon":"-67.14468","lat":"18.20043"}
+,{"region":"SAN JUAN","lon":"-66.03627","lat":"18.41334"}
+,{"region":"BAYAMON","lon":"-66.45265","lat":"18.32295"}
+,{"region":"SAN JUAN","lon":"-66.05075","lat":"18.4356"}
+,{"region":"BAYAMON","lon":"-66.32008","lat":"18.34263"}
+,{"region":"MAYAGUEZ","lon":"-67.02006","lat":"18.50045"}
+,{"region":"CAGUAS","lon":"-66.22877","lat":"18.21458"}
+,{"region":"SAN JUAN","lon":"-66.05231","lat":"18.44191"}
+,{"region":"SAN JUAN","lon":"-66.04019","lat":"18.43286"}
+,{"region":"PONCE","lon":"-66.50271","lat":"18.05249"}
+,{"region":"SAN JUAN","lon":"-65.97608","lat":"18.40091"}
+,{"region":"MAYAGUEZ","lon":"-67.24906","lat":"18.33557"}
+,{"region":"MAYAGUEZ","lon":"-67.22667","lat":"18.31354"}
+,{"region":"PONCE","lon":"-66.60129","lat":"18.0327"}
+,{"region":"PONCE","lon":"-66.40544","lat":"17.96654"}
+,{"region":"ARECIBO","lon":"-66.40829","lat":"18.42951"}
+,{"region":"MAYAGUEZ","lon":"-67.00878","lat":"18.34929"}
+,{"region":"ARECIBO","lon":"-66.35498","lat":"18.46092"}
+,{"region":"ARECIBO","lon":"-66.3594","lat":"18.43684"}
+,{"region":"HUMACAO","lon":"-65.87181","lat":"18.12972"}
+,{"region":"BAYAMON","lon":"-66.21746","lat":"18.36956"}
+,{"region":"CAGUAS","lon":"-66.02402","lat":"18.24024"}
+,{"region":"CAGUAS","lon":"-66.18013","lat":"17.95256"}
+,{"region":"ARECIBO","lon":"-66.277","lat":"18.42929"}
+,{"region":"MAYAGUEZ","lon":"-67.07841","lat":"18.38013"}
+,{"region":"SAN JUAN","lon":"-66.1095","lat":"18.358"}
+,{"region":"CAGUAS","lon":"-65.97421","lat":"18.25695"}
+,{"region":"CAGUAS","lon":"-66.19505","lat":"18.24905"}
+,{"region":"BAYAMON","lon":"-66.21204","lat":"18.36425"}
+,{"region":"ARECIBO","lon":"-66.75795","lat":"18.4413"}
+,{"region":"HUMACAO","lon":"-65.99002","lat":"18.12042"}
+,{"region":"HUMACAO"}
+,{"region":"MAYAGUEZ","lon":"-67.1531","lat":"18.19648"}
+,{"region":"PONCE","lon":"-66.63009","lat":"17.9994"}
+,{"region":"BAYAMON","lon":"-66.14577","lat":"18.37452"}
+,{"region":"BAYAMON","lon":"-66.14978","lat":"18.38669"}
+,{"region":"HUMACAO","lon":"-65.64413","lat":"18.30089"}
+,{"region":"BAYAMON","lon":"-66.20003","lat":"18.40004"}
+,{"region":"PONCE","lon":"-66.90846","lat":"17.9729"}
+,{"region":"PONCE","lon":"-66.70563","lat":"18.26778"}
+,{"region":"MAYAGUEZ","lon":"-67.15468","lat":"18.17974"}
+,{"region":"HUMACAO","lon":"-65.4533","lat":"18.12417"}
+,{"region":"HUMACAO","lon":"-65.9682","lat":"17.99197"}
+,{"region":"BAYAMON","lon":"-66.18531","lat":"18.42989"}
+,{"region":"SAN JUAN","lon":"-65.9754","lat":"18.40368"}
+,{"region":"BAYAMON","lon":"-66.19601","lat":"18.3432"}
+,{"region":"MAYAGUEZ","lon":"-67.16815","lat":"18.3024"}
+,{"region":"MAYAGUEZ","lon":"-67.02065","lat":"18.12821"}
+,{"region":"SAN JUAN","lon":"-66.0943","lat":"18.31826"}
+,{"region":"BAYAMON","lon":"-66.14604","lat":"18.37307"}
+,{"region":"MAYAGUEZ","lon":"-67.14982","lat":"18.2075"}
+,{"region":"HUMACAO","lon":"-66.01033","lat":"18.03096"}
+,{"region":"MAYAGUEZ","lon":"-67.04055","lat":"18.04973"}
+,{"region":"HUMACAO","lon":"-65.90717","lat":"18.04359"}
+,{"region":"BAYAMON","lon":"-66.1865","lat":"18.35196"}
+,{"region":"PONCE","lon":"-66.4043","lat":"17.96771"}
+,{"region":"BAYAMON","lon":"-66.20876","lat":"18.39932"}
+,{"region":"SAN JUAN","lon":"-65.98612","lat":"18.36201"}
+,{"region":"MAYAGUEZ","lon":"-66.99899","lat":"18.48822"}
+,{"region":"CAGUAS","lon":"-65.97079","lat":"18.25481"}
+,{"region":"HUMACAO","lon":"-65.86009","lat":"18.22708"}
+,{"region":"SAN JUAN","lon":"-66.00569","lat":"18.35391"}
+,{"region":"HUMACAO","lon":"-65.84256","lat":"18.42529"}
+,{"region":"BAYAMON","lon":"-66.25763","lat":"18.33572"}
+,{"region":"BAYAMON","lon":"-66.14768","lat":"18.4355"}
+,{"region":"BAYAMON","lon":"-66.24852","lat":"18.30151"}
+,{"region":"ARECIBO","lon":"-66.44402","lat":"18.44232"}
+,{"region":"MAYAGUEZ","lon":"-67.11177","lat":"18.13669"}
+,{"region":"PONCE","lon":"-66.5794","lat":"18.20239"}
+,{"region":"BAYAMON","lon":"-66.14894","lat":"18.36926"}
+,{"region":"PONCE","lon":"-66.71168","lat":"18.05554"}
+,{"region":"CAGUAS","lon":"-66.14892","lat":"18.1174"}
+,{"region":"CAGUAS","lon":"-66.16099","lat":"18.116"}
+,{"region":"BAYAMON","lon":"-66.17751","lat":"18.36999"}
+,{"region":"SAN JUAN","lon":"-66.04326","lat":"18.40972"}
+,{"region":"SAN JUAN","lon":"-66.04858","lat":"18.42789"}
+,{"region":"MAYAGUEZ","lon":"-67.16392","lat":"18.02742"}
+,{"region":"HUMACAO","lon":"-65.45249","lat":"18.13634"}
+,{"region":"CAGUAS","lon":"-66.04733","lat":"18.22953"}
+,{"region":"MAYAGUEZ","lon":"-66.99394","lat":"18.34442"}
+,{"region":"BAYAMON","lon":"-66.39222","lat":"18.22935"}
+,{"region":"SAN JUAN","lon":"-66.07912","lat":"18.422"}
+,{"region":"MAYAGUEZ","lon":"-66.99974","lat":"18.44909"}
+,{"region":"CAGUAS","lon":"-66.03105","lat":"18.23249"}
+,{"region":"BAYAMON","lon":"-66.24862","lat":"18.39144"}
+,{"region":"PONCE","lon":"-66.48902","lat":"18.12707"}
+,{"region":"SAN JUAN","lon":"-66.02517","lat":"18.37504"}
+,{"region":"ARECIBO","lon":"-66.48679","lat":"18.46071"}
+,{"region":"ARECIBO","lon":"-66.389915","lat":"18.445451"}
+,{"region":"MAYAGUEZ","lon":"-67.02416","lat":"18.50459"}
+,{"region":"SAN JUAN","lon":"-65.98879","lat":"18.33055"}
+,{"region":"SAN JUAN","lon":"-66.77472222","lat":"18.36777778"}
+,{"region":"BAYAMON","lon":"-66.19346","lat":"18.27695"}
+,{"region":"ARECIBO","lon":"-66.55698","lat":"18.4454"}
+,{"region":"BAYAMON"}
+,{"region":"HUMACAO","lon":"-65.84931","lat":"18.4261"}
+,{"region":"ARECIBO","lon":"-66.46743","lat":"18.33875"}
+,{"region":"PONCE","lon":"-66.89052","lat":"17.97851"}
+,{"region":"MAYAGUEZ","lon":"-67.11","lat":"18.17071"}
+,{"region":"BAYAMON","lon":"-66.12877","lat":"18.44228"}
+,{"region":"CAGUAS","lon":"-66.12427","lat":"17.97367"}
+,{"region":"CAGUAS","lon":"-66.05608","lat":"18.2269"}
+,{"region":"MAYAGUEZ","lon":"-67.01939","lat":"18.30491"}
+,{"region":"BAYAMON","lon":"-66.18717","lat":"18.37854"}
+,{"region":"CAGUAS","lon":"-66.303","lat":"18.1861"}
+,{"region":"CAGUAS","lon":"-66.33674","lat":"18.21316"}
+,{"region":"SAN JUAN","lon":"-66.05184","lat":"18.42225"}
+,{"region":"PONCE","lon":"-66.79016","lat":"18.01897"}
+,{"region":"MAYAGUEZ","lon":"-67.21744","lat":"18.35966"}
+,{"region":"SAN JUAN","lon":"-66.06507","lat":"18.44663"}
+,{"region":"BAYAMON","lon":"-66.17469","lat":"18.39419"}
+,{"region":"BAYAMON","lon":"-66.17412","lat":"18.39451"}
+,{"region":"HUMACAO","lon":"-65.65383","lat":"18.25293"}
+,{"region":"MAYAGUEZ","lon":"-67.14441","lat":"18.29601"}
+,{"region":"PONCE","lon":"-66.56172","lat":"18.08289"}
+,{"region":"HUMACAO","lon":"-65.84285","lat":"18.42423"}
+,{"region":"SAN JUAN","lon":"-65.98505","lat":"18.42466"}
+,{"region":"PONCE","lon":"-66.65252","lat":"18.22721"}
+,{"region":"MAYAGUEZ","lon":"-66.98298","lat":"18.33305"}
+,{"region":"PONCE","lon":"-66.85827","lat":"18.05524"}
+,{"region":"SAN JUAN","lon":"-65.96646","lat":"18.31392"}
+,{"region":"CAGUAS","lon":"-66.04353","lat":"18.22055"}
+,{"region":"ARECIBO","lon":"-66.88499","lat":"18.48358"}
+,{"region":"HUMACAO","lon":"-65.89179","lat":"18.21698"}
+,{"region":"SAN JUAN","lon":"-66.09346","lat":"18.4155"}
+,{"region":"SAN JUAN","lon":"-66.08736","lat":"18.41638"}
+,{"region":"PONCE","lon":"-66.52275","lat":"18.05349"}
+,{"region":"HUMACAO","lon":"-65.83181","lat":"18.37933"}
+,{"region":"MAYAGUEZ","lon":"-67.14362","lat":"18.08749"}
+,{"region":"HUMACAO","lon":"-65.87902","lat":"18.27123"}
+,{"region":"SAN JUAN","lon":"-65.93524","lat":"18.35311"}
+,{"region":"PONCE","lon":"-66.43702","lat":"17.9842"}
+,{"region":"CAGUAS","lon":"-66.04055","lat":"18.25727"}
+,{"region":"SAN JUAN","lon":"-65.98987","lat":"18.40196"}
+,{"region":"MAYAGUEZ"}
+,{"region":"BAYAMON","lon":"-66.12655","lat":"18.39477"}
+,{"region":"HUMACAO","lon":"-65.64717","lat":"18.33473"}
+,{"region":"CAGUAS","lon":"-66.21326","lat":"17.96832"}
+,{"region":"CAGUAS","lon":"-66.04732","lat":"18.24005"}
+,{"region":"CAGUAS","lon":"-66.03261","lat":"18.24623"}
+,{"region":"HUMACAO","lon":"-65.82777","lat":"18.11886"}
+,{"region":"ARECIBO","lon":"-66.2906","lat":"18.1812"}
+,{"region":"ARECIBO","lon":"-66.46694","lat":"18.42493"}
+,{"region":"HUMACAO","lon":"-65.84094","lat":"18.14719"}
+,{"region":"SAN JUAN","lon":"-65.99807","lat":"18.38"}
+,{"region":"SAN JUAN","lon":"-66.01117","lat":"18.36882"}
+,{"region":"CAGUAS","lon":"-66.30603","lat":"18.18624"}
+,{"region":"CAGUAS","lon":"-66.22944444","lat":"18.18625"}
+,{"region":"HUMACAO","lon":"-65.4513","lat":"18.14139"}
+,{"region":"PONCE","lon":"-66.61032","lat":"18.01103"}
+,{"region":"BAYAMON","lon":"-66.35352","lat":"18.29165"}
+,{"region":"HUMACAO","lon":"-65.85451","lat":"18.36096"}
+,{"region":"SAN JUAN","lon":"-65.9284","lat":"18.36848"}
+,{"region":"MAYAGUEZ","lon":"-67.18501","lat":"18.37625"}
+,{"region":"PONCE","lon":"-66.845207","lat":"18.010869"}
+,{"region":"HUMACAO"}
+,{"region":"MAYAGUEZ"}
+,{"region":"PONCE","lon":"-66.35917","lat":"18.07771"}
+,{"region":"HUMACAO","lon":"-65.7462","lat":"18.24141"}
+,{"region":"HUMACAO","lon":"-65.98414","lat":"18.13669"}
+,{"region":"PONCE","lon":"-66.80246","lat":"18.03552"}
+,{"region":"CAGUAS","lon":"-66.24904","lat":"18.13298"}
+,{"region":"CAGUAS","lon":"-66.11062","lat":"18.0031"}
+,{"region":"PONCE","lon":"-66.72388","lat":"18.16476"}
+,{"region":"BAYAMON","lon":"-66.17162","lat":"18.36303"}
+,{"region":"MAYAGUEZ","lon":"-67.13033","lat":"18.47675"}
+,{"region":"SAN JUAN","lon":"-66.08134","lat":"18.45008"}
+,{"region":"SAN JUAN","lon":"-66.00711","lat":"18.32055"}
+,{"region":"BAYAMON","lon":"-66.12502","lat":"18.43734"}
+,{"region":"MAYAGUEZ","lon":"-67.13742","lat":"18.18695"}
+,{"region":"HUMACAO","lon":"-65.83289","lat":"18.37979"}
+,{"region":"CAGUAS","lon":"-66.24332","lat":"18.06552"}
+,{"region":"MAYAGUEZ","lon":"-67.12905","lat":"18.39809"}
+,{"region":"MAYAGUEZ","lon":"-67.09893","lat":"18.12819"}
+,{"region":"SAN JUAN","lon":"-66.04171","lat":"18.42006"}
+,{"region":"BAYAMON","lon":"-66.18065","lat":"18.3796"}
+,{"region":"ARECIBO","lon":"-66.30981","lat":"18.41734"}
+,{"region":"ARECIBO","lon":"-66.40785","lat":"18.44813"}
+,{"region":"SAN JUAN","lon":"-66.10076","lat":"18.39799"}
+,{"region":"PONCE","lon":"-66.72358","lat":"18.0538"}
+,{"region":"SAN JUAN","lon":"-66.07433","lat":"18.45003"}
+,{"region":"MAYAGUEZ","lon":"-67.12929","lat":"18.20052"}
+,{"region":"SAN JUAN","lon":"-66.10934","lat":"18.35539"}
+,{"region":"HUMACAO","lon":"-65.71711","lat":"18.37759"}
+,{"region":"CAGUAS","lon":"-66.26321","lat":"18.13971"}
+,{"region":"SAN JUAN","lon":"-66.08049","lat":"18.3505"}
+,{"region":"HUMACAO","lon":"-65.77384","lat":"18.36935"}
+,{"region":"SAN JUAN","lon":"-66.09799","lat":"18.3888"}
+,{"region":"HUMACAO","lon":"-66.01258","lat":"18.00472"}
+,{"region":"ARECIBO","lon":"-66.8733","lat":"18.47208"}
+,{"region":"PONCE","lon":"-66.60845","lat":"18.01329"}
+,{"region":"ARECIBO","lon":"-66.94929","lat":"18.45737"}
+,{"region":"BAYAMON","lon":"-66.12443","lat":"18.43641"}
+,{"region":"ARECIBO","lon":"-66.88992","lat":"18.29245"}
+,{"region":"MAYAGUEZ","lon":"-67.1338","lat":"18.02887"}
+,{"region":"MAYAGUEZ","lon":"-67.12281","lat":"18.13634"}
+,{"region":"ARECIBO","lon":"-66.93838","lat":"18.47587"}
+,{"region":"PONCE","lon":"-66.36495","lat":"18.07382"}
+,{"region":"PONCE","lon":"-66.46993","lat":"18.15672"}
+,{"region":"CAGUAS","lon":"-66.16897","lat":"18.25743"}
+,{"region":"MAYAGUEZ","lon":"-66.99661","lat":"18.33988"}
+,{"region":"PONCE","lon":"-66.60203","lat":"18.00711"}
+,{"region":"SAN JUAN","lon":"-66.1029","lat":"18.37666"}
+,{"region":"BAYAMON","lon":"-66.17196","lat":"18.41609"}
+,{"region":"MAYAGUEZ","lon":"-67.07238","lat":"18.0029"}
+,{"region":"PONCE","lon":"-66.75445","lat":"18.06048"}
+,{"region":"HUMACAO","lon":"-65.86987","lat":"18.18197"}
+,{"region":"SAN JUAN","lon":"-66.05088","lat":"18.44957"}
+,{"region":"HUMACAO","lon":"-65.88209","lat":"18.04474"}
+,{"region":"HUMACAO","lon":"-65.6511","lat":"18.32564"}
+,{"region":"BAYAMON","lon":"-66.43418","lat":"18.30338"}
+,{"region":"SAN JUAN","lon":"-66.05112","lat":"18.40036"}
+,{"region":"MAYAGUEZ","lon":"-66.97977","lat":"18.18268"}
+,{"region":"CAGUAS","lon":"-66.14784","lat":"18.16578"}
+,{"region":"SAN JUAN","lon":"-65.97511","lat":"18.42293"}
+,{"region":"SAN JUAN","lon":"-66.08183","lat":"18.39543"}
+,{"region":"SAN JUAN","lon":"-66.04092","lat":"18.39772"}
+,{"region":"CAGUAS","lon":"-66.02877","lat":"18.23495"}
+,{"region":"SAN JUAN","lon":"-66.08149","lat":"18.39462"}
+,{"region":"SAN JUAN","lon":"-66.04992","lat":"18.44994"}
+,{"region":"BAYAMON","lon":"-66.19056","lat":"18.37127"}
+,{"region":"BAYAMON","lon":"-66.19293","lat":"18.36933"}
+,{"region":"ARECIBO","lon":"-66.26681","lat":"18.46326"}
+,{"region":"ARECIBO","lon":"-66.57161","lat":"18.36411"}
+,{"region":"MAYAGUEZ","lon":"-67.0931","lat":"18.22838"}
+,{"region":"MAYAGUEZ","lon":"-67.05932","lat":"18.22724"}
+,{"region":"SAN JUAN","lon":"-65.9802","lat":"18.38162"}
+,{"region":"HUMACAO","lon":"-65.93629","lat":"18.225"}
+,{"region":"PONCE","lon":"-66.60379","lat":"18.02225"}
+,{"region":"CAGUAS","lon":"-66.29565","lat":"17.97648"}
+,{"region":"HUMACAO","lon":"-65.87032","lat":"18.35858"}
+,{"region":"CAGUAS","lon":"-66.04422","lat":"18.21357"}
+,{"region":"HUMACAO","lon":"-65.87623","lat":"18.04398"}
+,{"region":"ARECIBO","lon":"-66.81882","lat":"18.47704"}
+,{"region":"BAYAMON","lon":"-66.26208","lat":"18.26084"}
+,{"region":"ARECIBO","lon":"-66.41196","lat":"18.4804"}
+,{"region":"HUMACAO","lon":"-65.66956","lat":"18.34774"}
+,{"region":"HUMACAO","lon":"-65.91266","lat":"18.05927"}
+,{"region":"SAN JUAN","lon":"-66.11865","lat":"18.433"}
+,{"region":"HUMACAO","lon":"-65.71441","lat":"18.37597"}
+,{"region":"MAYAGUEZ","lon":"-67.00951","lat":"18.03933"}
+,{"region":"BAYAMON","lon":"-66.12798","lat":"18.44205"}
+,{"region":"BAYAMON","lon":"-66.26339","lat":"18.30806"}
+,{"region":"PONCE","lon":"-66.36297","lat":"18.04695"}
+,{"region":"HUMACAO","lon":"-65.82404","lat":"18.15195"}
+,{"region":"CAGUAS","lon":"-66.16267","lat":"18.16772"}
+,{"region":"PONCE","lon":"-66.50303","lat":"18.05122"}
+,{"region":"SAN JUAN","lon":"-65.95964","lat":"18.41931"}
+,{"region":"SAN JUAN","lon":"-66.02642","lat":"18.39787"}
+,{"region":"MAYAGUEZ","lon":"-67.17126","lat":"18.24008"}
+,{"region":"PONCE","lon":"-66.34056","lat":"18.15316"}
+,{"region":"SAN JUAN","lon":"-65.95122","lat":"18.33399"}
+,{"region":"CAGUAS","lon":"-66.15651","lat":"18.11371"}
+,{"region":"MAYAGUEZ","lon":"-67.13191","lat":"18.5025"}
+,{"region":"CAGUAS","lon":"-66.08167","lat":"18.20099"}
+,{"region":"SAN JUAN","lon":"-66.037","lat":"18.39364"}
+,{"region":"SAN JUAN","lon":"-66.00428","lat":"18.39359"}
+,{"region":"PONCE","lon":"-66.64385","lat":"18.15741"}
+,{"region":"ARECIBO","lon":"-66.38282","lat":"18.45529"}
+,{"region":"SAN JUAN","lon":"-66.13491","lat":"18.37089"}
+,{"region":"PONCE","lon":"-66.60784","lat":"18.03116"}
+,{"region":"HUMACAO","lon":"-65.64617","lat":"18.26489"}
+,{"region":"SAN JUAN","lon":"-66.03485","lat":"18.42162"}
+,{"region":"SAN JUAN","lon":"-66.0587","lat":"18.43491"}
+,{"region":"SAN JUAN","lon":"-66.10136","lat":"18.38041"}
+,{"region":"PONCE","lon":"-66.8483","lat":"18.03154"}
+,{"region":"HUMACAO","lon":"-65.87413","lat":"18.17193"}
+,{"region":"MAYAGUEZ","lon":"-67.18523","lat":"17.98145"}
+,{"region":"MAYAGUEZ","lon":"-67.18775","lat":"18.08519"}
+,{"region":"MAYAGUEZ","lon":"-67.12627","lat":"18.13867"}
+,{"region":"MAYAGUEZ","lon":"-67.15433","lat":"18.19461"}
+,{"region":"SAN JUAN","lon":"-66.07716","lat":"18.45002"}
+,{"region":"MAYAGUEZ","lon":"-67.15245","lat":"18.0869"}
+,{"region":"BAYAMON","lon":"-66.22565","lat":"18.32214"}
+,{"region":"CAGUAS","lon":"-66.11867","lat":"17.98261"}
+,{"region":"CAGUAS","lon":"-66.29105","lat":"18.21153"}
+,{"region":"SAN JUAN","lon":"-66.04169","lat":"18.43048"}
+,{"region":"PONCE","lon":"-66.60445","lat":"17.97787"}
+,{"region":"SAN JUAN","lon":"-66.06068","lat":"18.40382"}
+,{"region":"CAGUAS","lon":"-66.29647","lat":"17.9731"}
+,{"region":"MAYAGUEZ","lon":"-67.1178","lat":"18.44374"}
+,{"region":"ARECIBO","lon":"-66.36765","lat":"18.40873"}
+,{"region":"BAYAMON","lon":"-66.26702","lat":"18.32437"}
+,{"region":"HUMACAO","lon":"-65.75979","lat":"18.161"}
+,{"region":"MAYAGUEZ","lon":"-67.1453","lat":"18.14859"}
+,{"region":"BAYAMON","lon":"-66.40214","lat":"18.18472"}
+,{"region":"BAYAMON","lon":"-66.35607","lat":"18.21376"}
+,{"region":"HUMACAO","lon":"-65.8468","lat":"18.08559"}
+,{"region":"ARECIBO","lon":"-66.85241","lat":"18.26961"}
+,{"region":"PONCE","lon":"-66.57882","lat":"18.26075"}
+,{"region":"MAYAGUEZ","lon":"-67.13108","lat":"18.08766"}
+,{"region":"PONCE","lon":"-66.62139","lat":"18.19782"}
+,{"region":"MAYAGUEZ","lon":"-67.06754","lat":"18.44316"}
+,{"region":"HUMACAO","lon":"-65.84665","lat":"18.03649"}
+,{"region":"ARECIBO","lon":"-66.60302","lat":"18.40143"}
+,{"region":"CAGUAS","lon":"-66.16217","lat":"18.23688"}
+,{"region":"MAYAGUEZ","lon":"-67.03254","lat":"18.36094"}
+,{"region":"BAYAMON","lon":"-66.43287","lat":"18.17448"}
+,{"region":"BAYAMON","lon":"-66.36643","lat":"18.24139"}
+,{"region":"BAYAMON","lon":"-66.18746","lat":"18.32943"}
+,{"region":"HUMACAO","lon":"-65.95272","lat":"18.15569"}
+,{"region":"MAYAGUEZ","lon":"-67.00415","lat":"18.37601"}
+,{"region":"MAYAGUEZ","lon":"-67.16659","lat":"18.02859"}
+,{"region":"CAGUAS","lon":"-66.23225","lat":"18.15173"}
+,{"region":"CAGUAS","lon":"-66.10755","lat":"18.1943"}
+,{"region":"HUMACAO","lon":"-65.88013","lat":"18.23526"}
+,{"region":"HUMACAO","lon":"-65.82759","lat":"18.18203"}
+,{"region":"MAYAGUEZ","lon":"-67.07765","lat":"18.40246"}
+,{"region":"MAYAGUEZ","lon":"-66.93959","lat":"18.03966"}
+,{"region":"BAYAMON","lon":"-66.41504","lat":"18.30393"}
+,{"region":"BAYAMON","lon":"-66.34011","lat":"18.26875"}
+,{"region":"SAN JUAN","lon":"-66.09256","lat":"18.34729"}
+,{"region":"PONCE"}
+,{"region":"ARECIBO","lon":"-66.69891","lat":"18.40842"}]
